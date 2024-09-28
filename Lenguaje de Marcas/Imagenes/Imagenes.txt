@@ -1,0 +1,9 @@
+Misma carpeta: src="imagen.jpg"
+S
+ubcarpeta: src="imagenes/imagen.jpg"
+
+Subir un nivel: src="../imagen.jpg"
+
+Subir varios niveles: src="../../imagen.jpg"
+
+Otras carpetas: src="../imagenes/imagen.jpg"

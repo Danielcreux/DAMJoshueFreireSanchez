@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="es">
+    <head>
+       <title>Aprendiendo Javascript</title>
+       <meta charset="utf-8">
+       <script>
+        fetch("http://127.0.0.1:5000")  //Nos conectamos a python
+        .then(function(response){       //cuando el servidor me de ok
+            return response.json()      //Quiero avisar que la respuesta viene en json
+        })
+        .then(function(datos){          // Cuando la respuesta ha sido identificado como json
+            consolo.log(datos)          //De momento información en la consola
+        })
+       </script>
+    </body>
+</html>

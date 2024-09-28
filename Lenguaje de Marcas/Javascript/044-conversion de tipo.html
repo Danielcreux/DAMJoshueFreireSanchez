@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charsert="utf-8">
+    </head>
+    <body>
+        <input id="operando1">
+        <input id="operando1">
+        <button>Calcula!</button>
+        <div id = "resultado" ></div>
+        <script>
+            var boton = document.querySelector("button")                     //Con esto seleccionamos el boton
+            boton.onclick = function(){                                      //cuando sobre el boton haga click
+                var op1 = document.querySelector("#operando1")               //selecciona el input1
+                var valor1 = op1.value                                       //y tomo su valor
+                var op2 = document.querySelector("#operando2")               //selecciona el input2
+                var valor2 = op2.value                                       //y tomo su valor 
+                valor1 = parseInt(valor1)
+                valor2 = parseInt(valor2)
+                var resultado = valor1+valor2
+                document.querySelector("#resultado").textContent = resultado
+            }
+         
+        </script>
+    </body>
+</html>

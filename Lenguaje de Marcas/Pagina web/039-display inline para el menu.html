@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>LA WEB DE JOSHUE</title>
+        <meta charset="utf-8">
+        <style>
+            body{
+                color:indigo;
+                background:aliceblue;
+            }
+            header,main,footer{
+                width:800px; 
+                margin:auto;
+            }
+            #inicio img{
+                width: 1000px;
+            }
+            header,h3{
+                text-align:center;
+            }
+            p{
+                text-align:justify;
+            }
+            nav ul{
+                list-style-type:none;
+                padding:opx;
+            }
+            nav ul li{
+                display:inline-block;
+                padding:10px;
+            }
+            nav ul li a{
+                text-decoration:none;
+                color:inherit;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>La web de Joshue Daniel</h1>
+            <h2>Programador,Diseñador</h2>
+            <nav>
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#quiensoy">Quien soy</a></li>
+                    <li><a href="#proximoscursos">Próximos cursos</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="inicio">
+                <h3>Inicios</h3>
+                <picture>
+                     <!--Este atributo lazy hace que las imágenes se carguen de manera diferida-->
+                     <!--Style Hace que la imagen sea flexible y se ajuste al tamaño del contenedor-->
+                    <img src="../Imagenes/Presentacion.JPG"
+                         alt ="Imagen de presentacion"
+                         loading = "lazy"  
+                         style="max-width:100%; height:auto;" >  
+                </picture>
+            </section>
+
+            <section id="quiensoy">
+                <h3>Quién soy</h3>
+                <picture>
+                    <img src="../Imagenes/Press.jpg"
+                         alt ="Joshue"> 
+                </picture>
+                 <p>Estudiante de fp superior de desarrollo de aplicaciones multiplataforma </p>
+            </section>
+            
+            <section id="proximoscursos">
+                <h3>Próximos cursos</h3>
+                <table border=1>
+                    <thead>
+                        <tr>
+                            <th>Inicio del curso</th>
+                            <th>Nombre del curso</th>
+                            <th>Duración</th>
+                            <th>Donde se imparte</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2024-09-17</td>
+                            <td>Curso de html</td>
+                            <td>25 horas</td>
+                            <td>Centro 1</td>
+                        </tr>
+                        <tr>
+                            <td>2024-09-19</td>
+                            <td>Curso de CSS</td>
+                            <td>25 horas</td>
+                            <td>Centro 1</td>
+                        </tr>
+                        <tr>
+                            <td>2024-09-21</td>
+                            <td>Curso de Javascript</td>
+                            <td>25 horas</td>
+                            <td>Centro 1</td>
+                        </tr>
+                 
+                    </tbody>
+                </table>
+            </section>
+            <section id="blog">
+                <h3>Blog</h3>
+                <article>
+                    <h4>Titulo del articulo</h4>
+                    <time>2024-09-17</time>
+                    <p>Contenido básico del articulo que voy a publicar</p>
+                </article>
+                <article>
+                    <h4>Titulo del articulo</h4>
+                    <time>2024-09-17</time>
+                    <p>Contenido básico del articulo que voy a publicar</p>
+                </article>
+                <article>
+                    <h4>Titulo del articulo</h4>
+                    <time>2024-09-17</time>
+                    <p>Contenido básico del articulo que voy a publicar</p>
+                </article>
+            </section>
+            <section id="contacto">
+                <h3>Contacto</h3>
+                <form>
+                    <fieldset>
+                    <legend>Envia tu mensaje</legend>
+                    <label for="nombre">Introduce tu nombre</label>
+                    <input type="text" name="nombre" id="nombre">
+                </form>
+                <form>
+                    <label for="Email">Introduce tu email</label>
+                    <input type="text" name="email" id="email">
+                </form>
+                <form>
+                    <label for="Mensaje">Introduce tu mensaje</label>
+                    <textarea  id="text" name="mensaje"></textarea>
+                    <input type="submit">
+                </fieldset>
+                </form>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12322.580809355906!2d-0.38425380000000003!3d39.4547505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2ses!4v1726947999297!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></>"
+            </section>
+        </main>
+        <footer>
+            <ul>
+               <li><a href="politica.html">Politica de privacidad</a></li>
+               <li><a href="terminos.html">Términos de uso</a></li>
+               <li><a href="datos.html">Protección de datos</a></li>
+               <li><a href="cookies.html">Politica de pcookies</a></li>
+            </ul>
+
+            <ul>
+                <li><a href="https://www.facebook.com/jX.XDani/">Facebook</a></li>
+                <li><a href="https://www.instagram.com/joshuedanielx_x/">Instagram</a></li>
+                <li><a href="https://www.youtube.com/@joshuedaniel7162">Youtube</a></li>
+                <li><a href="https://github.com/Danielcreux">Git Hub</a></li>
+             </ul>
+        </footer>
+
+    </body> 
+
+</html>
+    

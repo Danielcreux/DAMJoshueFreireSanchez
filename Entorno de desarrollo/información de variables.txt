@@ -1,0 +1,12 @@
+Clone- Clono el repositorio remoto en mi propio ordenador
+commit - guardo un punto de recuperación
+Push - Subo los commits al servidor principal
+Pull --Estirar los cambios y me los bajo a mi servidor
+
+DAMNombreApellidos
+      Primero
+           Bases de datos
+           lenguajes de marcas
+          programación
+clonar en el ordenador
+

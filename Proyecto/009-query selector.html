@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Blog</title>
+        <meta charset="utf-8">
+        <style>
+            body{background: darkcyan;}
+            header,main,footer{padding:20px;margin:auto;background:while;width:800px;
+            }
+            article{
+                background: lightcyan;text-align: center;
+                box-sizing:border-box;padding:70px;margin:70px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+           <h1>Blog</h1>
+           <h2>El blog de Joshue Freire</h2>
+        </header>
+        <main>
+            <section>
+                <article>
+                    <h3>Este es mi articulo</h3>
+                    <time> 2024-09-26</time>
+                    <p>Este es el contenido de mi articulo</p>
+                </article>
+            </section>
+        </main>
+        <footer>
+            (c) 2024 Joshue Freire 
+        </footer>
+        <script>
+            fetch("http://127.0.0.1:5000")
+            .then(function(response){
+                return response.json();
+            })
+            .then(function(entradas){
+                console.log(entradas)
+                entradas.forEach(function(entrada){
+                    let seccion = document.querySelector("section")
+                    seccion.innerHTML += `  
+                    <article>
+                        <h3>`+entrada.titulo+`</h3>
+                        <time>`+entrada.titulo+`</time>
+                        <p>`+entrada.contenido+`</p>
+                    </artcile>
+                    `
+                                      
+                 })
+            })
+        </script>
+    </body>
+</html>

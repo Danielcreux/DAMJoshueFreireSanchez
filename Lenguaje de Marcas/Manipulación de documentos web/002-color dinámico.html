@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charsert="utf-8">
+    </head>
+    <body>
+        <div id="contenedor">
+            <h1>Esto es un titulo</h1>
+        </div>
+        <input id="color" type="color">
+        <script>
+            var titulo = document.querySelector("h1")       //Selecciona el titulo
+            titulo.style.color = "red" 
+            titulo.style.botderBottom = "1px solid black"
+            titulo.style.fonFamily = "sans-serif" 
+            
+            document.querySelector("input").onchange = function(){    //cuando cambie el color 
+                titulo.style.color = this.value          //Asigna el color al titulo
+            }
+            
+        </script>
+    </body>
+</html>

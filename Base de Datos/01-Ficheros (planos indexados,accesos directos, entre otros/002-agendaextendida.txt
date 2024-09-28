@@ -1,0 +1,10 @@
+Cliente1:
+Nombre: Juan 
+Apellidos: Lopez
+Teléfono: 535435
+email: juan@lopez.com
+Cliente2:
+Nombre: Javier 
+Apellidos: Martinez
+Teléfono: 965858
+email: javier@martinez.com

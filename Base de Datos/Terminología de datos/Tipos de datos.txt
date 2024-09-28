@@ -1,0 +1,45 @@
+4 tipos principales
+
+VARCHAR - cadena de caracter corto
+TEXT - cadena de careacter largo
+INT - numeros (4bytes)
+DATE - fecha
+TINYINT --Maximo es 55 valor numerico puede ser edad de una persona (ocupa 1 byte)
+BIGINT (8BYTES
+DECIMAL
+FLOAT
+DOUBLE
+REAL
+BIT (1 BIT)
+BOOLEAN (1 BIT) 
+
+Fechas 
+DATE YYY/MM/SS
+DATETIME YYY/MM/SS -HH:MM:SS
+TIMESTAMP Segundos que han pasado desde el 1 de enero de 1970
+TIME HH:MM:SS
+YEAR YYYY
+
+CHAR
+VARCHAR
+TINYTEXT
+TEXT
+MEDIUMTEXT
+LONGTEXT
+BINARY
+VARBINARY
+
+PARA FOTOS O ARCHIVO EN TU BASE (BLOB ES ARCHIVO BINARIO)
+TINYBLOB (255BYTE)
+BLOB 64KB
+MEDIUMBLOB 16 MB
+LONGBLOB hasta 4GB
+
+ENUM Lista de posibilidades
+SET-Conjunto de datos 
+
+GEOMETRY -TIENE SOPORTE DE GEMEOTRIA BIDIMENSIONAL
+
+JSON
+
+	
