@@ -4,7 +4,7 @@
 '''
 
 # Introducción/presentación 
-NOMBRE_DEL_PROGRAMA = " Programa calculadora")
+NOMBRE_DEL_PROGRAMA = " Programa calculadora"
 VERSION = "0.1"
 AUTOR = "JOSHUE FREIRE SANCHEZ"
 print("NOMBRE_DEL_PROGRAMA,VERSION,AUTOR")
