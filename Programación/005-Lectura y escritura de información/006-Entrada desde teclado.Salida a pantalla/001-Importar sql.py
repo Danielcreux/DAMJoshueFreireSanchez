@@ -6,9 +6,3 @@ usuario = "miempresa"
 contrasena = "miempresa"
 base_de_datos = "miempresa"
 
-conexion = mysql.connector.connect(
-    host=servidor,
-    database=base_de_datos,
-    user=usuario,
-    password=contrasena
-)

@@ -17,5 +17,5 @@ peticion = "SELECT * FROM clientes;"        #Preparo una petición
 
 cursor = conexion.cursor()                  #Una petición en Python requiere un cursor
 
-cursos.execute(peticion)                    #En el cursor, ejecuto la peticion que he dejado preparado arriba
+cursor.execute(peticion)                    #En el cursor, ejecuto la peticion que he dejado preparado arriba
 filas = cursor.fetchall()                   #En una variable llamadas filas , almaceno los resutados 
