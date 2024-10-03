@@ -5,12 +5,15 @@
 import platform
 import os
 
-if platform.system() == "Windows":
-    os.system("cls")
-else:
-    os.system("clear")
+def limpiaPantalla():
+    if platform.system() == "Windows":
+        os.system("cls")
+    else:
+        os.system("clear")
 
+limpiaPantalla()
 print("Programa agenda (c) 2024 Joshue Freire")
+
 agenda = []
 
 
@@ -41,3 +44,5 @@ while(True):
             print("apellidos:",registro[1])
             print("email:",registro[2])
             print("telefono:",registro[3])
+            print("####################")
+            input("Pulsa una tecla para continuar...")

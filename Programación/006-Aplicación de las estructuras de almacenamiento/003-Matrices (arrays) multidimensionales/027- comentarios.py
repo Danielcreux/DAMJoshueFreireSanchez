@@ -1,6 +1,6 @@
 '''
     Programa agenda con colecciones bidimensionales
-    (c) 2024 Jose Vicente Carratalá
+    (c) 2024 Joshué Freire
 '''
 
 import platform                                                             # Importo la libreria plataforma para poder detectar en que navegador estoy
@@ -23,23 +23,23 @@ while(True):                                                                # en
     print("1.-Insertar un nuevo registro")
     print("2.-Listar los registros")
     print("3.-Eliminar un registro")
-    selecciona_opcion = input("Selecciona una de las opciones:")            # Le permito al usuario escoger su opcion
+    opcion = input("Selecciona una de las opciones:")                       # Le permito al usuario escoger su opcion
     
     limpiaPantalla()                                                        # Limpio la pantalla como para pasar a una nueva pantalla
-    print("La opcion que has escogido es:",selecciona_opcion)
+    print("La opcion que has escogido es:",opcion)
 
-    if selecciona_opcion == "1":                                            # En el caso de que el usuario haya escogido la opcion 1
+    if opcion == "1":                                                       # En el caso de que el usuario haya escogido la opcion 1
         print("Vamos a insertar un registro")                               # Le informo de la operacion que se va a realizar
         nombre = input("\033[32mIntroduce tu nombre:\033[0m")               # Le pido una serie de datos que introduzco en inputs
         apellidos = input("\033[32mIntroduce tus apellidos:\033[0m")
         email = input("\033[32mIntroduce tu email:\033[0m")
         telefono = input("\033[32mIntroduce tu teléfono:\033[0m")
         agenda.append([nombre,apellidos,email,telefono])                    # Y esto es muy importante porque añado esos datos a la agenda, aqui aumento la memoria RAM consumida
-    elif selecciona_opcion == "2":                                          # En el caso de que el usuario haya escogido la opcion 2
+    elif opcion == "2":                                                     # En el caso de que el usuario haya escogido la opcion 2
         contador = 0                                                        # creo un contador y le doy un valor inicial de cero
         print("Vamos a leer registros")                                     # Aviso al usuario de que los registros van a ser leidos
         for registro in agenda:                                             # Para cada uno de los registros que esten contenidos en la agenda
-            #print("######################")                                 # imprimo una barra estetica
+            #print("######################")                                # imprimo una barra estetica
             print("Registro numero",contador,"---------------")             # Indico el numero de registro usando el contador
             print("\033[31mnombre:\t\t\033[0m",registro[0])                 # Imprimo el nombre, que es el elemento 0 de la lista
             print("\033[32mapellidos:\t\033[0m",registro[1])                # imprimo los apellidos que son el elemento 1 de la lista
@@ -48,12 +48,12 @@ while(True):                                                                # en
             contador += 1                                                   # Le sumo un valor al contador usando un operador aritmetico abreviado
         print("######################")                                     # imprimo una barra estetica
         input("Pulsa una tecla para continuar...")                          # paro la ejecucion para que no se me borre la pantalla por accidente
-    elif selecciona_opcion == "3":                                          # en el caso de que el usuario haya escogido la opcion
+    elif opcion == "3":                                                      # en el caso de que el usuario haya escogido la opcion
         limpiaPantalla()                                                    # borro la pantalla
         print("Vamos a eliminar un registro")                               # le aviso al usuario de la operacion que se va a realizar
-        opcion = input("Introduce el numero de registro que quieres eliminar:") # Le permito al usuario introducir el numero de regisro que va a eliminar
-        opcion = int(opcion)                                                # como la entrada es un string, lo convierto a numero entero
-        agenda.pop(opcion)                                                  # elimino ese registro de la agenda (aqui estoy vaciando la RAM)
+        opciones = input("Introduce el numero de registro que quieres eliminar:") # Le permito al usuario introducir el numero de regisro que va a eliminar
+        opciones = int(opciones)                                                # como la entrada es un string, lo convierto a numero entero
+        agenda.pop(opciones)                                                  # elimino ese registro de la agenda (aqui estoy vaciando la RAM)
         input("Pulsa una tecla para volver al menu principal...")           # pulsa una tecla para no borrar la pantalla por accidente
             
 

@@ -2,28 +2,15 @@
      Programa agenda con colecciones bidimensionales
      (C) 2024 Joshue Freire
 '''
-import platform
-import os
-
-if platform.system() == "Windows":
-    os.system("cls")
-else:
-    os.system("clear")
 
 print("Programa agenda (c) 2024 Joshue Freire")
 agenda = []
-
 
 while(True):
     print("Selecciona una de las siguientes opciones")
     print("1-Insertar un nuevo registro")
     print("2-Listar los registros")
     opcion = input("Selecciona unas de las opciones:")
-
-    if platform.system() == "Windows":
-        os.system("cls")
-    else:
-        os.system("clear")
 
     print("la opcion que has escogido es:",opcion)
 
@@ -42,3 +29,4 @@ while(True):
             print("apellidos:",registro[1])
             print("email:",registro[2])
             print("telefono:",registro[3])
+            print("####################")

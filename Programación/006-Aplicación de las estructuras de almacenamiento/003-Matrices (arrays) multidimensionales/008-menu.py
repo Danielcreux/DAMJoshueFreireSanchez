@@ -1,9 +1,9 @@
 '''
     Programa agenda con colecciones bidimensionales
-    (c) 2024 Jose Vicente Carratalá
+    (c) 2024 Joshue Freire
 '''
 
-print("Programa agenda (c) 2024 Jose Vicente Carratalá")
+print("Programa agenda (c) 2024 Joshue Freire")
 
 print("Selecciona una de las siguientes opciones")
 print("1.-Insertar un nuevo registro")

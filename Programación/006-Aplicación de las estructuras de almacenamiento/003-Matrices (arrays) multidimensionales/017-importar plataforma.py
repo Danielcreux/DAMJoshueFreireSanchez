@@ -4,7 +4,7 @@
 '''
 import platform
 
-print(platform.system)
+print(platform.system())
 
 print("Programa agenda (c) 2024 Joshue Freire")
 agenda = []

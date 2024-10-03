@@ -1,12 +1,6 @@
-agenda = [
-    ['Jose vicente','Daniel','info@jopb.com','678997'],
-    ['Jose Luis','Hurtado','info@jobestio.com','987655'],
- ]
-print(agenda)
+'''
+    Programa agenda con colecciones bidimensionales
+    (c) 2024 Joshué Freire
+'''
 
-for registro in agenda:
-    print("################################")
-    print("Tu nombre es:",registro[0])
-    print("Tu apellido es:",registro[1])
-    print("Tu email es:",registro[2])
-    print("Tu telefono es:",registro[3])
+print("Programa agenda (c) 2024 Joshué Freire")

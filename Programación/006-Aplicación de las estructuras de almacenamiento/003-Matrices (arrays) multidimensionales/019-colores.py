@@ -40,3 +40,5 @@ while(True):
             print("apellidos:",registro[1])
             print("email:",registro[2])
             print("telefono:",registro[3])
+            print("####################")
+            input("Pulsa una tecla para continuar...")

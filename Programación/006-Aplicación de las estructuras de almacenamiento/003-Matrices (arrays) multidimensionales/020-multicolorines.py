@@ -36,7 +36,9 @@ while(True):
         print("Vamos a leer registros")
         for registro in agenda:
             print("###################")
-            print("\033[32mnombre:\t\t\033[0m",registro[0])
+            print("\033[31mnombre:\t\t\033[0m",registro[0])
             print("\033[32mapellidos:\t\033[0m",registro[1])
-            print("\033[32memail:\t\t\033[0m",registro[2])
-            print("\033[32mtelefono:\t\033[0m",registro[3])
+            print("\033[33memail:\t\t\033[0m",registro[2])
+            print("\033[34mtelefono:\t\033[0m",registro[3])
+            print("####################")
+            input("Pulsa una tecla para continuar...")
