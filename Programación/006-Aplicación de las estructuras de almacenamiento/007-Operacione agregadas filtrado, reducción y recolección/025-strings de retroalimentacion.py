@@ -28,7 +28,7 @@ while True:
         print("Vamos a insertar un registro")
         
         nombre = input("Introduce un nuevo nombre:")
-        apellido = input("Introduce un nuevo apellidos:")
+        apellidos = input("Introduce nuevo apellidos:")
         email = input("Introduce un nuevo email:")
         direccion = input("Introduce una nueva direccion:")
 
@@ -37,14 +37,17 @@ while True:
         VALUES (
             NULL,
             "{nombre}",
-            "{apellido}",
+            "{apellidos}",
             "{email}",
             "{direccion}"
                 
             );
         ''')                                                        
 
-        conexion.commit()     
+        conexion.commit()
+
+        print("Tu registro se ha insertado correctamente")
+        input("Pulsa una tecla para continuar.....")
         
     elif opcion == "2":
         print("Vamos a listar los registros")
@@ -57,11 +60,16 @@ while True:
         for fila in filas:
             print (fila)
 
+        print("Listado correctamente devuelto")
+        input("Pulsa una tecla para continuar.....")
+
     elif opcion == "3":
         print("Vamos a actualizar los registros")
 
+        identificador = input("Indica el registro que quieres actualizar (id):")
+
         nombre = input("Introduce un nuevo nombre:")
-        apellido = input("Introduce un nuevo apellidos:")
+        apellidos = input("Introduce nuevos apellidos:")
         email = input("Introduce un nuevo email:")
         direccion = input("Introduce una nueva direccion:")
 
@@ -70,15 +78,19 @@ while True:
             SET
             nombre = '{nombre}',
             apellidos = '{apellidos}',
-            email = '{email}'.
+            email = '{email}',
             direccion = '{direccion}'
             WHERE Identificador = {identificador};
         ''')
 
         conexion.commit()
+
+        print("Actualización correcta")
+        input("Pulsa una tecla para continuar.....")
         
     elif opcion == "4":
         print("Vamos a eliminar un registro")
+        
         identificador = input("Indica el registro que quieres eliminar (id):")
 
         cursor.execute(f'''
@@ -86,6 +98,9 @@ while True:
         WHERE Identificador = {identificador};
         ''')
 
-    conexion.commit() 
+        conexion.commit()
+
+        print("Eliminación correcta")
+        input("Pulsa una tecla para continuar.....")
 
 conexion.close()

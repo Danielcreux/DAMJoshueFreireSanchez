@@ -28,7 +28,7 @@ while True:
         print("Vamos a insertar un registro")
         
         nombre = input("Introduce un nuevo nombre:")
-        apellido = input("Introduce un nuevo apellidos:")
+        apellidos = input("Introduce nuevo apellidos:")
         email = input("Introduce un nuevo email:")
         direccion = input("Introduce una nueva direccion:")
 
@@ -37,7 +37,7 @@ while True:
         VALUES (
             NULL,
             "{nombre}",
-            "{apellido}",
+            "{apellidos}",
             "{email}",
             "{direccion}"
                 
@@ -60,8 +60,10 @@ while True:
     elif opcion == "3":
         print("Vamos a actualizar los registros")
 
+        identificador = input("Indica el registro que quieres actualizar (id):")
+
         nombre = input("Introduce un nuevo nombre:")
-        apellido = input("Introduce un nuevo apellidos:")
+        apellidos = input("Introduce nuevos apellidos:")
         email = input("Introduce un nuevo email:")
         direccion = input("Introduce una nueva direccion:")
 
@@ -70,7 +72,7 @@ while True:
             SET
             nombre = '{nombre}',
             apellidos = '{apellidos}',
-            email = '{email}'.
+            email = '{email}',
             direccion = '{direccion}'
             WHERE Identificador = {identificador};
         ''')
@@ -79,6 +81,7 @@ while True:
         
     elif opcion == "4":
         print("Vamos a eliminar un registro")
+        
         identificador = input("Indica el registro que quieres eliminar (id):")
 
         cursor.execute(f'''
@@ -86,6 +89,6 @@ while True:
         WHERE Identificador = {identificador};
         ''')
 
-    conexion.commit() 
+        conexion.commit() 
 
 conexion.close()
