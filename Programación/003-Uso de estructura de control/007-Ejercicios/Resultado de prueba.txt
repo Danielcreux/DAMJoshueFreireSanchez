@@ -1,0 +1,6 @@
+Python 3.12.6= 14,35 S
+Javascript Chrome = 5,7 S
+C gcc= 0,79 S
+NodeJson = 5,68 S	
+C++ g++ = 1,06 S
+Php: 1,59 S	
