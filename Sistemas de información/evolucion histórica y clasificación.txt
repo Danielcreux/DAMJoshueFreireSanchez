@@ -1,0 +1,16 @@
+Python:
+-Muy Fácil de aprender y usar(comparativamente)
+          -abrir el acceso a la programación a usuarios de muchos campos
+-Rendimiento muy pobre
+          -Esa falta de potencia se suple con equipos muy potentes
+-Desarrollo muy consistente
+          -Genera confianza con respecto al futuro
+-Multiparadigma:
+          -Programa como tu quieras
+
+Java:(1995) por Sun Microsystems en 2010 la adquirió Oracle
+-Razonablemente sencillo de aprender
+         -Abre el acceso a un número razonable de profesionales
+-Rendimiento excelente
+         -Apto para proyectos de alto calibre
+-Evolución histórica ha sido catastrófica 

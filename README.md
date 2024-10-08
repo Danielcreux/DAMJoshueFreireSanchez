@@ -1,2 +1,0 @@
-# DAMJoshueFreireSanchez
-Primer curso 
