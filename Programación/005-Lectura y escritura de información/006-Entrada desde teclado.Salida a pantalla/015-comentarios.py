@@ -24,6 +24,7 @@ def inicio():                                       # Defino una funcion - se pu
     cursor.execute(peticion)                        # En el cursor, ejecuto la petición que he dejado preparada arriba
     filas = cursor.fetchall()                       # En una variable llamadas filas, almaceno los resultados que me da la base de datos
     contenido = []                                  # Creo una lista vacía donde pondré a los clientes
+
     for fila in filas:                              # Como filas representa a todas las filas, yo quiero coger una a una
         contenido.append(fila)                      # Utilizando el comando append añado cada uno de los elementos a la lista
     return contenido                                # Lanzo el contenido al navegador web          

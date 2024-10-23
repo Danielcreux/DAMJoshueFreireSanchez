@@ -34,4 +34,4 @@ cliente1 = Cliente(
 print(cliente1.getNombre())
 cliente1.setNombre("Juan")
 print(cliente1.getNombre())
-        
+

@@ -7,9 +7,11 @@ import mysql.connector
 
 servidor = "localhost"
 usuario ="miempresa"
+contrasena ="miempresa"
+base_de_datos="miempresa"
 
 
-conexion = mysql.connector.conect(
+conexion = mysql.connector.connect(
     host=servidor,
     database=base_de_datos,
     user=usuario,
@@ -38,8 +40,8 @@ while True:
         apellidos = input("introduce los nuevos apellidos:")
         email = input("Introduce el email:")
         poblacion = input("Introduce la población:")
-        fecha de nacimiento = input("Introduce la fecha de nacimiento")
-        peticion = "INSERT INTO clientes VALUE (NULL,"+nombre+","apellidos+","+email+","+poblacion+","+fechadenacimiento+");"
+        fechadenacimiento = input("Introduce la fecha de nacimiento")
+        peticion = "INSERT INTO clientes VALUE (NULL,'"+nombre+"','"+apellidos+"','"+email+"','"+poblacion+"','"+fechadenacimiento+"');"
         cursor = conexion.cursor()
         cursor.execute(peticion)
         conexion.commit()
@@ -53,12 +55,12 @@ while True:
         filas = cursor.fetchall()
         for fila in filas:
             print("##################")
-            print("El identificador es:"fila[0])
-            print("El nombre es:"fila[1])
-            print("El apellido es:"fila[2])
-            print("El email es:"fila[3])
-            print("La localidad es:"fila[4])
-            print("La fecha de nacimiento es:"fila[5])
+            print("El identificador es:",fila[0])
+            print("El nombre es:",fila[1])
+            print("El apellido es:",fila[2])
+            print("El email es:",fila[3])
+            print("La localidad es:",fila[4])
+            print("La fecha de nacimiento es:",fila[5])
              
             
     elif opcion == "3":
@@ -68,7 +70,7 @@ while True:
         apellidos = input("Introduce los nuevos apellidos:")
         email = input("Introduce el email:")
         poblacion = input("Introduce la población:")
-        fecha de nacimiento = input("Introduce la fecha de nacimiento")
+        fechadenacimiento = input("Introduce la fecha de nacimiento:")
         peticion = """
                 UPDATE clientes
                 SET
@@ -76,9 +78,10 @@ while True:
                 apellidos = '"""+apellidos+"""',
                 email = '"""+email+"""',
                 poblacion = '"""+poblacion+"""',
-                fecha de nacimiento = '"""+fechadenacimiento"""',
-                WHERE Identificador = '"""+identificador+"""',
-                ;"""
+                fechadenacimiento = '"""+fechadenacimiento+"""'
+                WHERE Identificador = """+identificador+"""
+          ;"""
+        
         cursor = conexion.cursor()
         cursor.execute(peticion)
         conexion.commit()

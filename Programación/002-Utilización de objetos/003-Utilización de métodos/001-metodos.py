@@ -1,8 +1,8 @@
 class Gato:
-    def _int_(self):
+    def __init__(self):
         self.altura = None
         self.edad = None
-        sel.peso = None
+        self.peso = None
         
     def maulla(self):
         print("Miau Miau")

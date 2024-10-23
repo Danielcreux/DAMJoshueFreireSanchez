@@ -1,0 +1,63 @@
+<!doctype hmtl>
+<hmtl>
+    <head lang="es">
+        <titlle>CRUD</titlle>
+        <meta Charset="UTF-8">
+        <style>
+            #listado{
+                width:500px;
+                height:1000px;
+                border:1px solid grey;
+
+            }
+        </style>
+      <body>
+        <h3>Insertar un nuevo cliente</h3>
+        <input id="nombre" placeholder="nombre">
+        <input id="apellidos" placeholder="apellidos">
+        <input id="email" placeholder="email">
+        <button id="guardar">Guardar</button> 
+        <h3>Obtener un listado de clientes</h3>
+        <button id="leer">Obtener lsitado</button>
+        <div id="listado"></div>
+        <script>
+
+            ///////////////////////////Declaración de variables globales/////////////////
+           
+            var coleccion = []
+
+            ///////////////////////////Acción del botón del guardar/////////////////
+
+            let boton=document.querySelector("#guardar")      //Selecciono el elemento que tiene ID guardar
+            boton.onclick = function(){                       //Cuando haga click en el button
+                console.log("Has hecho click en el boton")    //Pongo un mensaje de depuración de-bug
+                let nombre = document.querySelector("#nombre").value    //Recojo el valor del elemento cuyo valor id es nombre
+                let apellidos = document.querySelector("#apellidos").value  //Recojo el valor del elemento cuyo valor id es apellidos
+                let email = document.querySelector("#email").value          //Recojo el valor del elemento cuyo valor id es email
+                console.log(nombre,apellidos,email)                         //Imprime por pantallael valor recogido
+                let objeto ={"nombre":nombre,"apellidos":apellidos,"email":email}  //creo un objeto el cual estructura mejor la información
+                console.log(objeto)                         //Lanzo el objeto por consola
+                coleccion.push(objeto)                       //inserto al final un elemento más a la colección
+                console.log(coleccion)                      //Lanzo a la consola para comprobar que no estoy perdiendo nada
+            }
+
+            ///////////////////////////Acción del botón listar/////////////////
+
+            let botonlistar=document.querySelector("#leer")      //Selecciono el elemento que tiene ID guardar
+            botonlistar.onclick = function(){                       //Cuando haga click en el button
+                console.log("Ok vamos a listar los clientes")       //Lanzo un mensaje por pantalla 
+                let contenedor=document.querySelector("#listado")   //Apuesto donde el contenedor 
+                contenedor.innerHTML = ""                           //
+                coleccion.forEach(function(elemento){               //
+                    contenedor.innerHTML += elemento.nombre+ "-"+elemento.apellidos+"-"+elemento.email+"<br>"      //           
+                })
+                
+                  
+                
+            }
+
+        </script>
+
+      </body>
+        
+</hmtl>

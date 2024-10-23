@@ -1,46 +1,49 @@
 class Cliente:
-     def__init__(self,
+    def __init__(self,
                  nuevonombre,
-                 nuevoapellidos,
+                 nuevosapellidos,
                  nuevoemail,
-                 nuevotelefono
+                 nuevotelefono,
+                 nuevaedad
                  ):
-         self.nombre = nuevonombre
-         self.apellidos = nuevosapellidos
-         self.email = nuevoemail
-         self.telefono = nuevotelefono
-         set.edad = nuevaedad
+        self.nombre = nuevonombre
+        self.apellidos = nuevosapellidos
+        self.email = nuevoemail
+        self.telefono = nuevotelefono
+        self.edad = nuevaedad
     def dameDatos(self):
         print(
             "Nombre:",
             self.nombre,
-            "- Apellidos:",
+            " - Apellidos:",
             self.apellidos,
-            "-Email:",
+            " - Email:",
             self.email,
-            "-Telefono:",
+            " - Teléfono:",
             self.telefono)
-    def getNombre(self)
+        
+    def getNombre(self):
         return self.nombre
     def setNombre(self,nuevonombre):
         self.nombre = nuevonombre
-
-
-       def getEdad(self)
+        
+    def getEdad(self):
         return self.edad
-    def setEdad(self,nuevoedad):
-         if nuevaedad = self.edad + 1:
-            self.edad = nuevaedad
+    def setEdad(self,nuevaedad):
+        if  nuevaedad == self.edad + 1:
+              self.edad = nuevaedad
         else:
-            print("operación no permitida")
+             print("Operación no permitida")
+             
+cliente1 = Cliente(
+    "Jose Vicente",
+    "Carratalá",
+    "info@jocarsa.com",
+    6535646,
+    20
+    )
 
-cliente1 = cliente(
-     "Jose Vicente",
-     "Carratalá",
-     "info@jocarsa.com",
-     6535646,
-     20
-     }
-     
+print(cliente1.edad)
+cliente1.setEdad(24)
         
             

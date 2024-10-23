@@ -1,7 +1,7 @@
-NOMBRE_DEL_PROGRAMA = " Programa calculadora")
+NOMBRE_DEL_PROGRAMA = " Programa calculadora"
 VERSION = "0.1"
 AUTOR = "JOSHUE FREIRE SANCHEZ"
-print("NOMBRE_DEL_PROGRAMA,VERSION,AUTOR")
+print(NOMBRE_DEL_PROGRAMA,VERSION,AUTOR)
 
 operando1 = input("Introduce el primer operando: ")
 operando2 = input("Introduce el segundo operando: ")

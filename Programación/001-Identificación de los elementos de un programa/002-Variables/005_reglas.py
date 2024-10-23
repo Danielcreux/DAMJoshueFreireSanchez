@@ -6,6 +6,8 @@ e2dad = 46
 edad_2 = 46
 #edad-42 = 46 (NO SE DEBE DE USAR)
 
+#No es recomendable el uso
+
 EDAD = 46
 Edad = 46
 

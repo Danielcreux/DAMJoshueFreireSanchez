@@ -1,6 +1,5 @@
 import os                                                                               #Importa la libreria que nos permite interactuar con el sistema operativo
                                                                                          
-
 try:                                                                                    #Intento realizar una operacion
     os.makedirs("basededatos")                                                          #Intento crear la carpeta base de datos
 except:                                                                                 #En el caso que no pueda 
@@ -25,7 +24,7 @@ while(True):                                                                    
         print("Has elegido leer los registros")
         archivo = open("basededatos/miqueridodiario.txt",'r')
         lineas = archivo.readlines()
-        for linea in linea:
+        for linea in lineas:
             print(linea)
     else:
         print("La opcion que has elegido no es valida")

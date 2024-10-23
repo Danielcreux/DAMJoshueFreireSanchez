@@ -1,10 +1,10 @@
 class Persona:
-    def__init__(self,
+    def __init__(self):
          self.nombre = None
          self.apellidos = None
          self.email = None
          self.telefono = None
-         set.edad = None
+         self.edad = None
     def dameDatos(self):
         print(
             "Nombre:",
@@ -15,33 +15,33 @@ class Persona:
             self.email,
             "-Telefono:",
             self.telefono)
-     def getNombre(self)
+    def getNombre(self):
         return self.nombre
     def setNombre(self,nuevonombre):
         self.nombre = nuevonombre
 
 
-       def getEdad(self)
+    def getEdad(self):
         return self.edad
-    def setEdad(self,nuevoedad):
-         if nuevaedad = self.edad + 1:
-            self.edad = nuevaedad
-        else:
+    def setEdad(self,nuevaedad):
+         if nuevaedad == self.edad + 1:
+               self.edad = nuevaedad
+         else:
             print("operación no permitida")
 
 class Empleado(Persona):
-     def__init__(self):
+     def __init__(self):
          super ()
          self.numeroempleado = None
                 
-class Cliente(Perosna):
-     def__init__(self):
+class Cliente(Persona):
+     def __init__(self):
          super()
-         self.numerocliente = 
+         self.numerocliente = None
 
-cliente1 = cliente()
-cliente1.setNombre("Jose Vicente")
-print(cliente1.getNombre())
+Cliente1 = Cliente()
+Cliente1.setNombre("Jose Vicente")
+print(Cliente1.getNombre())
 
 empleado1 = Empleado()
 empleado1.setNombre("Juan")

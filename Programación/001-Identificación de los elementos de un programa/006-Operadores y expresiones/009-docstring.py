@@ -1,12 +1,12 @@
 '''
     Programa calculadora de primer tema de clase
-    (c) 2024 Jose Vicente Carratalá
+    (c) 2024 Joshué Freire Sánchez
     Este programa está hecho en Python
 '''
 
 NOMBRE_DEL_PROGRAMA = "Programa calculadora"
 VERSION = "0.1"
-AUTOR = "Jose Vicente Carratalá"
+AUTOR = "Joshué Freire Sánchez"
 print(NOMBRE_DEL_PROGRAMA,VERSION,AUTOR)
 
 operando1 = input("Introduce el primer operando: ")

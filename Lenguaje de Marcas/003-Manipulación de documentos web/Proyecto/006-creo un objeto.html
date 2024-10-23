@@ -1,0 +1,26 @@
+<!doctype hmtl>
+<hmtl>
+    <head lang="es">
+        <titlle>CRUD</titlle>
+        <meta Charset="UTF-8">
+      <body>
+        <input id="nombre" placeholder="nombre">
+        <input id="apellidos" placeholder="apellidos">
+        <input id="email" placeholder="email">
+        <button id="guardar">Guardar</button> 
+        <script>
+            let boton=document.querySelector("#guardar")      //Selecciono el elemento que tiene ID guardar
+            boton.onclick = function(){                       //Cuando haga click en el button
+                console.log("Has hecho click en el boton")    //Pongo un mensaje de depuración de-bug
+                let nombre = document.querySelector("#nombre").value    //Recojo el valor del elemento cuyo valor id es nombre
+                let apellidos = document.querySelector("#apellidos").value  //Recojo el valor del elemento cuyo valor id es apellidos
+                let email = document.querySelector("#email").value          //Recojo el valor del elemento cuyo valor id es email
+                console.log(nombre,apellidos,email)                         //Imprime por pantallael valor recogido
+                let objeto ={"nombre":nombre,"apellidos":apellidos,"email":email}
+                console.log(objeto)                        //Imprime por pantalla el vlaor de aquello que hemos recogido
+            }
+        </script>
+
+      </body>
+        
+</hmtl>
