@@ -1,0 +1,1 @@
+﻿INSERT INTO empleados VALUES('Jose Vicente','Carratalá Sanchis',12345678,'info@jocarsa.com');

@@ -1,3 +1,3 @@
-INSERT INTO `productos` 
-(`Identificador`, `nombre`, `descripcion`, `precio`) 
-VALUES (NULL, 'Dualtron', 'Patinete de otra marca', '1000');
+INSERT INTO `pedidos` 
+(`Identificador`, `fecha`, `clientes_apellidos`) 
+VALUES (NULL, '2024-09-25', '21');

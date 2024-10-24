@@ -1,2 +1,2 @@
-USE miempleado;
+USE miempresa;
 

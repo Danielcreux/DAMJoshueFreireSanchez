@@ -1,0 +1,1 @@
+SELECT equipos.nombre, golesvisitante,goleslocal FROM partidos LEFT JOIN equipos ON partidos.local = equipos.Identificador;
