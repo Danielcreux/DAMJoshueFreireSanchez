@@ -1,20 +1,20 @@
 [
     {
-        nombre:"Jose Vicente",
-        appellidos:"Carratalá Sanchis",
-        telefono:"t6546456",
-        email:"info@josevicentecarratala.com"
+        "nombre" :"Jose Vicente",
+        "apellidos":"Carratalá Sanchis",
+        "telefono":"t6546456",
+         "email" :"info@josevicentecarratala.com"
     },
     {
-        nombre:"Jose Vicente",
-        appellidos:"Carratalá Sanchis",
-        telefono:"t6546456",
-        email:"info@josevicentecarratala.com"
+        "nombre" :"Jose Vicente",
+        "apellidos":"Carratalá Sanchis",
+        "telefono":"t6546456",
+         "email" :"info@josevicentecarratala.com"
     },
     {
-        nombre:"Jose Vicente",
-        appellidos:"Carratalá Sanchis",
-        telefono:"t6546456",
-        email:"info@josevicentecarratala.com"
-    },
+        "nombre" :"Jose Vicente",
+        "apellidos":"Carratalá Sanchis",
+        "telefono":"t6546456",
+         "email" :"info@josevicentecarratala.com"
+    }
 ]

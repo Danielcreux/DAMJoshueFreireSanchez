@@ -8,3 +8,8 @@ Nombre: Javier
 Apellidos: Martinez
 Teléfono: 965858
 email: javier@martinez.com
+Cliente3:
+Nombre: Javier 
+Apellidos: Martinez
+Teléfono: 965858
+email: javier@martinez.com
