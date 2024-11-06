@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+        <body>
+           <input>
+           <script>
+            function foco(){
+                console.log("Has entrado en el campo")
+            }
+            function desenfoco(){
+                console.log("Has salido en el campo")
+            }
+            var entrada;
+            entrada = document.querySelector("input")
+            entrada.onfocus = function(){foco();}
+            entrada.onfocus = function(){desenfoco();}
+           </script>
+        </body>
+   
+</html>

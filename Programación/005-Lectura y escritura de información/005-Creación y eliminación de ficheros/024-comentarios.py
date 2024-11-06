@@ -50,10 +50,15 @@ while True:                                                                     
         print("La agenda ha sigo guardada en un archivo")                           #Imprimo un mensaje de aviso
         archivo.close()                                                             #Cierro el archivo
 
-    elif opcion == "4":                                                             #En el caso que el cliente escoja la opcion 4
-        archivo = open("agenda.bin",'rb')                                           #Abro un archivo binario en modo escritura binaria
-        agenda = pickle.load(archivo)                                               #En la agenda vierto el contenido del archivo del disco duro 
-        archivo.close()                                                             #Cierro el archivo
+    elif opcion == "4":                                                            # Si el cliente escoge la opción 4
+        try:
+            with open("agenda.bin", 'rb') as archivo:                              # Abro el archivo en modo lectura
+                agenda = pickle.load(archivo)                                      # Cargo el contenido del archivo en la agenda
+                print("\nLa agenda ha sido cargada con éxito")
+        except FileNotFoundError:
+            print("\nNo se ha encontrado el archivo de la agenda.Por favor, guarda primero un registro")
+    else:
+        print("Opción no válida. Por favor, selecciona una opción del menú.")
         
     
         

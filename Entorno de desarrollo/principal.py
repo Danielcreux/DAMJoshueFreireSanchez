@@ -9,11 +9,11 @@ while True:
     
     entrada = input("Seleccion una opcion:")
 
-     if entrada == "1":
+    if entrada == "1":
          insertar()
-     elif entrada == "2":
+    elif entrada == "2":
          listar()
-     elif entrada == "3":
+    elif entrada == "3":
          actualizar()
-     elif entrada == "4":
+    elif entrada == "4":
          eliminar()
