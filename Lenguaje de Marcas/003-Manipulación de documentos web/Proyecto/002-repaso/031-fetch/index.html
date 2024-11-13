@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script>
+            fetch("http://localhost:5000")   //Me conecto al servidor esperando que responda
+            .then(function(response){        //Cuando el servidor responda
+                return response.text()       //Procedo su respuesta como texto plano
+            })
+            .then(function(datos){        //Cuando el servidor responda
+                console.log(datos)        //Los pinto en la consola
+            })
+        </script>
+    </body>
+</html>
