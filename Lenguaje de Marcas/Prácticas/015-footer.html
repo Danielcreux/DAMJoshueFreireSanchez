@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html>
+    <head lang="es">
+    <title>Landing page</title>
+    <meta charset="UTF-8">
+    <style>
+        body{
+            background:black;
+            padding:0px;
+            margin:0px;
+            font-family:sans-serif;
+        }
+        body>*{
+            width:1000px;
+            margin:auto;
+            background:white;
+        }
+        header{
+            background:#ffffff;
+            height:504px;
+        }
+        section:nth-child(2){
+             background:white;
+             height:949px;
+        }
+        section:nth-child(3){
+             background:black;
+             height:355px;
+        }
+        section:nth-child(4){
+             background:white;
+             height:459px;
+        }
+        section:nth-child(5){
+             background:white;
+             height:325px;
+        }
+        footer{
+             background:white;
+             height:419px;
+        }
+        header {
+            background: #ffffff;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        
+        }
+        header .texto{
+            margin:0px;
+            padding:0px;
+            align-content:center;
+            box-sizing:border-box;
+            font:small-caption;
+        }
+        header .tema{
+            margin:0px;
+            padding: 80px;
+            background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
+            url("imagenes/moto.jpg");
+            background-size:cover;
+            background-repeat:no-repeat;
+            background-position:center;
+            color:white;
+            
+        }
+        header .propio{
+            background:#d7232f;
+            margin:0px;
+            padding:0px;
+            width:100%;
+            height:95px;  
+        }
+        header h1{
+            margin:0px;
+            padding:9px;
+            font-family: "Homer Simpson UI"
+        }
+
+        header h2{
+            font-size:67px;
+            margin:0px;
+            padding:0px;
+            line-height:1;
+        }
+
+        header h3{
+            font-size: x-large;
+            font-size:30px;
+            margin:0px;
+            padding:13px;
+            color:white 
+            
+        }
+
+        header p{
+            font-size:medium;
+            margin:0px;
+            padding:16px;
+        }
+       
+        header button{
+            margin:10px;
+            padding:10px;
+            padding-left:45px;
+            padding-right:45px;
+            font-size: 1rem;
+            background: transparent;
+            border: 3px solid #d7232f;
+            color: white;
+            cursor: pointer;
+            font-weight:bolder;
+          
+     
+
+        }
+        header h2,p{
+            margin:0px;
+            padding:0px;
+            margin-top:-9px;
+            font-family:Impa;
+
+        }
+       section .lista {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 25px;
+        }
+
+        section .lista .producto {
+            border: 1px solid #e7e7e6;
+            border-radius: 5px;
+            overflow: hidden;
+            text-align:left;
+            width: 145px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding-bottom: 10px;
+        }
+
+        
+
+        section .lista .producto img {
+            width: 100%;
+            height: 200px; /* Ajusta esta altura según lo que necesites */
+            object-fit: cover; /* Asegura que la imagen cubra toda el área sin deformarse */
+            display: block;
+        }
+
+
+        section .lista .producto h4 {
+            font-size: 11px;
+            margin: 23px 0 1px;
+          
+        }
+
+        section .lista .producto p{
+            font-size: 14px;
+            color:black;
+            margin: 5px 0;
+        }
+
+        section .lista .producto button{
+            color: white;
+            background-color: black;
+            border: none;
+            padding: 5px 8px;
+            cursor: pointer;
+            border-radius: 8px;
+            margin-top: 9px;
+            transition: background-color 0.3s;
+        }
+
+       section .check button{
+            border-color: #d7232f;
+            color:black;
+            margin:53px;
+            font-family:Arial;
+            padding:17px 16px;
+            cursor:pointer;
+            background:transparent;
+            font-weight:bold;
+            margin-left:365px;
+            font-size:15pt;
+
+        }
+
+        section .Last{
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin-top:-65px;           
+        }
+
+        section .Last h5{
+            font-size:50pt;
+            margin-left:40px;
+
+        }
+        section .Last p{
+            font-size:13pt;
+            margin-top:-114px;
+
+        }
+
+        section .icono{
+            display: flex;
+            justify-content:center;
+            padding:10px;
+            gap:25px;
+  
+        }
+
+        section .icono .uso img{
+            object-fit:cover; 
+            display: block;
+            border: 2px solid #e7e7e6;
+            border-radius: 7px;
+            
+        
+
+        }
+
+        section .comentario{
+            justify-content: center;
+            text-align:center;
+            margin:25px;
+        }
+
+        section .comentario p{
+            margin:0px;
+            margin-top:-20px;
+            box-sizing:border-box;
+            width:450px;
+            margin-left:275px;
+        }
+
+        section .comentario button{
+            border-color: #d7232f; /* Color del borde */
+            background-color: #d7232f;
+            color: white;
+            border: 9px solid #d7232f; /* Establece el borde con 5px en todos los lados */
+            padding: 10px 60px; /* Aumenta el padding superior e inferior */
+            margin: 15px;
+            font-size: 15pt;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        section .nuevo{
+            display:flex;
+            align-items: flex-start;
+            padding: 45px;
+            justify-content: space-between;
+            
+        }
+
+        section .blog h5{
+           color:white;
+           font-size: 56pt;
+           text-transform:uppercase;
+           margin:23px;
+           line-height:1.2;
+           width:50%;
+           margin-left:75px;
+           margin-top:126px;
+        }
+        section .new p{
+           color:white;
+           position:relative;
+           font-size: 18px;
+           margin:0;
+           padding-bottom:5px;
+           width:30%;
+           margin-left:670px;
+           margin-top:-70px;
+        }
+
+        section .new p::after {
+            content: ''; 
+            position: absolute;
+            bottom: 0; /* Coloca la línea en la parte inferior del texto */
+            left: 0; /* Alinea la línea a la izquierda */
+            width: 76%; /* Ajusta el ancho de la línea al 100% del párrafo */
+            height: 2px; /* Grosor de la línea */
+            background-color: #d7232f; /* Color rojo de la línea */
+        }
+        
+
+        .contenedor { 
+        font-family: Arial, sans-serif;
+ 
+
+
+        }
+
+        h6 {
+        font-size: 35pt;
+        font-weight: bold;
+        margin:4px 9px;
+        padding:45px;
+        
+        
+        }
+
+        .fila {
+       
+        display:flex;
+        flex-direction:left;
+        margin-right:150px; 
+        padding:auto;  
+            
+       
+        }
+
+        .tarjeta {
+        font-size: 13pt;
+        border: 3px solid #d7232f;
+        background-color: transparent;
+        margin:11px 46px;
+        padding:9px;
+        text-align: left;
+        
+       
+        }
+
+        .boton {
+        color: white;
+        border: 3px solid #d7232f;
+        background-color: #d7232f;
+        padding:35px;
+        cursor: pointer;
+        font-size: 13pt;
+        }
+
+        .contenedor1{
+            display:flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            width:74%;
+            
+        }
+
+        h7{
+            font-size:37pt;
+            justify-content: left;
+            line-height:1;
+            font-weight: 800;
+            margin-left:90px;
+            margin-top:78px;
+        }
+
+        .motopro{
+           padding:24px 10px;
+         
+         
+         
+
+        }
+
+        .motopro img{ 
+        width: 230px; /* Ancho fijo */
+        height: 195px; /* Alto fijo */
+        object-fit:cover; /* Opcional: Ajusta cómo se recorta la imagen */
+        margin-top:33px;
+        margin-right:23px;
+
+       
+        }
+
+        .contenedor2{
+            background-image:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
+            url("imagenes/moto.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            color:white;
+        
+
+        }
+
+        .about{
+            text-align: center;
+            justify-content:center;
+            align-content:center;
+            height:33%;
+           
+        }
+
+        h8{
+            font-size: 50pt;
+            padding:12px;
+           
+
+          
+        }
+        .final{
+            text-align: center;
+            justify-content:center;
+            align-items:center;
+            line-height:1.5;
+        }
+
+        p{
+            margin:8px 130px;
+            padding:7px 22px;
+     
+        
+        }  
+    </style>
+    </head>
+        <header>
+            <div class="texto">
+                <h1>FAST ϟ MASK</h1>
+            </div>
+            <div class="tema">
+                <h2>FACE MASKS FOR THRILL-SEEKERS</h2>
+                <p>They're great way to rock your 
+                    favorite activities while styling cool</p>
+                <button>Shop now</button>
+            </div>
+            <div class="propio">
+                <h3>DISCOVER ALL OUR AWESOME DESIGNS</h3>
+            </div>
+           
+        </header>
+            <section>
+                <div class="lista">  
+            
+                    <div class="producto">
+                            <img src="imagenes/mascara.png">
+                            <h4>Black Face Mask</h4>
+                            <p>$10.00 USD</p>
+                            <button>VIEW PRODUCT</button>
+                    </div>
+                    <div class="producto">
+                            <img src="imagenes/mascara2.png">
+                            <h4>Spiderman Man Face Mask</h4>
+                            <p>$10.00 USD</p>
+                            <button>VIEW PRODUCT</button>
+                    </div>
+                    <div class="producto">
+                            <img src="imagenes/mascara.png">
+                            <h4>Black Face Mask</h4>
+                            <p>$10.00 USD</p>
+                            <button>VIEW PRODUCT</button>
+                    </div>
+                    <div class="producto">
+                            <img src="imagenes/mascara2.png">
+                            <h4>Spiderman Man Face Mask</h4>
+                            <p>$10.00 USD</p>
+                            <button>VIEW PRODUCT</button>
+                    </div>
+                    <div class="producto">
+                            <img src="imagenes/mascara.png">
+                            <h4>Black Face Mask</h4>
+                            <p>$10.00 USD</p>
+                            <button>VIEW PRODUCT</button>
+                    </div>
+            </div>
+            <div class="check">
+                <button>check out the full collection</button>
+            </div>
+            <div class="Last">
+                    <h5>MULTIPURPOSE MASKS</h5>
+                    <P>Weart it as a:</P>
+            </div>
+            <div class="icono">
+                    <div class="uso">
+                        <img src="imagenes/face.png">
+                    </div>
+                    <div class="uso">
+                        <img src="imagenes/face.png">
+                    </div>
+                    <div class="uso">
+                        <img src="imagenes/face.png">
+                    </div>
+                    <div class="uso">
+                        <img src="imagenes/face.png">
+                    </div>
+                    <div class="uso">
+                        <img src="imagenes/face.png">
+                    </div>
+                    <div class="uso">
+                        <img src="imagenes/face.png">
+                    </div>
+                    <div class="uso">
+                        <img src="imagenes/face.png">
+                    </div> 
+            </div>
+                    <div class="comentario">
+                        <p>Fast Mask gives you the coverage you need when being active and keeps you looking
+                            great while doing it</p>
+                        <button>shop now</button>
+                    </div>
+            </section>
+
+            <section class="nuevo">
+                <div class="blog">
+                    <h5>Why Choose Fast Mask?</h5>
+                </div>
+                <div class="new">
+                    <p>Protection from the elements</p>
+                    <p>good vibes</p>
+                    <p>new merchandising</p>
+                    <p>new protocol</p>
+                    <p>new version</p>
+                </div>
+            </section>
+            <section class="contenedor">
+                <h6>EXTREME SPORTS LOVERS THINK THEY'RE GREAT!</h6>
+                
+                <!-- Primera fila de cuadros -->
+                <div class="fila">
+                <p class="tarjeta">"Great deal and showed up pretty fast." <br><span>- Tyler R.</span></p>
+                <p class="tarjeta">"Great fit under my helmet, and super comfortable." <br><span>- Carlos P.</span></p>
+                <p class="tarjeta">"It's the best to use against the sun! Thank you!" <br><span>- Armando Israel García</span></p>
+                </div>
+                
+                <!-- Segunda fila de cuadros y botón -->
+                <div class="fila">
+                <p class="tarjeta">"Worth it! Grab several!" <br><span>- Tabetha Smith</span></p>
+                <p class="tarjeta">"Love my Fast Masks!" <br><span>- Jared Wilcox</span></p>
+                <button class="boton">Shop now</button>
+                </div>
+            
+            </section>
+            <section class="contenedor1">
+                <h7>PAIR YOUR MASK WITH GLOVES</h7>
+            
+                <div class="motopro">
+                    <img src="imagenes/guante.jpeg">
+                </div>
+
+                <div class="motopro">
+                    <img src="imagenes/guantes.jpg">
+                </div>
+            </section>
+ 
+        <footer class="contenedor2">
+            <div class="about">
+               <h8>ABOUT FAST MASK</h8>
+            </div>
+            <div class="final">
+                <p>Masks have been a vital part of human culture for centuries, 
+                    serving as tools for storytelling, protection, and transformation. 
+                    In ancient rituals, masks symbolized the divine or supernatural, 
+                    allowing wearers to embody spirits, deities, or ancestors. 
+                    They became a bridge between the physical and spiritual realms, 
+                    granting performers the power to transcend their human identities. 
+                    From African tribal ceremonies to Venetian masquerades, 
+                    masks have played an integral role in expressing beliefs, emotions, and traditions.</p>
+                <p>Beyond their cultural significance, masks have served practical purposes throughout history. 
+                    In medicine, they shielded doctors during plagues, while in modern times, they are essential 
+                    for protecting against airborne diseases and pollutants. Masks also play a critical role in 
+                    professions such as welding, firefighting, and diving, where safety is paramount. 
+                    Their design evolves continually to meet the demands of functionality and comfort, 
+                    reflecting advancements in technology and science.</p>
+            </div>
+
+        </footer>
+</html>
