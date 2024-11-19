@@ -1,15 +1,119 @@
 main{
-	width:100%;
-	height:1000px;
-	padding-top:147px;
-}
-main .heroe{
-	width:100%;
+	height:470px;
+	padding-top:250px;
 	min-height:400px;
 	background:url(../img/fondoheroe.webp);
 	background-size:cover;
+	background-repeat:no-repeat;
 }
-main .contenedor{
-	width:1280px;
+main .heroe{
+	
+	box-sizing: border-box;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+}
+main .heroe h1{
+	font-size: 5rem;
+    font-weight: bold;
+    color: #caa764; /* Color dorado */
+    font-family:"TrajanPro3Bold","Open Sans ","san-serif";
+    margin:0px;
+
+}
+main .heroe h2{
+	font-size: 2.1rem;
+    font-weight: bold;
+    color: white;
+    font-family:"Monotype Corsiva",Helvetica,Arial,Lucida,sans-serif;
+    margin: 0px;
+	margin-bottom:25px;
+
+
+
+}
+
+main .heroe p{
+	font-size: 1.2rem;
+     margin:0px;
+     line-height: 1.9;
+                width:1250px;
+                text-align:center;
+                height:120px;
+                color: #ddd;
+                font-family: "Open Sans","comic sans";
+                text-align:center;
+
+}
+
+section .contenedor{
+	height:350px;
 	margin:auto;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content:space-between;
+	align-items: center;
+	align-content: center;
+}
+
+section .contenedor h3,p{
+	padding:0px 30px;
+	
+
+}
+
+section .contenedor h3{
+	font-size:37pt;
+	color:#caa764;
+	font-style: none;
+	margin-left:40px;
+	margin-bottom:135px;
+	font-family:"TrajanPro3Bold","Open Sans",sans-serif;
+
+}
+
+section .contenedor p{
+	margin:30px;
+	padding:0px 50px;
+	line-height:1.9;
+	font-size: 16pt;
+}
+
+section .contenido{
+	width:1000x;
+	margin:0px;
+	padding:40px;
+
+	
+    
+	
+}
+section .contenedor2{
+    display:grid;
+	object-fit:cover;
+	grid-row: auto;
+	grid-template-columns:(3,4fr);
+	grid-template-rows:(4,4fr);
+	gap:80px;
+	justify-content: space-evenly;
+
+	
+	
+}
+
+
+section .contenedor2 #AntonioCano,h4{
+   border:3px solid black;
+   box-sizing: border-box;
+   text-align:left;
+  
+   
+   
+
+
+	
 }

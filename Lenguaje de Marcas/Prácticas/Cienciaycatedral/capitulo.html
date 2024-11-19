@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html>
+    <head lang="es">
+        <meta charset="Utf-8">
+        <link rel="Stylesheet" href="css/fuentes">
+        <style>
+            html,body{
+                padding:0px;
+                margin:0px;
+                font-family:"Open Sans",sans-serif;
+            }
+            header{
+                width:100%;
+                position:fixed;
+                
+                
+            }
+            header .universidad{
+                box-sizing: border-box;
+                padding:7.2px;
+                display:flex;
+                flex-direction:row;
+                flex-wrap:nowrap;
+                justify-content:space-between;
+                align-items: center;
+                align-content: stretch;
+                background:#efefef;
+            }
+
+            header .universidad img{
+                width:250px;
+
+            }
+
+            header .universidad nav ul{
+                list-style-type: none;
+                margin:0px;
+                padding:0px;
+
+            }
+            header .universidad nav ul li{
+                display:inline-block;
+              font-weight:bolder;
+              font-size:20pt;
+              padding:9px;
+              margin-top: 22px;
+
+            }
+
+            
+            
+
+            #cabecera{
+                width:158px;
+                height:61px;
+            }
+
+            header .proyecto{
+                background:#2f2e3e;
+                padding:0px 30px;
+                box-sizing: border-box;
+                padding:7.2px;
+                display:flex ;
+                flex-direction:row;
+                flex-wrap:nowrap;
+                justify-content:space-between;
+                align-items: center;
+                align-content: stretch;
+              
+               
+            }
+
+            header .proyecto nav ul{
+              list-style-type:none;
+              margin:0px;
+              padding:0px;
+
+                
+                
+               
+            }
+            header .proyecto nav ul li{
+              display:inline-block;
+              font-weight:bolder;
+              font-size:13pt;
+              padding-right:22px;
+              color:#d6cab4;
+              font-family:"TrajanPro3Bold","Open Sans ","san-serif";
+           
+
+            }
+
+            header .submenu{
+                
+                padding:0px 30px;
+                background:#c2a464;
+                display:flex;
+                flex-direction:row;
+                flex-wrap:nowrap;
+                justify-content:space-between;
+                align-items: center;
+                align-content: center;
+              
+                
+                
+                 
+
+            }
+            header .submenu nav li{
+              display:inline-block;
+              font-weight:bolder;
+              font-size:13pt;
+              padding-left:25px;
+              margin-left:25px;
+              text-align:center;
+              text-transform: uppercase;
+              color:white;
+              font-family:"TrajanPro3Bold","Open Sans ","san-serif";
+            }
+
+            main{
+               height:760px;
+                background-image: url("imagen/iglesia.webp");
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position:center;
+                background-color: rgb(255, 255, 255);
+                
+
+
+            }
+
+            main .capitulo{
+                height:900px;
+             
+                box-sizing: border-box;
+                display:flex;
+                flex-direction: column;
+                justify-content: center;
+                 align-items: center;
+                 align-content: center;
+           
+               
+               
+
+            }
+
+            main .capitulo h1{
+                font-size: 8rem;
+                font-weight: bold;
+                color: #caa764; /* Color dorado */
+                font-family:"TrajanPro3Bold","Open Sans ","san-serif";
+                margin: 0px;
+
+            }
+
+            
+            main .capitulo p{
+                font-size: 1.2rem;
+                margin:0px;
+                line-height: 1.8;
+                width:1250px;
+                text-align:center;
+                height:80px;
+                color: #ddd;
+            
+                text-align:justify-center;
+
+            }
+            
+            main .capitulo em{
+                font-weight: bolder;
+
+            }
+          
+
+            footer{
+                width:100%;
+                height:5%;
+                color:#d6cab4;
+                background:url(imagen/fondoheroe.webp);
+                background-size:cover;
+                background-repeat: no-repeat;
+            }
+            footer .creditos{
+                min-height:215px;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                justify-content: space-between;
+                align-items: center;
+                align-content: stretch;
+
+            }
+            footer .creditos .columna img{
+                width:230px;
+            }
+            footer .secciones{
+                background:white;
+                min-height:37px;
+                display: flex;
+                flex-direction: row;
+                flex-wrap: nowrap;
+                justify-content: space-between;
+                align-items: center;
+                align-content: stretch;
+            }
+            footer .contenedor{
+                width:1280px;
+                margin:auto;
+            }
+            footer a{
+                color:black;
+                text-decoration:none;
+            }
+
+            .redes img{
+                width:30px;
+            }
+
+
+        </style>
+    </head>
+    <body>
+        <header>
+            <div class="universidad">
+                <img src="imagen/logo.png" >
+                <nav>
+                    <ul>
+                        <li>f</li>
+                        <li>x</li>
+                        <li>i</li>
+                        <li>y</li>
+                        <li>webs temáticas</li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="proyecto">
+                <img src="imagen/cabecera.webp" id="cabecera">
+                <nav>
+                    <ul>
+                        <li>Inicio</li>
+                        <li>Capítulos</li>
+                        <li>Expertos</li>
+                        <li>El Proyecto</li>
+                        <li>Créditos</li>
+                        <li>Documentación Gráfica</li>
+                        <li>Bibliografía</li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="submenu">
+                <nav>
+                    <ul>
+                        <li>capítulo I</li>
+                        <li>capítulo II</li>
+                        <li>capítulo III</li>
+                        <li>capítulo IV</li>
+                        <li>capítulo V</li>
+                        <li>capítulo VI</li>
+                        <li>capítulo VII</li>
+                    </ul>
+                </nav>
+
+            </div>
+
+        </header>
+        <main>
+            <div class="capitulo">
+                <h1>Capítulos</h1>
+                <p>ocho episodios para conocer la catedral</p>
+                <p>¿Qué hace grandiosa a una catedral? ¿Por qué la de Burgos es única? 
+                    ¿Qué convierte a una acumulación de piedras y maderas labradas en una obra de arte de fama mundial? 
+                    Detrás de la construcción, de la mística y la restauración se encuentran multitud de aspectos científicos,
+                    técnicos y tecnológicos presentes en cada rincón.
+
+                    En los ocho episodios que componen la serie<em> La ciencia que esconde la Catedral de Burgos</em> recorreremos cada uno 
+                    de los aspectos más importantes para la construcción, mantenimiento y conservación de la seo burgalesa, pero 
+                    también en aquellos aspectos artísticos singulares que la convierten en una de las joyas del gótico y uno de 
+                    los edificios más singulares del mundo.</p>
+            </div>
+            <div class="heroe">
+				<!-- PON AQUÍ TU CONTENIDO -->
+					"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+				<!-- PON AQUÍ TU CONTENIDO -->
+			</div>
+			<div class="contenedor">
+				<!-- PON AQUÍ TU CONTENIDO -->
+					"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+					Siempre que se repita algo recomiendo ponerlo en una etiqueta article
+				<!-- PON AQUÍ TU CONTENIDO -->
+
+			</div>
+        
+        </main>
+        <footer>
+			<div class="creditos contenedor">
+				<div class="columna">
+					<h6>Producido por:</h6>
+					<img src="imagen/logo2.webp">
+					<p>Organiza y promueve la Unidad de Cultura Científica de la Universidad de Burgos</p>
+				</div>
+				<div class="columna">
+					<h6>Producido por:</h6>
+					<img src="imagen/logo3.webp">
+					<p>Organiza y promueve la Unidad de Cultura Científica de la Universidad de Burgos</p>
+				</div>
+				<div class="columna">
+					<h6>Producido por:</h6>
+					<img src="imagen/logo4.webp">
+					<p>Organiza y promueve la Unidad de Cultura Científica de la Universidad de Burgos</p>
+				</div>
+			</div>
+			<div class="secciones">
+				<div class="enlaces">
+					<a href="">Universidad de Burgos</a>
+					|
+					<a href="">Unidad de Cultura Científica e Innovación</a>
+					–
+					<a href="">Política de cookies (UE)</a>
+					–
+					<a href="">Política de privacidad</a>
+					–
+					<a href="">Aviso Legal</a>
+				</div>
+				<div class="redes">
+					<a href="">
+						<img src="imagen/logofacebook.png">
+					</a>
+					<a href="">
+						<img src="imagen/logotwitter.png">
+					</a>
+					<a href="">
+						<img src="imagen/logoinstagram.png">
+					</a>
+					<a href="">
+						<img src="imagen/logoyoutube.png">
+					</a>
+				</div>
+			</div>
+        </footer>
+    </body>
+
+</html>
