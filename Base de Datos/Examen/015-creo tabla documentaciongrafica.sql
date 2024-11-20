@@ -1,0 +1,1 @@
+CREATE TABLE `colaboradores`.`documentaciongrafica` (`Identificador` INT(255) NOT NULL AUTO_INCREMENT , `Galeria _id` INT(255) NOT NULL , `galeria_nombre` VARCHAR(255) NOT NULL , PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;
