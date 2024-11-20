@@ -1,0 +1,1 @@
+INSERT INTO `documentaciongrafica` (`Identificador`, `imagen`, `texto`, `documentaciongraficacategorias_nombrecategoria`) VALUES (NULL, 'La_Catedral_de_Burgos_0000C529-400x284.jpg', 'La_Catedral_de_Burgos_0000C529', '1');

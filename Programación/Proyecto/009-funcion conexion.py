@@ -2,7 +2,7 @@ import mysql.connector
 
 def conector():
     conexion = mysql.connector.connect(
-                host='localhost'.
+                host='localhost',
                 database='programacion',
                 user='programacion',
                 password='programacion'
@@ -12,7 +12,7 @@ def conector():
 
 def dameTablas():
     conexion = mysql.connector.connect(
-                host='localhost'.
+                host='localhost',
                 database='programacion',
                 user='programacion',
                 password='programacion'
@@ -31,7 +31,7 @@ print(dameTablas())
 
 def leerTabla():
     conexion = mysql.connector.connect(
-                host='localhost'.
+                host='localhost',
                 database='programacion',
                 user='programacion',
                 password='programacion'

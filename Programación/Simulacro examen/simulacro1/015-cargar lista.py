@@ -71,8 +71,8 @@ while True:                                                                    #
         
     elif opcion == "4":
         print("Eliminar el registro")
-         idlista = input("Selecciona el elemento de la lista de Python:")
-         clientes.pop(int(idlista))
+        idlista = input("Selecciona el elemento de la lista de Python:")
+        clientes.pop(int(idlista))
 
     elif opcion == "5":
        archivo = open("clientes.dat",'wb')

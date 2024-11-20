@@ -1,0 +1,1 @@
+INSERT INTO `documentaciongraficacategorias` (`Identificador`, `nombrecategoria`) VALUES (NULL, 'Archivo municipal de Burgos'), (NULL, 'Biblioteca Nacional')

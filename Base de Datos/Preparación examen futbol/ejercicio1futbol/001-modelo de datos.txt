@@ -1,27 +1,39 @@
-Paises
+﻿Paises
 -id
 -nombre (varchar)
+
 
 Jugadores
 -id
 -Nombre (varchar)
--Apellidos (varchar)
+-
+Apellidos (varchar)
+
 -Fecha de nacimiento (date)
--País de nacimiento - FK Paises
+
+-País de nacimiento
+ - FK Paises
 
 Divisiones
+
 -id
 -nombre (varchar)
 
 
+
 Equipos
 -Nombre (varchar)
--Divisiones FK Divisiones
+
+-Divisiones FK 
+Divisiones
 
 Fichaje
+
 -id
 -valor (decimal)
--jugador FK Jugadores
+
+-jugador FK 
+Jugadores
 -Equipo FK Equipos
 -Fecha de inicio (date)
 -Fecha de final (date)

@@ -1,0 +1,1 @@
+INSERT INTO `documentaciongraficacategorias` (`Identificador`, `nombrecategoria`) VALUES (NULL, 'Ceres'), (NULL, 'Europeana')

@@ -1,8 +1,8 @@
 class Cliente:
-    def __init__(self,nuevoid,nuevonombre,nuevosapellidos,nuevoemail):
-        self.id = nuevoid
+    def __init__(self,nuevoidentificador,nuevonombre,nuevosapellidos,nuevoemail):
+        self.identificador = nuevoidentificador
         self.nombre = nuevonombre
-        self.apellido = nuevoapellidos
+        self.apellido = nuevosapellidos
         self.email = nuevoemail
 
 class Productos:
@@ -40,8 +40,7 @@ while True:
         nombre = input("Introduce el nombre del nuevo cliente")
         apellidos = input("Introduce los apellidos del nuevo cliente")
         email = input("Introduce el email del nuevo cliente")
-        cliente = Cliente(identificador,nombre,apellidos,email)
-        clientes.append(cliente)
+        clientes.append(Cliente(identificador,nombre,apellidos,email))
         
     elif opcion == "2":
         print("Listamos los registros")

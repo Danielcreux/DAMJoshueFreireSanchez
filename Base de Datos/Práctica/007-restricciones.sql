@@ -1,0 +1,2 @@
+﻿INSERT INTO `capitulosexpertos` (`Identificador`, `capitulos_nombre`, `expertos_nombre`) VALUES (NULL, '5', '1');
+INSERT INTO `capitulosexpertos` (`Identificador`, `capitulos_nombre`, `expertos_nombre`) VALUES (NULL, '5', '3');

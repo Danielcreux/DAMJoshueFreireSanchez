@@ -1,0 +1,8 @@
+SELECT
+documentaciongraficacategorias.nombrecategoria,
+documentaciongrafica.imagen,
+documentaciongrafica.texto
+
+FROM `documentaciongrafica` 
+LEFT JOIN documentaciongraficacategorias
+ON documentaciongrafica.documentaciongraficacategorias_nombrecategoria = documentaciongraficacategorias.Identificador;
