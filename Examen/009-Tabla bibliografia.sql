@@ -1,0 +1,1 @@
+CREATE TABLE `colaboradores`.`bibliografia` (`Identificador` INT(255) NOT NULL AUTO_INCREMENT , `titulo` VARCHAR(255) NOT NULL , `subtitulo` VARCHAR(255) NOT NULL , `texto` TEXT NOT NULL , `imagen` VARCHAR(255) NOT NULL , `articulo` VARCHAR(255) NOT NULL , `autor` VARCHAR(255) NOT NULL , PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;
