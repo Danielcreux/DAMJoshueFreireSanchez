@@ -1,0 +1,1 @@
+CREATE TABLE `colaboradores`.`creditos` (`Identificador` INT(255) NOT NULL AUTO_INCREMENT , `titulo` VARCHAR(255) NOT NULL , `autores` VARCHAR(255) NOT NULL , PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;
