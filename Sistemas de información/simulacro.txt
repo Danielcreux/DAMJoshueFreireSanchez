@@ -1,0 +1,46 @@
+--Instalar ubuntu server 
+        omitir instalación desentendida
+        ponemos en red adaptador puente 
+        instalamos servidor Openssh 
+
+colocamos el ipv4 en la consola : ssh  josue@198.192.161.12
+installamos sudo apt isntall apache2
+Ingresamos servidor con apache
+sudo apt install php
+sudo apt install mysql-server
+sudo mysql_secure_installation
+primero yes 
+Reload privileges yes
+
+ls para ver contenido de directorio
+cd .. bajar de directorio 
+home/ cd ..
+cd var
+var/ cd www
+var/www cd html
+var/www/html sudo mkdir wordpress
+var/www/html cd wordpress
+var/www/html/wordpress sudo wget direccion de wordpress
+
+descomprimir archivo 
+sudo apt install unzip
+sudo unzip archivo
+sudo apt install php-mysqli
+
+entrar a servidor/wordpress
+
+permisos 
+sudo chmod 777 -R wordpress/
+
+sudo mysql -u root -p
+CREATE DATABASE wordpress;
+CREATE USER 'wordpress'@'localhost' IDENTIFIED BY 'wordpress';
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wordpress'@'localhost';
+FLUSH PRIVILEGES;
+
+
+En caso de error en el wordpress
+ingresar a la carpeta wp-config.php
+con nano y agregar antes de esta linea /* That's all, stop editing! Happy blogging. */ esto define('WP_ALLOW_REPAIR', true); 
+
+
