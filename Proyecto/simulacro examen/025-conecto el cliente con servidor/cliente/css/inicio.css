@@ -1,0 +1,17 @@
+#capitulo{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding:10px;
+    gap:10px;
+}
+
+
+
+#capitulo article{
+    border:2px solid black;
+
+}
+
+#capitulo article img{
+    width:100%;
+}

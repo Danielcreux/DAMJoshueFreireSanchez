@@ -83,37 +83,41 @@ section .contenedor p{
 	font-size: 16pt;
 }
 
-section .contenido{
-	width:1000x;
-	margin:0px;
-	padding:40px;
-
-	
-    
+ .contenido{
+	display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 28px;
+    padding: 76px;
+    max-width: 1600px;
+    margin: 0 auto;
 	
 }
-section .contenedor2{
-    display:grid;
-	object-fit:cover;
-	grid-row: auto;
-	grid-template-columns:(3,4fr);
-	grid-template-rows:(4,4fr);
-	gap:80px;
-	justify-content: space-evenly;
-
-	
+ .contenedor2{
+	background-color: #fff;
+    border: 4px solid black;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 	
 }
 
+ .contenedor2:hover{
+	transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
 
-section .contenedor2 #AntonioCano,h4{
-   border:3px solid black;
-   box-sizing: border-box;
-   text-align:left;
-  
-   
-   
-
-
+ .contenedor2 img{
+	width: 89%;
+    height: auto;
+    object-fit:cover;
+	margin-top:9px;
 	
 }
+
+ .contenedor2 h4{
+	margin: 10px 0 5px;
+    font-size: 1.2rem;
+    color: #333;
+}
+
