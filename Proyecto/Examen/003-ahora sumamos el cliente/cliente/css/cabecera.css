@@ -68,11 +68,36 @@ header{
 	}
 	
 	header .submenu{
-		min-height:3px;
-		width:100%;
+		padding:0px 30px;
 		background:#c2a464;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:nowrap;
+		justify-content:space-between;
+		align-items: center;
+		align-content: center;
+	}
+	header .submenu nav li{
+	  display:inline-block;
+	  font-weight:bolder;
+	  font-size:11pt;
+	  padding-left:22px;
+	  margin-left:22px;
+	  text-align:center;
+	  text-transform: uppercase;
+	  color:white;
+	  font-family:"TrajanPro3Bold","Open Sans ","san-serif";
+	  text-align:center;
 	}
 	header a{
+		color:#d6cab4;
+		opacity:0.8;
+		color:inherit;
+		text-decoration:none;
+		
+	}
+	.activo{
+		color:#c2a464 !important;
 		color:inherit;
 		text-decoration:none;
 	}

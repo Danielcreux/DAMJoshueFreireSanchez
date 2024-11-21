@@ -7,18 +7,20 @@ conexion = mysql.connector.connect(
     database="examenprogramacion"    
 )                                                       # Me conecto a la base de datos
 
-def seleccionaCapitulos():
+def seleccionaExpertos():
     cursor = conexion.cursor(dictionary = True)             # Creo un cursor y me aseguro de que la info me viene en JSON
-    peticion = "SELECT * FROM capitulos"                    # Pido todo de capitulos
+    peticion = "SELECT * FROM expertos"                    # Pido todo de expertos 
     cursor.execute(peticion)                                # Ejecuto la peticion
     filas = cursor.fetchall()                               # Saco las filas
     return filas                                            # Imprimo las filas
 
-def seleccionaCapitulo(Identificador):
+def seleccionaExperto(Identificador):
     try:
         Identificador = int(Identificador)
-        cursor = conexion.cursor(dictionary = True)             # Creo un cursor y me aseguro de que la info me viene en JSON
-        peticion = f"SELECT * FROM capitulos WHERE Identificador = {Identificador}"                    # Pido todo de capitulos
+        cursor = conexion.cursor(dictionary = True)                    # Creo un cursor y me aseguro de que la info me viene en JSON
+        peticion = f""" SELECT * FROM expertos
+        WHERE Identificador = {Identificador}
+        """                                                     # Pido todos los expertos 
         cursor.execute(peticion)                                # Ejecuto la peticion
         filas = cursor.fetchall()                               # Saco las filas
         if filas != []:
@@ -26,29 +28,29 @@ def seleccionaCapitulo(Identificador):
         else:
             return False
     except:
-        return False
+            return False
 
-def insertaCapitulo(Titulo,Subtitulo,Imagen,Video,Texto):
+def insertaExperto(Nombre,Resumen,Imagen,Video,Texto):
     cursor = conexion.cursor(dictionary = True)                 # Creo un cursor y me aseguro de que la info me viene en JSON
     peticion = f"""
-    INSERT INTO capitulos
+    INSERT INTO expertos
     VALUES (
         NULL,
-        '{Titulo}',
-        '{Subtitulo}',
+        '{Nombre}',
+        '{Resumen}',
         '{Imagen}',
         '{Video}',
         '{Texto}'
-    )"""                                                    # Inserto un nuevo capítulo
+    )"""                                                    # Inserto un nuevo experto
     cursor.execute(peticion)                                # Ejecuto la peticion
     filas = cursor.fetchall()                               # Saco las filas
     conexion.commit()
     return True
 
-def eliminaCapitulo(Identificador):
+def eliminaExperto(Identificador):
     cursor = conexion.cursor(dictionary = True)                 # Creo un cursor y me aseguro de que la info me viene en JSON
     peticion = f"""
-    DELETE FROM capitulos
+    DELETE FROM expertos
     WHERE Identificador = {Identificador}
     """     
     cursor.execute(peticion)                                # Ejecuto la peticion
@@ -59,24 +61,24 @@ def eliminaCapitulo(Identificador):
 def actualizaCampo(cadena,valor,Identificador):
     cursor = conexion.cursor(dictionary = True) 
     peticion = f"""
-        UPDATE capitulos
+        UPDATE  expertos
         SET 
             {cadena} = '{valor}'
             
         WHERE
-        Identificador = {Identificador};
-        """                                                    # Inserto un nuevo capítulo
+        Identificador = {Identificador}
+        """                                                    # Inserto un nuevo experto 
     cursor.execute(peticion)                                # Ejecuto la peticion
     filas = cursor.fetchall()                               # Saco las filas
     print(filas)                                            # Imprimo las filas
     conexion.commit()
     
-def actualizaCapitulo(Identificador,Titulo,Subtitulo,Imagen,Video,Texto):
+def actualizaExperto(Identificador,Nombre,Resumen,Imagen,Video,Texto):
                     # Creo un cursor y me aseguro de que la info me viene en JSON
-    if Titulo != "":
-        actualizaCampo("Titulo",Titulo,Identificador)
-    if Subtitulo != "":
-        actualizaCampo("Subtitulo",Subtitulo,Identificador)
+    if Nombre != "":
+        actualizaCampo("Nombre",Nombre,Identificador)
+    if Resumen != "":
+        actualizaCampo("Resumen",Resumen,Identificador)
     if Imagen != "":
         actualizaCampo("Imagen",Imagen,Identificador)
     if Video != "":

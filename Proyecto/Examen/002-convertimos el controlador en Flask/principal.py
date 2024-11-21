@@ -10,8 +10,8 @@ usuario = "examenprogramacion"                                                  
 contrasena = "examenprogramacion"                                                         # Creo una variable para definir la contraseña del usuario
 base_de_datos = "examenprogramacion"                                                      # Creo una variable para definiar la base de datos a la que me conecto
 
-@aplicacion.route('/damearticulos')                                                      # Defino la ruta en la que el servidor va a escuchar
+@aplicacion.route('/dameexperto')                                                      # Defino la ruta en la que el servidor va a escuchar
 def inicio():                                                               # Defino lo que se ejecuta en esa ruta                                            # A la lista de entradas, le añado una entrada
-    return seleccionaCapitulos()                                                        # Devuelvo la lista de entradas, ahora con las entradas correctas     
+    return seleccionaExpertos()                                                        # Devuelvo la lista de entradas, ahora con las entradas correctas     
 
 aplicacion.run()
