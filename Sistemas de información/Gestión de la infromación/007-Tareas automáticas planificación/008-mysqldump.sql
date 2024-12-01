@@ -1,0 +1,1 @@
+mysqldump.exe -u test -p test >test.sql

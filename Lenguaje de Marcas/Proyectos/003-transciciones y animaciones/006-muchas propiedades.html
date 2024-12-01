@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+    <head>
+        <style>
+            div{
+                width:200px;
+                height: 200px;
+                background:red;
+                animation: muevemueve 10s;
+                animation-iteration-count:infinite; 
+            }
+            @keyframes muevemueve{
+                0%{background:red;top:0px;left:0px;}
+                25%{background: blue;top:0px;left:100px;}
+                50%{background: red;top:100px;left:100px;}
+                75%{background: green;top:100px;left:0px;}
+                100%{background: orange;top:0px;left:0px;}
+            }
+        </style>
+    </head>
+    <body>
+        <div></div>
+    </body>
+
+</html>
