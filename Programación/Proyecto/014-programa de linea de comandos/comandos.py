@@ -1,6 +1,6 @@
-from ConectorBD import *
+from ConectorDB import *
 
-conexion1 = ConectorBD()
+conexion1 = ConectorDB()
     
 print("Programa de gestion de empresa")
 print("v0.1 por Jose Vicente Carratala")

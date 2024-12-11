@@ -1,58 +1,44 @@
-class Empleado:
-     def__init__(self,
-                 nuevonombre,
-                 nuevoapellidos,
-                 nuevoemail,
-                 nuevotelefono
-                 ):
-         self.nombre = nuevonombre
-         self.apellidos = nuevosapellidos
-         self.email = nuevoemail
-         self.telefono = nuevotelefono
-         set.edad = nuevaedad
-class Cliente:
-     def__init__(self,
-                 nuevonombre,
-                 nuevoapellidos,
-                 nuevoemail,
-                 nuevotelefono
-                 ):
-         self.nombre = nuevonombre
-         self.apellidos = nuevosapellidos
-         self.email = nuevoemail
-         self.telefono = nuevotelefono
-         set.edad = nuevaedad
+class Persona:
+    def __init__(self, nombre, apellidos, email, telefono, edad):
+        self.nombre = nombre
+        self.apellidos = apellidos
+        self.email = email
+        self.telefono = telefono
+        self.edad = edad
+    
     def dameDatos(self):
         print(
-            "Nombre:",
-            self.nombre,
-            "- Apellidos:",
-            self.apellidos,
-            "-Email:",
-            self.email,
-            "-Telefono:",
-            self.telefono)
-    def getNombre(self)
-        return self.nombre
-    def setNombre(self,nuevonombre):
-        self.nombre = nuevonombre
+            f"Nombre: {self.nombre}, Apellidos: {self.apellidos}, "
+            f"Email: {self.email}, Teléfono: {self.telefono}"
+        )
 
 
-       def getEdad(self)
-        return self.edad
-    def setEdad(self,nuevoedad):
-         if nuevaedad = self.edad + 1:
+class Empleado(Persona):
+    def __init__(self, nombre, apellidos, email, telefono, edad, puesto):
+        super().__init__(nombre, apellidos, email, telefono, edad)
+        self.puesto = puesto
+    
+    def dameDatos(self):
+        super().dameDatos()
+        print(f"Puesto: {self.puesto}")
+
+
+class Cliente(Persona):
+    def setEdad(self, nuevaedad):
+        if nuevaedad == self.edad + 1:
             self.edad = nuevaedad
         else:
-            print("operación no permitida")
+            print("Operación no permitida")
 
-cliente1 = cliente(
-     "Jose Vicente",
-     "Carratalá",
-     "info@jocarsa.com",
-     6535646,
-     20
-     }
-     
-        
-            
+
+# Crear instancias y probar
+cliente1 = Cliente("Jose Vicente", "Carratalá", "info@jocarsa.com", 6535646, 20)
+empleado1 = Empleado("Ana María", "López", "ana@empresa.com", 1234567, 30, "Gerente")
+
+# Usar métodos
+cliente1.dameDatos()
+print(f"Edad inicial del cliente: {cliente1.edad}")
+cliente1.setEdad(21)
+print(f"Edad actualizada del cliente: {cliente1.edad}")
+
+empleado1.dameDatos()

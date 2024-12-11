@@ -1,9 +1,9 @@
-From ConectorBD import*
+from ConectorBD import*
 
 conexion1 = ConectorBD()
 
 print("Programa de gestion de empresa")
-print("v0.1 por Joshue)
+print("v0.1 por Joshue")
 while True:
     print("Menú inicial")
     print("Tablas:")
@@ -26,7 +26,7 @@ while True:
     if opcion2 == "1":
           print("Insertaremos un registro")
     if opcion2 == "2":
-          print(conexion1.leerTabla(tablas[int(opcion)-1['Tables_in_programacion'])))
+          print(conexion1.leerTabla(tablas[int(opcion)-1]['Tables_in_programacion']))
     if opcion2 == "3":
           print("Actualizaremos un registro")
     if opcion2 == "4":

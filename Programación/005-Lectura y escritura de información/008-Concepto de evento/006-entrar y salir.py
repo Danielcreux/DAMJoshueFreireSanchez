@@ -28,7 +28,7 @@ boton.bind("<Button-1>",saluda)
 boton.bind("<Button-2>",clickmedio)
 boton.bind("<Button-3>",clickderecho)
 
-boton.bind("<Double-Button-1>",clickderecho)
+boton.bind("<Double-Button-1>",dobleclick)
 
 boton.bind("<Enter>",entrar)
 boton.bind("<Salir>",salir)

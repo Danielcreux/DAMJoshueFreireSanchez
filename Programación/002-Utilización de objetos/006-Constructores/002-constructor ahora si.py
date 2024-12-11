@@ -13,7 +13,8 @@ class Gato:
         print("ffffffffff")
         
         
-gato1 = Gato("Micifu",10,0.2,5)
+gato1 = Gato("Micifu",10,0.2,0)
 
 print("El nombre del gato es",gato1.nombre)
 print("La edad del gato es",gato1.edad)
+print("La altura del gato", gato1.altura)
