@@ -7,6 +7,7 @@
 #carrusel1{
     width: 1000%;
     animation: muevecadapoco 30s;
+    position: relative;
 }
 
 
@@ -36,7 +37,8 @@
 }
 #carrusel2{
     width: 1000%;
-    animation: muevecadapoco 30s;
+    animation: muevecontinuo 190s;
+    animation-timing-function:linear;
     position:relative;
 }
 
@@ -50,4 +52,17 @@
     box-sizing: border-box;
     padding:40px;
     
+}
+
+@keyframes muevecontinuo{
+    0%{left: 0px;}
+    5%{left: -1024px;}
+    10%{left: -1024px;}
+    15%{left: -2048px;}
+    20%{left: -2048px;}
+    25%{left: -3072px;}
+    30%{left: -3072px;}
+    35%{left: -4096px;}
+    40%{left: -4096px;}
+
 }
