@@ -1,0 +1,64 @@
+SSOO de entorno gráfico:
+-Windows
+-Linux -Gnome -XFCE -....
+-macOs 
+
+SSOO de linea de comando:
+-Windows -CMD -Powershell
+-Linux -Shell Bash
+-macOs-Shell Bash
+
+-Operaciones:
+Listar directorios ls/dir
+Limpiar pantalla: cls/clear
+cambiar directorio: cd
+retornar a antiguo directorio: cd ..
+copiar archivos o carpetas: cp
+Mover archivos o carpetas: mv
+Eliminar: del
+crear carpetas: mkdir
+
+Carpetas encontramos por defecto en windows:
+-Users
+	-tu usuario
+		-Escritorio
+			-Papelera
+		-Documentos
+		-Imagenes
+		-Musica
+		-Videos
+	-Archivos de programa(64bits)
+	-Archivos de programa x86 (32 bits)
+	-Windows
+		-Contiene toda la información necesaria para que funciones el sistema operativo
+	-No toquéis la carpeta de Windows a menos que sepas lo que estás haciendo
+
+-ProgramData
+	-Guarda los datos de los programas (archivos de configuración)
+
+Linux
+	-bin:Archivos binarios -ejecutables de programas
+	-boot:Archivos de arranque del sistema-NO TOCAR
+	-cdrom: Carpeta donde se monta el CDROM
+	-dev: Se listan los dispositivos del sistema 
+	-etc: archivos de configuración del sistema 
+	-home: La carpeta donde están las carpetas personales de los usuarios
+	-lib:Librerías compartidas
+	-lost+found: La oficina de objetos perdidos
+	-media: Se ponen los objetos multimedia y dispositivos multimedia del 	sistema
+	-mnt: Donde se montan los discos duros que haya en el sistema 
+	-opt:Opciones de las aplicaciones
+	-proc:Procesos del sistema
+	-Root:carpeta del superadministrador NO TOCAR
+	-run:Carpeta con ejecutables
+	-snap:Carpeta que almacena los paquetes de la tienda snap
+	-srv: Almacenaje de los servicios de sistema 
+	-swap:archivo de intercambio
+	-sys:archivos de sistema
+	-tmp:Carpeta de archivos temporales
+	-usr: Programas no de sistema sino de usuario
+	-Var. Infromación guardada por los programas
+
+
+
+	
