@@ -1,11 +1,15 @@
 .heroe{
 	text-align:center;
-	min-height:400px;
+	height:505px;
 	background:blue;
 	color:white;
 	box-sizing:border-box;
-	padding:40px;
-	background-position:center !important;
+	padding:50px; 
+    background-repeat: no-repeat; /* No repetir la imagen */
+    background-size: cover; /* Ajustar la imagen dentro del contenedor */
+    background-position: center !important; /* Centrar la imagen dentro del box */
+    margin: 0 auto; /* Centra/* Centrar horizontalmente y alinear arriba */
+  
 }
 .heroe h3,.heroe h4{
 	font-size:3em;
@@ -13,6 +17,7 @@
 	margin:0px;
 	margin-bottom:10px;
 	font-weight:normal;
+ 
 }
 .heroe button{
 	padding:20px;

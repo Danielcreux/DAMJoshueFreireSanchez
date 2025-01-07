@@ -1,5 +1,5 @@
 <section id="destacados">
-	<template id="destacado">
+	<template id="plantilladestacado">
 		<article>
 			<h3>Título</h3>
 			<h4>Frase de marketing</h4>

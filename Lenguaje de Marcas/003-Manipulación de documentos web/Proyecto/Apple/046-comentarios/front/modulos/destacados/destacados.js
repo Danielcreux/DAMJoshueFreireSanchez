@@ -1,16 +1,17 @@
-fetch("../back/?tabla=destacados")
-.then(function(response){
-	return response.json()
+fetch("../back/?tabla=destacado")													// Cargo un endpoint en el back
+.then(function(response){														// Cuando obtenga respuesta
+	return response.json()														// La conbierto en json
 })
-.then(function(datos){
-	console.log(datos)																				// Creo un array de elementos
-	let contenedordestacados = document.querySelector("#destacados")		// Selecciono un contenedor
-	let plantilladestacados = document.querySelector("#destacado")			// Selecciono el elemento plantilla
-	datos.forEach(function(dato){										// Para cada destacado
-		let instancia = plantilladestacados.content.cloneNode(true);		// Clono la plantilla
-		instancia.querySelector("h3").textContent = dato.titulo					/// Cambio el texto de cada instancia
+.then(function(datos){															// Y cuando reciba datos
+	console.log(datos)
+	let contenedordestacados = document.querySelector("#destacados")
+	let plantilladestacado = document.querySelector("#plantilladestacado")
+	datos.forEach(function(dato){
+		let instancia = plantilladestacado.content.cloneNode(true);
+		instancia.querySelector("h3").textContent = dato.titulo
 		instancia.querySelector("h4").textContent = dato.texto
-		instancia.querySelector("article").style.background = "url(data:image/png;base64,"+dato.imagen+"article"		
-		contenedordestacados.appendChild(instancia)	
-	})							// Lo añado al contenedor
+		instancia.querySelector("article").style.background = "url(data:image/png;base64,"+dato.imagen+")"
+		contenedordestacados.appendChild(instancia)
+		
+	})
 })
