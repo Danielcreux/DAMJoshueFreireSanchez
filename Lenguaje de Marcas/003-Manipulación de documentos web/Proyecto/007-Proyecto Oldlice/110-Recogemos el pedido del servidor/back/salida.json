@@ -1,0 +1,23 @@
+{
+    "cliente": {
+        "nombre": "gat",
+        "apellidos": "",
+        "email": "0913755708"
+    },
+    "pedido": {
+        "fecha": "2025-2-10",
+        "numerodepedido": "20252101572"
+    },
+    "productos": [
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        },
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        }
+    ]
+}
