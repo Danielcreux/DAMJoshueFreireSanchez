@@ -12,9 +12,11 @@ Mediante esta libreria es posible convertir archivos de markdown directamente en
 ### Instrucciones de uso 
 
 1. Descarga la libreria desde Github
-2. Situa la libreria cerca de tu proyecto
-3. Incluye la libreria en tu proyecto con **include** o **require**
-4. Llama a la libreria para convertir tu documento (*Sigue el ejemplo que te indicamos a continuación*)
+   	1. Accede a la url: [Enlace al repositorio de github](URL= "https://github.com/Danielcreux/joshue-navy/")
+   	2. Utiliza el botón para descargar repositorio completo
+3. Situa la libreria cerca de tu proyecto
+4. Incluye la libreria en tu proyecto con **include** o **require**
+5. Llama a la libreria para convertir tu documento (*Sigue el ejemplo que te indicamos a continuación*)
 
 ### URL para conseguir la libreria:
 Puede conseguir la libreria desde:
