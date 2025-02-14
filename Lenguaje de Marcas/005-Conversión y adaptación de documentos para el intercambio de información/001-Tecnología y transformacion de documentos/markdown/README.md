@@ -19,3 +19,9 @@ Mediante esta libreria es posible convertir archivos de markdown directamente en
 ### URL para conseguir la libreria:
 Puede conseguir la libreria desde:
 [Enlace al repositorio de github](URL= "https://github.com/Danielcreux/joshue-navy/")
+
+### Ejemplos de uso
+
+Para insertar el codigo dentro de tu proyecto, debes hacerlo mediante el comando **include**:
+
+```include "joshue-navy.php";```
