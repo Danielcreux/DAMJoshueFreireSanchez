@@ -6,25 +6,13 @@
 * Servicio en línea 
 
 ### Evaluación sobre la aplicación jocarsa | oldlace
-### Creación de marcaje en HTML-PHP
+## Creación de marcaje en HTML-PHP
+-Presentación de nuestra pantalla de inicio 
+![alt Marcaje HTML-PHP ](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/2c4052752468eb555a17782165f756f983ae721e/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/007-Proyecto%20Oldlice/imagenes/Captura.PNG)
+- Se integra con el marcaje del Html-Php para que de esta tengamos una mejor opcion al momento de programar lo cual facilita a un desarrollo mucho mas eficaz sin perder tiempo innecesario
+- En este ejemplo vemos como con etiquetas html colocamos los heroes los cuales nos va permitir que los siguientes que se vayan creando se rigan a ese modelo en específico que se plantea en el código 
+![alt Marcaje HTML-PHP ](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/2c4052752468eb555a17782165f756f983ae721e/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/007-Proyecto%20Oldlice/imagenes/Captura.PNG)
 
-![alt Marcaje HTML-PHP ]()
-1. Se integra con el marcaje del Html-Php para que de esta tengamos una mejor opcion al momento de programar lo cual facilita a un desarrollo mucho mas eficaz sin perder tiempo innecesario 
-2. En este ejemplo vemos como con etiquetas html colocamos un mensaje el cual nos advierte que la página está en mantenimiento, en el cual se incluyen los modales con sus respectivos lenguajes gracias a la intervención de php 
-```
-<div id="contienemodalpersonalizado">
-	<div id="modalpersonalizado">
-		<span>⚠️</span>
-		<p>Web en mantenimiento - Estaremos contigo de nuevo en breve</p>
-	</div>
-</div>
-<script>
-	<?php include "modalpersonalizado.js"?>
-</script>
-<style>
-	<?php include "modalpersonalizado.css"?>
-</style>
-```
 ### Creación de estilo en CSS
 1. Ofrecemos un diseño el cual deslumbrará al momento de ingresar a nuestra página
 2. Con Css se ha retocado de tal forma que tenga un menú en el cual se distribuye en heroes donde facilita el acceso hacia lo que el cliente desea ingresar
