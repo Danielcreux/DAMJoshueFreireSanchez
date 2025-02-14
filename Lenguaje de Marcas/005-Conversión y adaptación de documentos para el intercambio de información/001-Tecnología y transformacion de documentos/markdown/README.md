@@ -51,3 +51,7 @@ echo $htmlContent;
 </html>
 ```
 ### Historial de caracteristicas
+[x] Publicar libreria
+[x] Soporte para markdown
+[ ] Eliminar caracter | para compatibilidad de windows
+
