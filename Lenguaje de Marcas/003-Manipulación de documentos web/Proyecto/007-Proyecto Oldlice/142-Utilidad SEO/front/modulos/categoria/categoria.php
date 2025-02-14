@@ -52,15 +52,3 @@
     	?>
 </style>														
 		
-
-    
-    ?>
-</main>
-<script>
-    <?php include "categoria.js"; ?>
-</script>
-<style>
-    <?php 
-    	include "categoria.css"; 
-    	?>
-</style>

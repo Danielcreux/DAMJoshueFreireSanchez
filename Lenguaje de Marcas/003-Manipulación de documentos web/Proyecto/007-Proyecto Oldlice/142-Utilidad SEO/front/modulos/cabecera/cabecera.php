@@ -1,6 +1,6 @@
 <header>
 	<div class="contenedor">
-		<a href="index.php" id="corporativo"><img src="img/logo.svg"><h1>FabriCraft</h1></a>
+		<a href="index.php" id="corporativo"><img src="img/impresion.svg"><h1>FabriCraft</h1></a>
 		<nav>
 			<ul>
 				<template id="elementomenu">
