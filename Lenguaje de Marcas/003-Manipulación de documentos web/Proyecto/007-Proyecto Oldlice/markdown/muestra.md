@@ -19,7 +19,7 @@
 
 - Un estilo único en donde la tienda deslumbra con su diseño
   
-  ![alt Estilo CSS ](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/ae1900f1dd2fe16bab8bd65f731067db2275e1bb/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/007-Proyecto%20Oldlice/imagenes/Captura4.PNG)
+  ![alt Estilo CSS ](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/f5090b17de7b3aff2d51951fe4194b6c701966e9/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/007-Proyecto%20Oldlice/imagenes/Captura4.PNG)
   
 1. Adjuntamos un fragmento del css el cual le ha dado estilo a la tienda la cual nos permite en este caso poder darle al cliente una mejor interfaz donde se le facilitará la compra de los productos
    
@@ -36,10 +36,26 @@
  ```
 
 
-
 ## Creación de controladores en JS con conexión fetch a un backend para full Stack
+- Página creada para una mejor accesibilidad
+
+  ![alt controladores JS ](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/f5090b17de7b3aff2d51951fe4194b6c701966e9/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/007-Proyecto%20Oldlice/imagenes/Captura5.PNG)
+
 1.Garantiza una flexibilidad de archivos al convertir los datos  
 2.Permite que el desarrollador tenga una mejor vinculación con la base de datos lo cual favorecera al momento de desear actualizar la página web 
+
+```
+ // Recupera el carrito actual
+	let contenidoanterior = JSON.parse(localStorage.getItem(clavealmacenaje)); // Convertimos a objeto JS
+	console.log("Contenido anterior del carrito:", contenidoanterior);
+
+	 // Agrega el producto actual al carrito
+	contenidoanterior.push(actual);
+
+	 // Guarda el carrito actualizado
+	localStorage.setItem(clavealmacenaje, JSON.stringify(contenidoanterior));
+	console.log("Producto añadido al carrito:", actual);
+```
 
 
 ## Creación de un backend con FullStack para atender a peticiones del front
