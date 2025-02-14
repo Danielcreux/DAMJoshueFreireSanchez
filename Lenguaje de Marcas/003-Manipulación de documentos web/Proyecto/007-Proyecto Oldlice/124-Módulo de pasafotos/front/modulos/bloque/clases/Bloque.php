@@ -47,7 +47,7 @@ abstract class Bloque {
             $cadena .= "$clave:$valor;";
         }
         return $cadena;
-    }
+    }   
 }
 
 class BloqueCompleto extends Bloque {
