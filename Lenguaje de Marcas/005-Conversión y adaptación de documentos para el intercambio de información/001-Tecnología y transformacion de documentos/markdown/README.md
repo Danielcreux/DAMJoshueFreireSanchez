@@ -25,3 +25,5 @@ Puede conseguir la libreria desde:
 Para insertar el codigo dentro de tu proyecto, debes hacerlo mediante el comando **include**:
 
 ```include "joshue-navy.php";```
+
+Ejemplo completo de uso:
