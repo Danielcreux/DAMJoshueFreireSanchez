@@ -19,7 +19,7 @@
 
 - Un estilo único en donde la tienda deslumbra con su diseño
   
-  ![alt Estilo CSS ](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/ae1900f1dd2fe16bab8bd65f731067db2275e1bb/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/007-Proyecto%20Oldlice/imagenes/Captura3.PNG)
+  ![alt Estilo CSS ](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/ae1900f1dd2fe16bab8bd65f731067db2275e1bb/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/007-Proyecto%20Oldlice/imagenes/Captura4.PNG)
   
 1. Adjuntamos un fragmento del css el cual le ha dado estilo a la tienda la cual nos permite en este caso poder darle al cliente una mejor interfaz donde se le facilitará la compra de los productos
    
