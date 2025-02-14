@@ -7,6 +7,8 @@
 
 ### Evaluación sobre la aplicación jocarsa | oldlace
 ### Creación de marcaje en HTML-PHP
+
+![alt Marcaje HTML-PHP ]()
 1. Se integra con el marcaje del Html-Php para que de esta tengamos una mejor opcion al momento de programar lo cual facilita a un desarrollo mucho mas eficaz sin perder tiempo innecesario 
 2. En este ejemplo vemos como con etiquetas html colocamos un mensaje el cual nos advierte que la página está en mantenimiento, en el cual se incluyen los modales con sus respectivos lenguajes gracias a la intervención de php 
 ```
@@ -27,7 +29,7 @@
 1. Ofrecemos un diseño el cual deslumbrará al momento de ingresar a nuestra página
 2. Con Css se ha retocado de tal forma que tenga un menú en el cual se distribuye en heroes donde facilita el acceso hacia lo que el cliente desea ingresar
 
-img = Lenguaje de Marcas/003-Manipulación de documentos web/Proyecto/007-Proyecto Oldlice/imagenes/Captura.PNG
+(img = "imagenes/Captura.PNG")
 
 ### Creación de controladores en JS con conexión fetch a un backend para full Stack
 1.Garantiza una flexibilidad de archivos al convertir los datos  
