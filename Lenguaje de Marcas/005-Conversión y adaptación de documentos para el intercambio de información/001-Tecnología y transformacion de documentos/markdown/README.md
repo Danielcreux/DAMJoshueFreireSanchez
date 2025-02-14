@@ -15,3 +15,6 @@ Instrucciones de uso
 2. Situa la libreria cerca de tu proyecto
 3. Incluye la libreria en tu proyecto con **include** o **require**
 4. Llama a la libreria para convertir tu documento (*Sigue el ejemplo que te indicamos a continuación*)
+
+URL para conseguir la libreria:
+Puede conseguir la libreria desde:
