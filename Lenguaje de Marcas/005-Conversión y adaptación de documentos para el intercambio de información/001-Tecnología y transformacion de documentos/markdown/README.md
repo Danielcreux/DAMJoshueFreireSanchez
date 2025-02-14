@@ -18,4 +18,4 @@ Mediante esta libreria es posible convertir archivos de markdown directamente en
 
 ### URL para conseguir la libreria:
 Puede conseguir la libreria desde:
-https://github.com/jocarsa
+[Enlace al repositorio de github](URL= "https://github.com/Danielcreux/joshue-navy/")
