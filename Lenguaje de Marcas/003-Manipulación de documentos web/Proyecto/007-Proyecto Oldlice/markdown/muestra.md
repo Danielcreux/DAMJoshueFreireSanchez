@@ -25,8 +25,9 @@
 ```
 ### Creación de estilo en CSS
 1. Ofrecemos un diseño el cual deslumbrará al momento de ingresar a nuestra página
-
-URL="
+2. Con Css se ha retocado de tal forma que tenga un menú en el cual se distribuye en heroes donde facilita el acceso hacia lo que el cliente desea ingresar
+   
+(img="")
 ### Creación de controladores en JS con conexión fetch a un backend para full Stack
 ### Creación de un backend con FullStack para atender a peticiones del front
 ### Conexión con base de datos existente en MySQL desde el backend
