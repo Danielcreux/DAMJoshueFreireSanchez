@@ -27,3 +27,24 @@ Para insertar el codigo dentro de tu proyecto, debes hacerlo mediante el comando
 ```include "joshue-navy.php";```
 
 Ejemplo completo de uso:
+
+```
+<?php
+	include "joshue-navy.php";
+	$markdownFile = "muestra.md";
+	$markdownContent = file_get_contents($markdownFile);
+	$htmlContent = markdownToHtml($markdownContent);
+?>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conversión Markdown a HTML</title>
+</head>
+<body>
+<?php
+echo $htmlContent;
+?>
+</body>
+```
+</html>
