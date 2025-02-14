@@ -48,5 +48,6 @@ Ejemplo completo de uso:
 echo $htmlContent;
 ?>
 </body>
-```
 </html>
+```
+### Historial de caracteristicas
