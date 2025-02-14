@@ -26,23 +26,34 @@
 ### Creación de estilo en CSS
 1. Ofrecemos un diseño el cual deslumbrará al momento de ingresar a nuestra página
 2. Con Css se ha retocado de tal forma que tenga un menú en el cual se distribuye en heroes donde facilita el acceso hacia lo que el cliente desea ingresar
-   
-(img="")
+
+img = Lenguaje de Marcas/003-Manipulación de documentos web/Proyecto/007-Proyecto Oldlice/imagenes/Captura.PNG
+
 ### Creación de controladores en JS con conexión fetch a un backend para full Stack
+1.Garantiza una flexibilidad de archivos al convertir los datos  
+2.Permite que el desarrollador tenga una mejor vinculación con la base de datos lo cual favorecera al momento de desear actualizar la página web 
+
+
 ### Creación de un backend con FullStack para atender a peticiones del front
+1. Panel que cumple con las peticiones del cliente
+2. Con la creación del backend nos aseguramos que de esta manera se pueda destinar lo que queremos tener en nuestra web
+
+
 ### Conexión con base de datos existente en MySQL desde el backend
+1. Contamos con el respaldo de que los datos que ingresemos se alojan en una base de datos
+2. Desde el backend tenemos una conexión directa con Mysql lo cual nos permite desde insertar hasta poder eliminar contenido de la web
+
+
 ### Programación con estructura modular, con MVC
+1. Se tomó en cuenta la divisón de carpetas para así tener una visión amplia de la página web
+2. Permitiendo que gracias a la estructura podamos trabajar tras la página web de una manera mucho más puntual sin que tengamos un sin fin de código
+    
+
 ### Adición de vuestro propio contenido a la web del proyecto (crear un proyecto propio)
+1. Ofrecer el servicio de impresion 3D
+2. Donde se ofrecerá una amplia gama de servicios con respecto a este gran avance tecnológico 
 
 
-
-1.
-   	1. Accede a la url: [Enlace al repositorio de github](URL= "https://github.com/Danielcreux/joshue-navy/")
-   	2. Utiliza el botón para descargar repositorio completo
-3. Situa la libreria cerca de tu proyecto
-4. Incluye la libreria en tu proyecto con **include** o **require**
-5. Llama a la libreria para convertir tu documento (*Sigue el ejemplo que te indicamos a continuación*)
-
-### URL para conseguir la libreria:
-Puede conseguir la libreria desde:
-[Enlace al repositorio de github](URL= "https://github.com/Danielcreux/joshue-navy/")
+## Git Hub
+   1. Accede a la url: [Enlace al repositorio de github](URL= "https://github.com/Danielcreux/joshue-navy/")
+   2. Utiliza el botón para descargar repositorio completo
