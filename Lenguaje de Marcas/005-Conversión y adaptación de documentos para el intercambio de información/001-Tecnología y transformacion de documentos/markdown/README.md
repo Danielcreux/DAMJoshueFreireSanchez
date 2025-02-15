@@ -51,7 +51,34 @@ echo $htmlContent;
 </html>
 ```
 ### Historial de caracteristicas
-[x] Publicar libreria
-[x] Soporte para markdown
-[ ] Eliminar caracter | para compatibilidad de windows
+- [x] Publicar libreria
+- [x] Soporte para markdown
+- [ ] Eliminar caracter | para compatibilidad de windows
 
+Separador en HTML
+
+<hr>
+
+Separador en markdown:
+
+****
+
+Esto es un texto
+
+### Estado actual del soporte de elementos en la libreria
+
+| Nombre de la caracteristica | Estado         |        
+|-----------------------------|----------------|
+| Titulares                   |[x] Implementado| 
+| Enlaces                     |[x] Implementado| 
+| Graficas                    |[x] Implementado|
+
+### Autor de la libreria
+
+Esta libreria fue creada para imagen
+
+![alt Joshué](https://www.kia.com/content/dam/kwcms/gt/en/images/discover-kia/voice-search/parts-80-1.jpg)
+
+Y como siempre dice el autor:
+
+>"Cuidado con lso puntos y coma"
