@@ -8,8 +8,8 @@
 				public function __construct(){
 					$this->conexion = mysqli_connect(
 						"localhost", 
-						"proyectoapple", 
-						"proyectoapple", 
+						"oldlice", 
+						"oldlice", 
 						"proyectoapple"
 					);	
 				}
