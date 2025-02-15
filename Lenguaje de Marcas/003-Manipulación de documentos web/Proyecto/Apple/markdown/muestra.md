@@ -5,7 +5,7 @@
 
 - Un diseño moderno donde será lo más minimilista posible
 
-![ALT diseño]
+![ALT diseño](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/82431547131b0692f3173458f4c5a08ece2cb4e4/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/Apple/imagenes/Captura.PNG)
 
 ****
 
@@ -35,7 +35,7 @@
 ### Creación de un login con usuario y contraseña
 - Una interfaz sencilla para poder acceder a tu página de administrador
   
-  ![ALT login]
+  ![ALT login](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/82431547131b0692f3173458f4c5a08ece2cb4e4/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/Apple/imagenes/Captura2.PNG)
 
 ****
 
@@ -56,11 +56,12 @@ include "config/config.php";								// Cargo los datos de conexión
 ### Creación de un supercontrolador para implementar CRUD sobre las tablas
 - Gestiona con tan solo click si deseas actualizar tu web
 
-   ![ALT CRUD]
+   ![ALT CRUD](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/82431547131b0692f3173458f4c5a08ece2cb4e4/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/Apple/imagenes/Captura3.PNG)
 
  ****
- 
-   ![ALT CRUDactualizado]
+ - hemos eliminado los últimos dos destacados los cuales han dejado de aparecer en el front
+   
+   ![ALT CRUDactualizado](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/82431547131b0692f3173458f4c5a08ece2cb4e4/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/Apple/imagenes/Captura4.PNG)
   
  1. Se creo un controlador CRUD el cual nos permite ya sea eliminar o insertar en la base de datos que deseamos que nos aparezca en nuestra página web, lo cual facilita la gestión al momento de actualizar la página
 -En el ejemplo se aprecia un fragmento del archivo eliminar y la petición que se lleva a cabo para poder vaciar el contenido
@@ -79,7 +80,7 @@ $resultado = $conexion->query($peticion);
    
 ****
 
-![ALT Estilo]
+![ALT Estilo](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/82431547131b0692f3173458f4c5a08ece2cb4e4/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/Apple/imagenes/Captura5.PNG)
 
 1.Personalización en el panel para poder obtener las datos de la tabla de una manera ordenada
 2.En este código vemos como se personaliza mediante css para darle forma a la tabla que nos se presentará los datos que tenemos en el front 
@@ -98,7 +99,7 @@ table tbody tr:nth-child(odd){
 
 ****
 
-![ALT Base de datos]
+![ALT Base de datos](https://github.com/Danielcreux/DAMJoshueFreireSanchez/blob/82431547131b0692f3173458f4c5a08ece2cb4e4/Lenguaje%20de%20Marcas/003-Manipulaci%C3%B3n%20de%20documentos%20web/Proyecto/Apple/imagenes/Captura6.PNG)
 
 1. En este código vemos como hemos desarrollado para que se conecte con la base de datos
 2. Donde veremos que se ingresa desde el nombre de la base de datos, la contraseña y el usuario con los privilegios que se usó
