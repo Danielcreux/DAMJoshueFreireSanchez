@@ -7,7 +7,8 @@
 			"localhost", 
 			"oldlice", 
 			"oldlice", 
-			"proyectoapple"
+            "oldlice"
+            
 		);		
 	
 		$peticion = "

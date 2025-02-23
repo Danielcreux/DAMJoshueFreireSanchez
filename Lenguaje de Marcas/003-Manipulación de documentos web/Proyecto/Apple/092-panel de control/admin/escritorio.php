@@ -6,6 +6,7 @@
 	</head>
 	<body>
 		<header><h1>Joshué | DarkSlateBlue</h1></header>
+		<header>Joshue | DarkSlateBlue</header>
 		<main>
 			<nav>
 				<ul>

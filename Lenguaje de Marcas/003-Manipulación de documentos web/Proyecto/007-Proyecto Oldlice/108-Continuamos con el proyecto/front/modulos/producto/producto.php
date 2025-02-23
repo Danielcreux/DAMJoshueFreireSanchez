@@ -5,8 +5,8 @@
     $conexion = mysqli_connect(
 			"localhost", 
 			"oldlice", 
-			"oldlice", 
-			"proyectoapple"
+			"oldlice",
+            "oldlice"
 		);		
 	
 		$peticion = "

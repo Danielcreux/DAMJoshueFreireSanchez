@@ -13,6 +13,7 @@
 			</nav>
 			<section>
                 <?php if(isset($_GET['tabla']))?>
+                <?php if(isset($_GET['tabla'])){?>
                     <table>
                         <thead>
                             <tr>
@@ -35,6 +36,14 @@
                     </form>
                 <?php } ?>
 
+               <?php if(isset($_GET['formulario'])){ ?>
+                <h3>Nuevo elemento: <?php echo htmlspecialchars($_GET['formulario']); ?></h3>
+                <form action="insertar.php">
+                    <input type="hidden" name="tabla" value="<?php echo htmlspecialchars($_GET['formulario']); ?>">
+                    <?php include "inc/campoformulario.php"; ?>
+                    <input type="submit">
+                </form>
+            <?php } ?>
                 
 			</section>
 		</main>

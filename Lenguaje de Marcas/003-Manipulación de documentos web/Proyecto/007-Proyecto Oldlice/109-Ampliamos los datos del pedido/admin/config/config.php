@@ -1,9 +1,9 @@
 <?php
 
 	$servidor = "localhost";				// Defino el servidor
-	$usuario = "oldlice";			// Defino el usuario con permiso
 	$contrasena = "oldlice";		// Defino la contraseña de ese usuario
-	$base = "proyectoapple";				// Defino la base de datos
+	$usuario = "oldlice";			// Defino el usuario con permiso
+	$base = "oldlice";		// Defino la contraseña de ese usuario
 
 	$conexion = new mysqli(
 		$servidor, 

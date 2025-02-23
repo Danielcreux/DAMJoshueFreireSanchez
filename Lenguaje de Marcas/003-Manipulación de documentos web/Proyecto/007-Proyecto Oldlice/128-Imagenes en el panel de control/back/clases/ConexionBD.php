@@ -9,8 +9,8 @@
 					$this->conexion = mysqli_connect(
 						"localhost", 
 						"oldlice", 
-						"oldlice", 
-						"proyectoapple"
+						"oldlice",
+                        "oldlice"
 					);	
 				}
 			// Otros métodos que necesito
