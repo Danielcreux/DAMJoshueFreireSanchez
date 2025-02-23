@@ -1,0 +1,1 @@
+icacls "C:\ruta\a\la\carpeta" /grant Everyone:F /T /C /Q

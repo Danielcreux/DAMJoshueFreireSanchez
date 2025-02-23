@@ -1,0 +1,1 @@
+Nos permite determinar que donde exista un error nos lo muestre

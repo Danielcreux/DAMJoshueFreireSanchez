@@ -1,0 +1,9 @@
+Codigos permisos carpeta linux
+
+--- =0 no tiene permiso 
+r-- =4 solo permiso de lectura 
+r-x =5 permisos de lectura y ejecucion 
+rw- =6 permisos de lectura y escritura 
+rwx =7 todos los permisos establecidos, lectura, escritura y ejecución
+sudo chown -R www-data:www-data /nombrededirectorio  (para cambiar el usuario con acceso  esa carpeta)
+sudo chmod 644 -R /directorio

@@ -1,0 +1,20 @@
+<VirtualHost *:443>
+        ServerAdmin info@daniel.com
+        ServerName tomato.freire-sanchez-valencia.es
+        ServerAlias www.tomato.freire-sanchez-valencia.es
+
+        DocumentRoot /var/www/html/Tomato
+
+        SSLEngine on
+        SSLCertificateFile /etc/apache2/ssl/freire_combined.cer
+        SSLCertificateKeyFile /etc/apache2/ssl/freire.key
+
+        <Directory /var/www/html/Tomato>
+                Options Indexes FollowSymLinks
+                AllowOverride All
+                Require all granted
+        </Directory>
+
+        ErrorLog ${APACHE_LOG_DIR}/tomato-error.log
+        CustomLog ${APACHE_LOG_DIR}/tomato-acces.log combined
+</VirtualHost>

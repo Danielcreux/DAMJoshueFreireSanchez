@@ -1,0 +1,2922 @@
+[
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\001-hola mundo.py",
+        "fecha": "2024-09-12 00:00:25",
+        "tamano": 21
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\002-entradas.py",
+        "fecha": "2024-09-12 00:51:08",
+        "tamano": 25
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\003-tkinter.py",
+        "fecha": "2024-09-12 01:17:13",
+        "tamano": 129
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\004-entrada sencilla.py",
+        "fecha": "2024-10-14 20:37:25",
+        "tamano": 100
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\005-comentarios.py",
+        "fecha": "2024-09-12 01:35:29",
+        "tamano": 36
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\006-docstring.py",
+        "fecha": "2024-09-12 01:36:17",
+        "tamano": 96
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\007-deshabilitar codigo.py",
+        "fecha": "2024-10-14 20:11:10",
+        "tamano": 57
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\esquema1.svg",
+        "fecha": "2024-10-01 10:46:37",
+        "tamano": 2498
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\001-Estructura y bloques fundamentales\\esquema2.svg",
+        "fecha": "2024-10-01 10:46:46",
+        "tamano": 4717
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\002-Variables\\002-variable.py",
+        "fecha": "2024-09-12 00:02:15",
+        "tamano": 11
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\002-Variables\\003-imprimir variable.py",
+        "fecha": "2024-09-12 00:03:45",
+        "tamano": 47
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\002-Variables\\004-sobreescribir variable.py",
+        "fecha": "2024-09-12 00:09:47",
+        "tamano": 95
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\002-Variables\\005_reglas.py",
+        "fecha": "2024-10-14 21:00:59",
+        "tamano": 224
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\002-Variables\\006-te pregunto la edad.py",
+        "fecha": "2024-09-12 00:56:44",
+        "tamano": 129
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\003-Tipos de datos\\001-tipos de datos.py",
+        "fecha": "2024-09-12 00:25:21",
+        "tamano": 64
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\003-Tipos de datos\\002-tipos incorrectos.py",
+        "fecha": "2024-09-12 00:27:47",
+        "tamano": 93
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\003-Tipos de datos\\003-conversion de tipos.py",
+        "fecha": "2024-09-12 00:28:57",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\003-Tipos de datos\\004-conversion de tipos.py",
+        "fecha": "2024-09-12 00:30:50",
+        "tamano": 141
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\004-Literales\\005-literales.py",
+        "fecha": "2024-09-12 00:36:49",
+        "tamano": 71
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\005-Constantes\\001-constantes.py",
+        "fecha": "2024-09-12 00:39:47",
+        "tamano": 131
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\001-aritmeticos.py",
+        "fecha": "2024-09-12 00:41:52",
+        "tamano": 63
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\002-comparacion.py",
+        "fecha": "2024-09-12 00:44:28",
+        "tamano": 92
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\003-incrementos.py",
+        "fecha": "2024-09-12 00:48:08",
+        "tamano": 325
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\004-calculadora que dobla la edad.py",
+        "fecha": "2024-09-12 01:02:45",
+        "tamano": 165
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\005-calculadora.py",
+        "fecha": "2024-09-12 01:21:40",
+        "tamano": 250
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\006-solucion conversion de tipo.py",
+        "fecha": "2024-09-12 01:22:53",
+        "tamano": 308
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\007-estructura if.py",
+        "fecha": "2024-09-12 01:27:00",
+        "tamano": 586
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\008-constantes.py",
+        "fecha": "2024-10-14 21:44:34",
+        "tamano": 678
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\009-docstring.py",
+        "fecha": "2024-10-14 21:46:04",
+        "tamano": 808
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\001-Identificaci\u00f3n de los elementos de un programa\\006-Operadores y expresiones\\010-comentarios por seccion.py",
+        "fecha": "2024-10-14 21:47:17",
+        "tamano": 913
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\Mayuscula.txt",
+        "fecha": "2024-09-13 10:04:06",
+        "tamano": 89
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\001-Caracter\u00edstica de los objetos\\001-Programacion estructurada.py",
+        "fecha": "2024-09-13 09:59:54",
+        "tamano": 98
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\001-Caracter\u00edstica de los objetos\\002-creacion de una clase.py",
+        "fecha": "2024-10-14 22:14:51",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\002-Instancia de objetos\\001-instanciar.py",
+        "fecha": "2024-10-14 22:15:06",
+        "tamano": 173
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\003-Utilizaci\u00f3n de m\u00e9todos\\001-metodos.py",
+        "fecha": "2024-12-08 21:02:22",
+        "tamano": 368
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\003-Utilizaci\u00f3n de m\u00e9todos\\002-parametros.py",
+        "fecha": "2024-10-14 22:27:05",
+        "tamano": 405
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\004-utilizaci\u00f3n de propiedades\\001-propiedades.py",
+        "fecha": "2024-10-14 22:15:20",
+        "tamano": 411
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\006-Constructores\\001-constructores.py",
+        "fecha": "2024-10-01 11:00:34",
+        "tamano": 371
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\006-Constructores\\002-constructor ahora si.py",
+        "fecha": "2024-12-08 22:35:37",
+        "tamano": 554
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\006-Constructores\\003-agenda de contactos.py",
+        "fecha": "2024-09-13 10:54:23",
+        "tamano": 775
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\006-Constructores\\004-metodo.py",
+        "fecha": "2024-10-01 11:00:42",
+        "tamano": 829
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\002-Utilizaci\u00f3n de objetos\\007-Destrucci\u00f3n de objetos y liberaci\u00f3n de memoria\\001-destructor.py",
+        "fecha": "2024-09-13 10:57:04",
+        "tamano": 875
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\001-Estructura de selecci\u00f3n\\001-sin selecci\u00f3n.py",
+        "fecha": "2024-09-13 11:02:27",
+        "tamano": 111
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\001-Estructura de selecci\u00f3n\\002-if else.py",
+        "fecha": "2024-09-13 11:04:28",
+        "tamano": 101
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\001-Estructura de selecci\u00f3n\\002-if.py",
+        "fecha": "2024-09-13 11:04:03",
+        "tamano": 62
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\001-Estructura de selecci\u00f3n\\004-dias de la semana.py",
+        "fecha": "2024-09-13 11:09:36",
+        "tamano": 542
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\002-Estructura de repetici\u00f3n\\001-for.py",
+        "fecha": "2024-09-13 11:11:09",
+        "tamano": 75
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\002-Estructura de repetici\u00f3n\\002-while.py",
+        "fecha": "2024-10-01 11:07:19",
+        "tamano": 58
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\002-Estructura de repetici\u00f3n\\003-declaracion antes del bucle.py",
+        "fecha": "2024-09-18 15:11:47",
+        "tamano": 85
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\002-Estructura de repetici\u00f3n\\004-incremento dentro del bucle.py",
+        "fecha": "2024-10-01 11:07:27",
+        "tamano": 80
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\002-Estructura de repetici\u00f3n\\005-do-while.py",
+        "fecha": "2024-10-14 22:59:04",
+        "tamano": 80
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\003-Estructura de salto\\001-try.py",
+        "fecha": "2024-09-13 11:12:45",
+        "tamano": 77
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\003-Estructura de salto\\002-try ahora si.py",
+        "fecha": "2024-09-13 11:14:39",
+        "tamano": 172
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\001-docstring.py",
+        "fecha": "2024-09-13 11:17:59",
+        "tamano": 67
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\002-mensaje de bienvenida.py",
+        "fecha": "2024-09-13 11:22:22",
+        "tamano": 457
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\003-Menu principal.py",
+        "fecha": "2024-10-01 11:10:28",
+        "tamano": 317
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\004-atrapo una opci\u00f3n.py",
+        "fecha": "2024-10-01 11:10:40",
+        "tamano": 444
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\005-estructura de seleccion.py",
+        "fecha": "2024-09-13 11:26:59",
+        "tamano": 778
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\006-bucle sin fin.py",
+        "fecha": "2024-09-13 11:34:27",
+        "tamano": 1079
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\007-leer el diario.py",
+        "fecha": "2024-10-01 11:27:49",
+        "tamano": 950
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\007-opcion salir.py",
+        "fecha": "2024-10-01 11:11:02",
+        "tamano": 1118
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\019-prueba en php.php",
+        "fecha": "2024-10-06 15:12:12",
+        "tamano": 426
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\101-comparativa parte 1.py",
+        "fecha": "2024-10-06 09:25:56",
+        "tamano": 52
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\102-tiempo final.py",
+        "fecha": "2024-10-06 09:26:52",
+        "tamano": 89
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\103-resta.py",
+        "fecha": "2024-10-06 09:28:03",
+        "tamano": 112
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\104-bucle for grande.py",
+        "fecha": "2024-10-06 10:07:43",
+        "tamano": 223
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\105-lo mismo pero en javascript.html",
+        "fecha": "2024-10-06 09:40:48",
+        "tamano": 345
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\106-calculo fuerte.html",
+        "fecha": "2024-10-06 10:10:16",
+        "tamano": 524
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\106-Lomismoenc.c",
+        "fecha": "2024-10-06 12:52:41",
+        "tamano": 650
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\107-nodepuro.js",
+        "fecha": "2024-10-06 10:11:07",
+        "tamano": 278
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\108-pruebaencpp.cpp",
+        "fecha": "2024-10-06 11:39:03",
+        "tamano": 734
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\108.exe",
+        "fecha": "2024-10-06 15:05:07",
+        "tamano": 49948
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\a.exe",
+        "fecha": "2024-10-06 15:02:08",
+        "tamano": 49948
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\Resultado de prueba.txt",
+        "fecha": "2024-10-06 15:38:22",
+        "tamano": 118
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\.vscode\\c_cpp_properties.json",
+        "fecha": "2024-10-06 13:27:07",
+        "tamano": 303
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\.vscode\\settings.json",
+        "fecha": "2024-10-06 13:23:02",
+        "tamano": 42
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\003-Uso de estructura de control\\007-Ejercicios\\basededatos\\miqueridodiario.txt",
+        "fecha": "2024-11-04 21:22:13",
+        "tamano": 0
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\constructor.py",
+        "fecha": "2024-12-08 23:41:33",
+        "tamano": 256
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\001-Concepto de clase\\001-Clientes.py",
+        "fecha": "2024-10-01 11:18:43",
+        "tamano": 865
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\002-Estructura y miembros de una clase\\001-Clientes.py",
+        "fecha": "2024-10-01 11:19:48",
+        "tamano": 800
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\002-Estructura y miembros de una clase\\002-setter y getter.py",
+        "fecha": "2024-10-15 19:14:53",
+        "tamano": 923
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\002-Estructura y miembros de una clase\\003-validar setter.py",
+        "fecha": "2024-10-15 20:58:14",
+        "tamano": 1229
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\007-Utilizaci\u00f3n de clases heredadas\\001-herencia.py",
+        "fecha": "2024-12-08 21:12:51",
+        "tamano": 1337
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\007-Utilizaci\u00f3n de clases heredadas\\002-crear superclase.py",
+        "fecha": "2024-12-08 20:09:57",
+        "tamano": 1188
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\007-Utilizaci\u00f3n de clases heredadas\\003-instanciar.py",
+        "fecha": "2024-10-15 22:17:49",
+        "tamano": 1191
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\004-Desarrollo de clases\\007-Utilizaci\u00f3n de clases heredadas\\004-propiedades individuales.py",
+        "fecha": "2024-10-15 21:55:13",
+        "tamano": 1262
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\001-Crear programa multitabla.py",
+        "fecha": "2024-10-12 14:39:27",
+        "tamano": 254
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\002-lista de entidades.py",
+        "fecha": "2024-10-12 14:53:35",
+        "tamano": 412
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\003-devolvemos el resultado.py",
+        "fecha": "2024-10-12 15:31:26",
+        "tamano": 565
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-selecciona una opcion.py",
+        "fecha": "2024-10-12 15:43:01",
+        "tamano": 1708
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-comprueba que la opci\u00f3n es la correcta.py",
+        "fecha": "2024-10-12 16:05:43",
+        "tamano": 1813
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-simulo un select.py",
+        "fecha": "2024-10-12 16:16:36",
+        "tamano": 1937
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-men\u00fa din\u00e1mico.py",
+        "fecha": "2024-10-12 16:29:05",
+        "tamano": 2370
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\008-atrapo las opciones.py",
+        "fecha": "2024-10-12 16:36:22",
+        "tamano": 2792
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\009-solo el select.py",
+        "fecha": "2024-10-12 18:10:38",
+        "tamano": 3528
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\001-Flujos,tipos bytes y caracteres\\001-Escribir un archivo.py",
+        "fecha": "2024-09-18 15:49:59",
+        "tamano": 36
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\001-Flujos,tipos bytes y caracteres\\002-escribir dentro del archivo.py",
+        "fecha": "2024-09-18 15:52:58",
+        "tamano": 104
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\001-Flujos,tipos bytes y caracteres\\003-apendizar informacion en un archivo.py",
+        "fecha": "2024-09-18 15:54:29",
+        "tamano": 94
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\001-Flujos,tipos bytes y caracteres\\004-bajar de linea.py",
+        "fecha": "2024-09-18 15:56:37",
+        "tamano": 96
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\001-Flujos,tipos bytes y caracteres\\clientes.txt",
+        "fecha": "2024-09-18 15:56:40",
+        "tamano": 118
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\003-Apertura y cierre de ficheros\\001-mi querido diario.py",
+        "fecha": "2024-09-18 15:58:32",
+        "tamano": 258
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\003-Apertura y cierre de ficheros\\002-bucle infinito.py",
+        "fecha": "2024-09-18 16:00:25",
+        "tamano": 327
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\003-Apertura y cierre de ficheros\\003-leer archivo.py",
+        "fecha": "2024-09-18 16:04:01",
+        "tamano": 120
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\003-Apertura y cierre de ficheros\\miqueridodiario.txt",
+        "fecha": "2024-12-06 12:53:42",
+        "tamano": 129
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\001-creo base de datos.py",
+        "fecha": "2024-09-18 16:07:57",
+        "tamano": 95
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\002-tryexcept.py",
+        "fecha": "2024-09-18 16:10:21",
+        "tamano": 183
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\003-menu.py",
+        "fecha": "2024-09-18 16:11:34",
+        "tamano": 363
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\004-entrada.py",
+        "fecha": "2024-09-18 16:12:13",
+        "tamano": 476
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\005-if elif.py",
+        "fecha": "2024-09-18 16:13:24",
+        "tamano": 684
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\006-escribir registro.py",
+        "fecha": "2024-09-18 16:18:10",
+        "tamano": 1034
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\008-bucle infinito.py",
+        "fecha": "2024-10-15 22:54:02",
+        "tamano": 2639
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\004-Utilizaci\u00f3n de los sistemas de ficheros\\Basededatos\\basededatos\\miqueridodiario.txt",
+        "fecha": "2024-12-06 13:10:56",
+        "tamano": 18
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\001-escritura en texto.py",
+        "fecha": "2024-10-06 15:31:50",
+        "tamano": 87
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\002-ahora escribo en binario.py",
+        "fecha": "2024-10-06 15:34:04",
+        "tamano": 89
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\003-creo una lista.py",
+        "fecha": "2024-10-06 15:35:47",
+        "tamano": 122
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\004-con pickle.py",
+        "fecha": "2024-10-06 15:37:16",
+        "tamano": 146
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\005-abrir con pickle.py",
+        "fecha": "2024-10-06 15:41:58",
+        "tamano": 162
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\006-crear agenda de clientes.py",
+        "fecha": "2024-10-06 17:22:17",
+        "tamano": 185
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\007-saluda.py",
+        "fecha": "2024-10-06 17:33:17",
+        "tamano": 334
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\008-atrapo una opcion.py",
+        "fecha": "2024-10-06 17:35:28",
+        "tamano": 480
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\009-te digo la opcion que has cogido.py",
+        "fecha": "2024-10-06 17:36:51",
+        "tamano": 519
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\010-creo una lista vacia.py",
+        "fecha": "2024-10-06 17:37:00",
+        "tamano": 519
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\011-estructura de control.py",
+        "fecha": "2024-10-06 17:39:00",
+        "tamano": 666
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\012-bucle infinito.py",
+        "fecha": "2024-10-06 17:40:06",
+        "tamano": 723
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\013-insertar un nuevo cliente.py",
+        "fecha": "2024-10-06 17:43:25",
+        "tamano": 959
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\014-constructor con parametro.py",
+        "fecha": "2024-10-06 17:44:21",
+        "tamano": 1013
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\015-crea una nueva instancia.py",
+        "fecha": "2024-10-06 17:46:35",
+        "tamano": 1115
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\016-a\u00f1ade la instancia a la lista.py",
+        "fecha": "2024-10-06 17:47:34",
+        "tamano": 1154
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\017-listo a lo bestia los clientes.py",
+        "fecha": "2024-10-06 17:48:15",
+        "tamano": 1189
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\019-lo formateo bonito.py",
+        "fecha": "2024-10-06 17:55:51",
+        "tamano": 1426
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\020-pickle para guardar.py",
+        "fecha": "2024-10-06 17:58:44",
+        "tamano": 1461
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\021-proceso guardar.py",
+        "fecha": "2024-10-06 17:58:52",
+        "tamano": 1461
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\022-nueva opcion de lectura.py",
+        "fecha": "2024-10-06 18:16:49",
+        "tamano": 1659
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\023-atrapo la opcion.py",
+        "fecha": "2024-10-06 18:23:33",
+        "tamano": 1809
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\024-comentarios.py",
+        "fecha": "2024-11-04 21:50:27",
+        "tamano": 4397
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\025-prueba.py",
+        "fecha": "2024-11-09 19:19:49",
+        "tamano": 2846
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\18-formateo los clientes.py",
+        "fecha": "2024-10-06 17:54:38",
+        "tamano": 1340
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\agenda.txt",
+        "fecha": "2024-12-06 13:14:49",
+        "tamano": 109
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\archivo.bin",
+        "fecha": "2024-10-06 15:37:19",
+        "tamano": 43
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\005-Creaci\u00f3n y eliminaci\u00f3n de ficheros\\archivo.txt",
+        "fecha": "2024-10-06 15:33:10",
+        "tamano": 12
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\001-Importar sql.py",
+        "fecha": "2024-10-03 12:04:50",
+        "tamano": 176
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\002-variables de conexion.py",
+        "fecha": "2024-10-03 11:56:39",
+        "tamano": 341
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\003-conexion.py",
+        "fecha": "2024-10-03 12:04:38",
+        "tamano": 352
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\004-formulo una peticion.py",
+        "fecha": "2024-10-03 12:05:16",
+        "tamano": 349
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\005-ejecuto la conexion.py",
+        "fecha": "2024-10-03 12:05:27",
+        "tamano": 1148
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\006-saco las filas y triunfo.py",
+        "fecha": "2024-10-03 12:07:23",
+        "tamano": 1341
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\007-datos individuales.py",
+        "fecha": "2024-10-15 23:37:44",
+        "tamano": 1682
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\008-formatea json.py",
+        "fecha": "2024-09-25 15:45:18",
+        "tamano": 48
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\009-diccionario.py",
+        "fecha": "2024-09-25 15:45:37",
+        "tamano": 46
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\010-importar librer\u00eda flask.py",
+        "fecha": "2024-09-25 15:50:35",
+        "tamano": 134
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\011-creounarutadeenrutamiento.py",
+        "fecha": "2024-10-17 13:03:47",
+        "tamano": 784
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\012-ahoraquierosacarunjson.py",
+        "fecha": "2024-09-25 16:01:23",
+        "tamano": 671
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\013-me conecto a base de datos copiando.py",
+        "fecha": "2024-09-25 16:02:41",
+        "tamano": 0
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\014-fusion con el servidor web.py",
+        "fecha": "2024-09-25 16:11:06",
+        "tamano": 1959
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\015-comentarios.py",
+        "fecha": "2024-10-17 13:29:24",
+        "tamano": 2180
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\016-con Cors.py",
+        "fecha": "2024-09-25 16:56:04",
+        "tamano": 2120
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\017-Crud completo.py",
+        "fecha": "2024-09-26 18:10:22",
+        "tamano": 147
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\018-mensaje de bienvenida.py",
+        "fecha": "2024-09-26 18:11:22",
+        "tamano": 242
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\019-men\u00fa clientes.py",
+        "fecha": "2024-09-26 18:13:08",
+        "tamano": 516
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\020-if elif.py",
+        "fecha": "2024-09-26 18:15:26",
+        "tamano": 847
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\021-while true.py",
+        "fecha": "2024-09-26 18:15:54",
+        "tamano": 930
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\022-salir del programa de manera distinta.py",
+        "fecha": "2024-09-26 18:16:53",
+        "tamano": 1006
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\023-solicitamos los datos al usuario.py",
+        "fecha": "2024-09-26 18:20:00",
+        "tamano": 1296
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\024-me conecto a la base de datos e inserto un cliente.py",
+        "fecha": "2024-09-26 18:22:38",
+        "tamano": 1320
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\025-coloco los datos de conexi\u00f3n.py",
+        "fecha": "2024-09-26 18:31:06",
+        "tamano": 1582
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\026-realizamos una inserci\u00f3n de datos.py",
+        "fecha": "2024-09-26 18:31:24",
+        "tamano": 1768
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\027-inserci\u00f3n vac\u00eda.py",
+        "fecha": "2024-09-26 18:32:58",
+        "tamano": 1764
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\028-comentarios.py",
+        "fecha": "2024-10-01 11:35:28",
+        "tamano": 3639
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\029-opcion de seleccionar.py",
+        "fecha": "2024-09-26 18:40:26",
+        "tamano": 2295
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\030-actualizar.py",
+        "fecha": "2024-10-17 14:26:38",
+        "tamano": 3251
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\031-repaso de encadenamiento.py",
+        "fecha": "2024-09-26 18:47:56",
+        "tamano": 379
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\032-eliminar.py",
+        "fecha": "2024-09-26 18:51:41",
+        "tamano": 3521
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\006-Entrada desde teclado.Salida a pantalla\\033-try except.py",
+        "fecha": "2024-09-26 20:12:51",
+        "tamano": 3625
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\001-importamos librer\u00eda.py",
+        "fecha": "2024-10-16 15:17:06",
+        "tamano": 172
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\001-importar librer\u00eda.py",
+        "fecha": "2024-10-16 15:18:20",
+        "tamano": 22
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\002-creo una ventana.py",
+        "fecha": "2024-10-16 15:19:24",
+        "tamano": 43
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\003-geometr\u00eda.py",
+        "fecha": "2024-10-16 15:20:31",
+        "tamano": 72
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\004-desface.py",
+        "fecha": "2024-10-16 15:21:55",
+        "tamano": 78
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\005-titulo del programa.py",
+        "fecha": "2024-10-16 15:22:22",
+        "tamano": 119
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\006-capturar el bucle.py",
+        "fecha": "2024-10-16 15:23:13",
+        "tamano": 141
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\007-etiqueta.py",
+        "fecha": "2024-10-16 15:25:11",
+        "tamano": 193
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\008-empaquetar.py",
+        "fecha": "2024-10-16 15:25:56",
+        "tamano": 215
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\009-entrada.py",
+        "fecha": "2024-10-16 15:31:13",
+        "tamano": 260
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\010-boton.py",
+        "fecha": "2024-10-16 15:32:44",
+        "tamano": 319
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\011-comando en el bot\u00f3n.py",
+        "fecha": "2024-10-16 15:33:33",
+        "tamano": 339
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\012-creo la ejecuci\u00f3n.py",
+        "fecha": "2024-10-16 15:34:51",
+        "tamano": 451
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\013-creo elementos como variables.py",
+        "fecha": "2024-10-16 15:39:42",
+        "tamano": 700
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\014-paso el contenido del campo al label.py",
+        "fecha": "2024-10-16 15:42:46",
+        "tamano": 919
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\015-variables de texto.py",
+        "fecha": "2024-10-16 15:41:41",
+        "tamano": 939
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\016-calculadora.py",
+        "fecha": "2024-10-16 15:45:30",
+        "tamano": 155
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\017-etiquetas.py",
+        "fecha": "2024-10-16 15:46:36",
+        "tamano": 250
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\018-etiqueta operando 2.py",
+        "fecha": "2024-10-16 15:47:39",
+        "tamano": 628
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\019-ahora pongo entradas.py",
+        "fecha": "2024-10-16 15:50:58",
+        "tamano": 1072
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\020.py",
+        "fecha": "2024-10-16 15:52:27",
+        "tamano": 1202
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\021-comentarios.py",
+        "fecha": "2024-10-16 15:52:37",
+        "tamano": 1202
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\024-pill.py",
+        "fecha": "2024-10-17 18:10:42",
+        "tamano": 12
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\025-importar imagen.py",
+        "fecha": "2024-10-17 18:13:54",
+        "tamano": 474
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\026-cargar una imagen.py",
+        "fecha": "2024-10-17 19:08:54",
+        "tamano": 338
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\027-escalar.py",
+        "fecha": "2024-10-17 19:09:11",
+        "tamano": 348
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\028-texto en la pantalla.py",
+        "fecha": "2024-10-17 19:09:19",
+        "tamano": 675
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\029-dibujo rectangulo negro semi.py",
+        "fecha": "2024-10-17 19:09:34",
+        "tamano": 766
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\030-genero muchas imagenes.py",
+        "fecha": "2024-10-17 18:44:48",
+        "tamano": 955
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\031-sacar las fechas de un rango.py",
+        "fecha": "2024-10-17 18:46:42",
+        "tamano": 1096
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\032-recorro las fechas.py",
+        "fecha": "2024-10-17 18:49:33",
+        "tamano": 1070
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\033-funci\u00f3n para reutilizar.py",
+        "fecha": "2024-10-17 18:57:09",
+        "tamano": 1529
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\034-m\u00e1s asignaturas.py",
+        "fecha": "2024-10-17 19:10:18",
+        "tamano": 1691
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\035-logo transparente.py",
+        "fecha": "2024-10-17 19:14:40",
+        "tamano": 1365
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\036-copio una nueva funcion.py",
+        "fecha": "2024-10-17 19:25:25",
+        "tamano": 1485
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\bases.jpeg",
+        "fecha": "2024-10-17 19:21:29",
+        "tamano": 432667
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\blank_image.png",
+        "fecha": "2024-10-17 18:14:44",
+        "tamano": 2787
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\calculando.py",
+        "fecha": "2024-11-04 19:24:43",
+        "tamano": 1148
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\imagen.jpg",
+        "fecha": "2024-10-17 19:01:39",
+        "tamano": 427423
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\marcas.jpeg",
+        "fecha": "2024-10-17 19:00:41",
+        "tamano": 456751
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\Parrafos.ttf",
+        "fecha": "2024-09-22 09:38:08",
+        "tamano": 353824
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\Sistemas.jpeg",
+        "fecha": "2024-10-17 18:58:38",
+        "tamano": 386480
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\tame.png",
+        "fecha": "2024-10-17 19:11:10",
+        "tamano": 40716
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\imagenes\\imagen.jpg",
+        "fecha": "2024-10-17 19:05:19",
+        "tamano": 423189
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\007-Interfaces gr\u00e1ficas\\imagenes\\imagen1.jpg",
+        "fecha": "2024-10-17 19:08:15",
+        "tamano": 423405
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\008-Concepto de evento\\001-command.py",
+        "fecha": "2024-10-24 19:04:33",
+        "tamano": 102
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\008-Concepto de evento\\002-introducimos el comando.py",
+        "fecha": "2024-10-24 19:05:11",
+        "tamano": 167
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\008-Concepto de evento\\003-evento con bin.py",
+        "fecha": "2024-10-24 19:05:46",
+        "tamano": 171
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\008-Concepto de evento\\004-comando bind.py",
+        "fecha": "2024-10-24 19:07:21",
+        "tamano": 211
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\008-Concepto de evento\\005-mas eventos.py",
+        "fecha": "2024-10-24 19:10:03",
+        "tamano": 610
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\005-Lectura y escritura de informaci\u00f3n\\008-Concepto de evento\\006-entrar y salir.py",
+        "fecha": "2024-12-08 19:27:39",
+        "tamano": 763
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\001-lista.py",
+        "fecha": "2024-09-18 16:28:52",
+        "tamano": 47
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\002-estructura dinamicas.py",
+        "fecha": "2024-09-19 18:11:50",
+        "tamano": 180
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\002-la lista.py",
+        "fecha": "2024-09-18 16:29:25",
+        "tamano": 15
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\003-pongo un cliente.py",
+        "fecha": "2024-09-18 16:30:21",
+        "tamano": 68
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\004-pongo otro cliente.py",
+        "fecha": "2024-09-18 16:30:45",
+        "tamano": 110
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\005-input de clientes.py",
+        "fecha": "2024-09-18 16:31:48",
+        "tamano": 240
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\006-estructura dinamicas -listas.py",
+        "fecha": "2024-09-19 18:13:43",
+        "tamano": 239
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\007-estructuras dinamicas -tuplas.py",
+        "fecha": "2024-09-19 18:15:40",
+        "tamano": 131
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\001-Estructuas est\u00e1ticas y din\u00e1micas\\008-coordenadas.py",
+        "fecha": "2024-09-19 18:16:59",
+        "tamano": 23
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\001-unidimensional.py",
+        "fecha": "2024-09-19 18:20:41",
+        "tamano": 25
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\002-bidimensional.py",
+        "fecha": "2024-09-19 18:23:26",
+        "tamano": 122
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\003-mejor entendido.py",
+        "fecha": "2024-09-19 18:24:01",
+        "tamano": 152
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\004-agenda.py",
+        "fecha": "2024-09-19 18:29:14",
+        "tamano": 132
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\005-repasar el contenido de la agenda.py",
+        "fecha": "2024-09-19 18:30:08",
+        "tamano": 195
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\006-segunda dimension.py",
+        "fecha": "2024-09-19 18:31:53",
+        "tamano": 384
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\007-agenda.py",
+        "fecha": "2024-10-03 10:06:49",
+        "tamano": 144
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\008-menu.py",
+        "fecha": "2024-10-03 10:07:19",
+        "tamano": 317
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\009-comprobamos la opcion elegida.py",
+        "fecha": "2024-09-19 18:37:14",
+        "tamano": 372
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\010-estructura de control para atrapar.py",
+        "fecha": "2024-09-19 18:38:27",
+        "tamano": 496
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\011-ejecucion infinita.py",
+        "fecha": "2024-09-19 18:39:02",
+        "tamano": 546
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\012-crear una lista para la agenda.py",
+        "fecha": "2024-10-03 10:10:30",
+        "tamano": 561
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\013-leemos los registros de la agenda a lo bestia.py",
+        "fecha": "2024-09-19 18:40:15",
+        "tamano": 582
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\014-insertamos un nuevo registro.py",
+        "fecha": "2024-09-19 18:41:54",
+        "tamano": 839
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\015-leer los registros de la agenda con estructura.py",
+        "fecha": "2024-09-19 18:46:37",
+        "tamano": 1063
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\016-estilizando.py",
+        "fecha": "2024-10-03 10:23:11",
+        "tamano": 1106
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\017-importar plataforma.py",
+        "fecha": "2024-10-03 10:25:24",
+        "tamano": 1110
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\018-importar plataforma limpieza.py",
+        "fecha": "2024-10-03 10:31:58",
+        "tamano": 1291
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\019-colores.py",
+        "fecha": "2024-10-03 10:44:43",
+        "tamano": 1430
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\019-importar plataforma limpiando consola.py",
+        "fecha": "2024-10-03 10:44:57",
+        "tamano": 1443
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\020-multicolorines.py",
+        "fecha": "2024-10-03 10:50:13",
+        "tamano": 1502
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\021-tabuladores.py",
+        "fecha": "2024-10-03 10:52:35",
+        "tamano": 1502
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\022-eliminar registros.py",
+        "fecha": "2024-10-03 10:55:28",
+        "tamano": 1539
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\023-A\u00f1adir una opcion mas.py",
+        "fecha": "2024-10-03 11:14:53",
+        "tamano": 1700
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\024-Le pregunto al usuario.py",
+        "fecha": "2024-10-03 11:14:24",
+        "tamano": 1827
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\025-opcion de que el cliente decida.py",
+        "fecha": "2024-10-03 11:13:57",
+        "tamano": 1835
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\026-contador.py",
+        "fecha": "2024-10-03 11:13:30",
+        "tamano": 1935
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\003-Matrices (arrays) multidimensionales\\027- comentarios.py",
+        "fecha": "2024-10-03 11:17:11",
+        "tamano": 5513
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\001-Sqlite.py",
+        "fecha": "2024-10-05 13:19:27",
+        "tamano": 16
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\002-crear una conexion.py",
+        "fecha": "2024-10-05 13:22:52",
+        "tamano": 60
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\003-crear un cursor.py",
+        "fecha": "2024-10-05 13:23:49",
+        "tamano": 90
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\004-ejecuto primera sentencia.py",
+        "fecha": "2024-10-05 13:26:23",
+        "tamano": 164
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\005-ejecuto la conexion.py",
+        "fecha": "2024-10-05 13:29:20",
+        "tamano": 323
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\006-cierro la conexion.py",
+        "fecha": "2024-10-05 13:32:32",
+        "tamano": 370
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\007-inserto un nuevo registro.py",
+        "fecha": "2024-10-05 14:33:10",
+        "tamano": 574
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\008-comentarios hasta el momento.py",
+        "fecha": "2024-10-05 14:38:02",
+        "tamano": 1196
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\009-leo los registros.py",
+        "fecha": "2024-10-05 14:45:27",
+        "tamano": 1326
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\010-actualizacion.py",
+        "fecha": "2024-10-05 15:28:42",
+        "tamano": 1441
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\011-eliminacion.py",
+        "fecha": "2024-10-05 15:34:40",
+        "tamano": 1697
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\012-docstring.py",
+        "fecha": "2024-10-05 15:46:15",
+        "tamano": 107
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\013-print de bienvenida.py",
+        "fecha": "2024-10-05 15:47:56",
+        "tamano": 263
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\014-menu.py",
+        "fecha": "2024-10-05 15:49:59",
+        "tamano": 442
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\015-Selecciona una opci\u00f3n.py",
+        "fecha": "2024-10-05 15:51:06",
+        "tamano": 489
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\016-atrapo la opcion.py",
+        "fecha": "2024-10-05 16:33:55",
+        "tamano": 751
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\017-bucle infinito.py",
+        "fecha": "2024-10-05 16:46:53",
+        "tamano": 825
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\018-te pido insertar los datos.py",
+        "fecha": "2024-10-05 16:51:18",
+        "tamano": 1070
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\019-importo libreria.py",
+        "fecha": "2024-10-05 16:57:35",
+        "tamano": 1086
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\020-me conecto a la base de datos.py",
+        "fecha": "2024-10-05 16:58:16",
+        "tamano": 1130
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\021-creo un cursor.py",
+        "fecha": "2024-10-05 17:17:56",
+        "tamano": 1516
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\022-ahora listo los registros existentes.py",
+        "fecha": "2024-10-05 17:42:33",
+        "tamano": 1688
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\023-eliminar.py",
+        "fecha": "2024-10-05 19:28:39",
+        "tamano": 2472
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\024-actualizaciones.py",
+        "fecha": "2024-10-05 19:41:24",
+        "tamano": 2568
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\025-strings de retroalimentacion.py",
+        "fecha": "2024-10-05 20:14:13",
+        "tamano": 2977
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\026-resultado como json.py",
+        "fecha": "2024-10-05 20:24:35",
+        "tamano": 3072
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\027-uso diccionario para sacar datos.py",
+        "fecha": "2024-10-05 20:32:33",
+        "tamano": 3283
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\006-Aplicaci\u00f3n de las estructuras de almacenamiento\\007-Operacione agregadas filtrado, reducci\u00f3n y recolecci\u00f3n\\empresa.db",
+        "fecha": "2024-10-22 21:00:18",
+        "tamano": 12288
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\001-repaso.php",
+        "fecha": "2025-01-09 16:29:18",
+        "tamano": 46
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\002-propiedades.php",
+        "fecha": "2025-01-09 16:29:46",
+        "tamano": 119
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\003-instancia.php",
+        "fecha": "2025-01-09 16:31:45",
+        "tamano": 179
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\004-p\u00fablica.php",
+        "fecha": "2025-01-09 16:34:08",
+        "tamano": 217
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\005-privadas.php",
+        "fecha": "2025-01-09 16:35:13",
+        "tamano": 220
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\006-metodos.php",
+        "fecha": "2025-01-09 16:38:04",
+        "tamano": 337
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\007-set y get.php",
+        "fecha": "2025-01-09 16:40:07",
+        "tamano": 383
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\008-constructor.php",
+        "fecha": "2025-01-09 16:46:29",
+        "tamano": 875
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\009-colecciones en propiedades.php",
+        "fecha": "2025-01-09 16:46:44",
+        "tamano": 878
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\001-Composici\u00f3n de clases\\010-composici\u00f3n de clases.php",
+        "fecha": "2025-01-09 16:50:02",
+        "tamano": 1764
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\002-Herencia y poliformismo\\001-clase bloque.php",
+        "fecha": "2025-01-09 16:57:22",
+        "tamano": 1306
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\002-Herencia y poliformismo\\002-clase madre.php",
+        "fecha": "2025-01-09 17:02:58",
+        "tamano": 1582
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\004- Clases y m\u00e9todos abstractos y finales\\001-clase abstracta.php",
+        "fecha": "2025-01-09 17:09:38",
+        "tamano": 1973
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\004- Clases y m\u00e9todos abstractos y finales\\002-con composici\u00f3n.php",
+        "fecha": "2025-01-09 17:13:07",
+        "tamano": 2860
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\esquema php.svg",
+        "fecha": "2024-11-17 00:41:58",
+        "tamano": 10274
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\phpentradaget.php",
+        "fecha": "2025-01-19 19:54:32",
+        "tamano": 142
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\phpentradagetformulario.php",
+        "fecha": "2025-01-19 20:03:37",
+        "tamano": 196
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\phpentradapost.php",
+        "fecha": "2025-01-19 19:59:29",
+        "tamano": 198
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\phpsalidas.php",
+        "fecha": "2025-01-19 19:50:15",
+        "tamano": 39
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\001-salidas.php",
+        "fecha": "2024-11-17 00:43:16",
+        "tamano": 33
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\002-cuidado con donde ponemos el codigo.php",
+        "fecha": "2024-11-17 00:43:25",
+        "tamano": 84
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\003-cuidado con los errores.php",
+        "fecha": "2024-11-17 00:43:31",
+        "tamano": 99
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\004-tambien podemos poner print.php",
+        "fecha": "2024-11-17 00:43:40",
+        "tamano": 85
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\005-entradas.php",
+        "fecha": "2024-11-17 00:43:51",
+        "tamano": 48
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\006-operadores aritmeticos.php",
+        "fecha": "2024-11-17 00:43:59",
+        "tamano": 134
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\007-operadores de comparacion.php",
+        "fecha": "2024-11-17 00:44:07",
+        "tamano": 163
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\008-operadores booleanos.php",
+        "fecha": "2024-11-17 00:44:26",
+        "tamano": 301
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\009-Comentarios.php",
+        "fecha": "2024-11-17 00:44:39",
+        "tamano": 119
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\010-variables.php",
+        "fecha": "2024-11-17 00:44:52",
+        "tamano": 123
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\011-constantes.php",
+        "fecha": "2024-11-17 00:45:13",
+        "tamano": 74
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\012-constantes con const.php",
+        "fecha": "2024-11-17 00:45:24",
+        "tamano": 72
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\013-operadores de incremento.php",
+        "fecha": "2024-11-17 00:47:58",
+        "tamano": 174
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\014-operadores matematicos abreviados.php",
+        "fecha": "2024-11-17 00:48:07",
+        "tamano": 284
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\015-arrays.php",
+        "fecha": "2024-11-17 00:48:22",
+        "tamano": 99
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\016-arrays numericos y alfanumericos.php",
+        "fecha": "2024-11-17 00:48:39",
+        "tamano": 175
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\017-estructura for.php",
+        "fecha": "2024-11-17 00:48:58",
+        "tamano": 92
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\018-cadena formateada.php",
+        "fecha": "2024-11-17 00:49:14",
+        "tamano": 88
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\019-while.php",
+        "fecha": "2024-11-17 00:49:28",
+        "tamano": 74
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\020-condicion inicial.php",
+        "fecha": "2024-11-17 00:49:48",
+        "tamano": 86
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\021-Condicion de incremento.php",
+        "fecha": "2024-11-17 00:50:00",
+        "tamano": 96
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\022-if.php",
+        "fecha": "2024-11-17 00:50:10",
+        "tamano": 70
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\023-else.php",
+        "fecha": "2024-11-17 00:50:40",
+        "tamano": 108
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\024-else if.php",
+        "fecha": "2024-11-17 00:50:47",
+        "tamano": 240
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\025-switch.php",
+        "fecha": "2024-11-17 00:50:52",
+        "tamano": 555
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\026-funciones.php",
+        "fecha": "2024-11-17 00:50:59",
+        "tamano": 59
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\001-Aprendiendo php\\027-llamar a una funcion.php",
+        "fecha": "2024-11-17 00:51:11",
+        "tamano": 70
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\001-Estructura\\cliente\\index.html",
+        "fecha": "2024-11-17 20:08:04",
+        "tamano": 342
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\002-Un poco de estilo\\cliente\\estilo.css",
+        "fecha": "2024-11-17 20:10:17",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\002-Un poco de estilo\\cliente\\index.html",
+        "fecha": "2024-11-17 20:11:41",
+        "tamano": 393
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\003-javascript\\cliente\\codigo.js",
+        "fecha": "2024-11-17 20:17:49",
+        "tamano": 248
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\003-javascript\\cliente\\estilo.css",
+        "fecha": "2024-11-17 20:10:17",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\003-javascript\\cliente\\index.html",
+        "fecha": "2024-11-17 20:12:06",
+        "tamano": 436
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\004-creamos el endpoint\\cliente\\codigo.js",
+        "fecha": "2024-11-17 20:17:49",
+        "tamano": 248
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\004-creamos el endpoint\\cliente\\estilo.css",
+        "fecha": "2024-11-17 20:10:17",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\004-creamos el endpoint\\cliente\\index.html",
+        "fecha": "2024-11-17 20:12:06",
+        "tamano": 436
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\004-creamos el endpoint\\servidor\\damearticulos.php",
+        "fecha": "2024-11-17 20:33:45",
+        "tamano": 978
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\005-convertimos el json en articulo\\cliente\\codigo.js",
+        "fecha": "2024-11-17 20:44:28",
+        "tamano": 571
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\005-convertimos el json en articulo\\cliente\\estilo.css",
+        "fecha": "2024-11-17 20:10:17",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\005-convertimos el json en articulo\\cliente\\index.html",
+        "fecha": "2024-11-17 20:12:06",
+        "tamano": 436
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\005-convertimos el json en articulo\\servidor\\damearticulos.php",
+        "fecha": "2024-11-17 20:33:45",
+        "tamano": 978
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\006-paradigma embebido\\cliente\\codigo.js",
+        "fecha": "2024-11-17 20:44:28",
+        "tamano": 571
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\006-paradigma embebido\\cliente\\estilo.css",
+        "fecha": "2024-11-17 20:10:17",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\006-paradigma embebido\\cliente\\index.html",
+        "fecha": "2024-11-17 20:12:06",
+        "tamano": 436
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\006-paradigma embebido\\embebido\\index.php",
+        "fecha": "2024-11-17 20:54:07",
+        "tamano": 1722
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\006-paradigma embebido\\servidor\\damearticulos.php",
+        "fecha": "2024-11-17 20:33:45",
+        "tamano": 978
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\007-include\\cliente\\codigo.js",
+        "fecha": "2024-11-17 20:44:28",
+        "tamano": 571
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\007-include\\cliente\\estilo.css",
+        "fecha": "2024-11-17 20:10:17",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\007-include\\cliente\\index.html",
+        "fecha": "2024-11-17 20:12:06",
+        "tamano": 436
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\007-include\\embebido\\conexionbasededatos.php",
+        "fecha": "2024-11-17 22:04:00",
+        "tamano": 769
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\007-include\\embebido\\index.php",
+        "fecha": "2024-11-17 21:07:53",
+        "tamano": 738
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\007-include\\servidor\\damearticulos.php",
+        "fecha": "2024-11-17 20:33:45",
+        "tamano": 978
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\008-importar estilo python\\cliente\\codigo.js",
+        "fecha": "2024-11-17 20:44:28",
+        "tamano": 571
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\008-importar estilo python\\cliente\\estilo.css",
+        "fecha": "2024-11-17 20:10:17",
+        "tamano": 137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\008-importar estilo python\\cliente\\index.html",
+        "fecha": "2024-11-17 20:12:06",
+        "tamano": 436
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\008-importar estilo python\\embebido\\conexionbasededatos.php",
+        "fecha": "2024-11-18 00:56:32",
+        "tamano": 791
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\008-importar estilo python\\embebido\\index.php",
+        "fecha": "2024-11-17 22:10:56",
+        "tamano": 745
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\007-Utilizaci\u00f3n avanzada de clases\\007-Constructores y herencias\\002-Ejercicio practico blog\\008-importar estilo python\\servidor\\damearticulos.php",
+        "fecha": "2024-11-17 20:33:45",
+        "tamano": 978
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\001-Libreria OS.py",
+        "fecha": "2025-01-29 15:26:52",
+        "tamano": 60
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\002-crear carpeta de copia.py",
+        "fecha": "2025-01-29 15:31:26",
+        "tamano": 60
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\002-import utiles de procesos.py",
+        "fecha": "2025-01-29 19:40:27",
+        "tamano": 104
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\003-try except.py",
+        "fecha": "2025-01-29 15:32:23",
+        "tamano": 132
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\004-importo libreria.py",
+        "fecha": "2025-01-29 16:12:25",
+        "tamano": 333
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\005-construyo fecha.py",
+        "fecha": "2025-01-29 16:14:50",
+        "tamano": 333
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\006-creo una nueva carpeta.py",
+        "fecha": "2025-01-29 16:24:11",
+        "tamano": 413
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\007-copio una carpeta dentro de otra.py",
+        "fecha": "2025-01-29 18:11:21",
+        "tamano": 1394
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\008-programacion en una carpeta.py",
+        "fecha": "2025-01-29 18:11:34",
+        "tamano": 1410
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\009-creo una carpeta para base de datos.py",
+        "fecha": "2025-01-29 18:13:20",
+        "tamano": 1409
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\010-importo subproceso.py",
+        "fecha": "2025-01-29 18:19:04",
+        "tamano": 1703
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\011-llamamos al proceso.py",
+        "fecha": "2025-01-29 18:57:35",
+        "tamano": 2042
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\012-importo ftplib.py",
+        "fecha": "2025-01-29 19:09:35",
+        "tamano": 4122
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\013-subo por ssh.py",
+        "fecha": "2025-01-29 19:12:34",
+        "tamano": 4097
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\014-comento la parte de ftp.py",
+        "fecha": "2025-01-29 19:14:09",
+        "tamano": 4172
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\CadetBlue\\015-repasar las subcarpetas de una carpeta.py",
+        "fecha": "2025-01-29 19:32:35",
+        "tamano": 4556
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\DodgerBlue\\001-import os.py",
+        "fecha": "2025-01-30 13:09:37",
+        "tamano": 13
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\DodgerBlue\\002-listado de directorios.py",
+        "fecha": "2025-01-30 13:13:27",
+        "tamano": 155
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\DodgerBlue\\003-recursivo con ruta completa.py",
+        "fecha": "2025-01-30 13:18:36",
+        "tamano": 275
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\DodgerBlue\\004-tomar fecha de creacion y longitud en bytes.py",
+        "fecha": "2025-01-30 13:23:04",
+        "tamano": 818
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\DodgerBlue\\005-me lo guardo como un json.py",
+        "fecha": "2025-01-30 13:45:33",
+        "tamano": 911
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\DodgerBlue\\registro.json",
+        "fecha": "2025-01-30 13:33:15",
+        "tamano": 155752
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\001-matplotlib.py",
+        "fecha": "2025-01-29 19:36:21",
+        "tamano": 33
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\002-import utiles de procesos.py",
+        "fecha": "2025-01-29 19:42:51",
+        "tamano": 106
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\003-guardo en un archivo.py",
+        "fecha": "2025-01-29 19:45:10",
+        "tamano": 189
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\004-escribo.py",
+        "fecha": "2025-01-29 20:03:49",
+        "tamano": 501
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\005-guardo figura.py",
+        "fecha": "2025-01-30 13:04:42",
+        "tamano": 630
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\carga.txt",
+        "fecha": "2025-01-29 20:11:43",
+        "tamano": 69
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\cargacpu.jpg",
+        "fecha": "2025-01-29 20:11:44",
+        "tamano": 22545
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\009-Gestion de base de datos\\Proyectos\\Tomato\\index.html",
+        "fecha": "2025-01-29 20:16:49",
+        "tamano": 1155
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\001-conecto a la base de datos.py",
+        "fecha": "2024-11-20 15:33:38",
+        "tamano": 281
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\001-crear tablas.sql",
+        "fecha": "2024-11-20 15:23:57",
+        "tamano": 254
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\002-consola menu.py",
+        "fecha": "2024-11-20 15:35:26",
+        "tamano": 545
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\002-insert de expertos.sql",
+        "fecha": "2024-11-20 15:28:23",
+        "tamano": 3431
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\003-leer registro.py",
+        "fecha": "2024-11-20 15:39:26",
+        "tamano": 968
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\004-insertar un registro.py",
+        "fecha": "2024-11-20 15:45:22",
+        "tamano": 1942
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\005-eliminar registro.py",
+        "fecha": "2024-11-20 15:57:30",
+        "tamano": 2682
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\006-Actualizar registro.py",
+        "fecha": "2024-11-20 15:57:53",
+        "tamano": 4986
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\007-Salir programa.py",
+        "fecha": "2024-11-20 16:00:52",
+        "tamano": 5088
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\008-bucle infinito.py",
+        "fecha": "2024-11-20 16:20:33",
+        "tamano": 6218
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Primera parte\\expertos.sql",
+        "fecha": "2024-11-20 16:20:50",
+        "tamano": 8417
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\001-creo ventana.py",
+        "fecha": "2024-11-21 15:56:29",
+        "tamano": 131
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\002-ingreso de variables.py",
+        "fecha": "2024-11-21 15:59:55",
+        "tamano": 211
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\003-creo campo de base imponible.py",
+        "fecha": "2024-11-21 16:00:49",
+        "tamano": 422
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\004-creamos un boton.py",
+        "fecha": "2024-11-21 16:01:53",
+        "tamano": 608
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\005-funcion calcular.py",
+        "fecha": "2024-11-21 16:10:12",
+        "tamano": 692
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\005-funcion iva.py",
+        "fecha": "2024-11-21 16:21:56",
+        "tamano": 1242
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\006-m\u00e1s funciones.py",
+        "fecha": "2024-11-21 16:30:22",
+        "tamano": 2132
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\007-ajustando dise\u00f1o tkinter.py",
+        "fecha": "2024-11-21 16:59:23",
+        "tamano": 1546
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\008-arreglando funciones.py",
+        "fecha": "2024-11-21 18:02:56",
+        "tamano": 1728
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\009-final factura.py",
+        "fecha": "2024-11-21 18:06:28",
+        "tamano": 1728
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen\\Segunda parte\\__pycache__\\funciones.cpython-312.pyc",
+        "fecha": "2024-11-21 16:51:04",
+        "tamano": 1056
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Justificaci\u00f3n.docx",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 14485
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\refactorizar\\cliente.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 299
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\refactorizar\\principal.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 2569
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\refactorizar\\__pycache__\\cliente.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 668
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\bienvenida.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 205
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\clasecliente.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 283
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\menu.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 194
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\principal.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 1183
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\funciones\\funcion.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 1654
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\funciones\\__pycache__\\funcion.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 2304
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\__pycache__\\bienvenida.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 504
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\__pycache__\\clasecliente.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 678
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\__pycache__\\cliente.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 675
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos funciones\\__pycache__\\menu.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 572
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Sacamos menu\\bienvenida.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 205
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Sacamos menu\\cliente.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 299
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Sacamos menu\\menu.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 194
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Sacamos menu\\principal.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 2296
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Sacamos menu\\__pycache__\\bienvenida.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 504
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Sacamos menu\\__pycache__\\cliente.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 668
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\Sacamos menu\\__pycache__\\menu.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 572
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos menu bienvenida\\bienvenida.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 205
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos menu bienvenida\\cliente.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 299
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos menu bienvenida\\principal.py",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 2445
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos menu bienvenida\\__pycache__\\bienvenida.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 504
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Examen+\\sacamos menu bienvenida\\__pycache__\\cliente.cpython-312.pyc",
+        "fecha": "2024-11-20 22:40:43",
+        "tamano": 668
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\001-base de datos.py",
+        "fecha": "2024-10-23 15:14:54",
+        "tamano": 199
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\004-listado de tablas.py",
+        "fecha": "2024-10-23 15:18:40",
+        "tamano": 383
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\005-listado como diccionario.py",
+        "fecha": "2024-10-23 15:18:59",
+        "tamano": 400
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\006-poner en lista.py",
+        "fecha": "2024-10-23 15:19:25",
+        "tamano": 368
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\007-encapsulo en funcion.py",
+        "fecha": "2024-10-23 15:21:14",
+        "tamano": 454
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\008-ahora hago dos funciones.py",
+        "fecha": "2024-10-23 15:24:11",
+        "tamano": 912
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\009-funcion conexion.py",
+        "fecha": "2024-11-19 20:54:06",
+        "tamano": 1162
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\010-crear clase.py",
+        "fecha": "2024-10-23 15:31:36",
+        "tamano": 766
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\011-metodos con parametros.py",
+        "fecha": "2024-10-23 15:34:20",
+        "tamano": 856
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\013-apunto m\u00e9todo.py",
+        "fecha": "2024-10-23 15:41:58",
+        "tamano": 889
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\comandos.py",
+        "fecha": "2024-12-08 20:01:36",
+        "tamano": 1082
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\main.py",
+        "fecha": "2024-12-08 20:00:09",
+        "tamano": 143
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\012-importar\\ConectorDB.py",
+        "fecha": "2024-11-17 00:04:20",
+        "tamano": 700
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\012-importar\\main.py",
+        "fecha": "2024-11-17 00:04:26",
+        "tamano": 164
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\013-apunto m\u00e9todos\\ConectorDB.py",
+        "fecha": "2024-11-17 00:04:48",
+        "tamano": 854
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\013-apunto m\u00e9todos\\main.py",
+        "fecha": "2024-11-17 00:04:57",
+        "tamano": 164
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\014-programa de linea de comandos\\comandos.py",
+        "fecha": "2024-12-08 22:21:08",
+        "tamano": 1065
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\014-programa de linea de comandos\\ConectorDB.py",
+        "fecha": "2024-12-08 22:20:58",
+        "tamano": 854
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\014-programa de linea de comandos\\main.py",
+        "fecha": "2024-11-17 00:05:25",
+        "tamano": 164
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\014-programa de linea de comandos\\__pycache__\\ConectorDB.cpython-312.pyc",
+        "fecha": "2024-12-08 22:21:14",
+        "tamano": 1926
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\comandos.py",
+        "fecha": "2024-11-17 00:05:47",
+        "tamano": 1065
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\ConectorDB.py",
+        "fecha": "2024-11-17 00:05:39",
+        "tamano": 854
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\interfaz.py",
+        "fecha": "2024-11-17 00:05:52",
+        "tamano": 248
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\interfaz2.py",
+        "fecha": "2024-11-17 00:05:58",
+        "tamano": 426
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\interfaz3.py",
+        "fecha": "2024-11-17 00:06:05",
+        "tamano": 480
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\interfaz4.py",
+        "fecha": "2024-11-17 00:06:12",
+        "tamano": 570
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\interfaz5.py",
+        "fecha": "2024-11-17 00:06:18",
+        "tamano": 769
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\015-programa interfaz grafica\\main.py",
+        "fecha": "2024-11-17 00:06:26",
+        "tamano": 164
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\001-index.html",
+        "fecha": "2024-11-17 00:07:30",
+        "tamano": 572
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\002-click en el menu.html",
+        "fecha": "2024-11-17 00:07:37",
+        "tamano": 689
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\003-cargo los datos.html",
+        "fecha": "2024-11-17 00:07:44",
+        "tamano": 2135
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\comandos.py",
+        "fecha": "2024-11-17 00:08:14",
+        "tamano": 1065
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\ConectorDB.py",
+        "fecha": "2024-11-17 00:08:08",
+        "tamano": 854
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\interfaz.py",
+        "fecha": "2024-11-17 00:08:19",
+        "tamano": 248
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\interfaz2.py",
+        "fecha": "2024-11-17 00:08:24",
+        "tamano": 426
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\interfaz3.py",
+        "fecha": "2024-11-17 00:08:29",
+        "tamano": 480
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\interfaz4.py",
+        "fecha": "2024-11-17 00:08:34",
+        "tamano": 570
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\interfaz5.py",
+        "fecha": "2024-11-17 00:08:39",
+        "tamano": 880
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\main.py",
+        "fecha": "2024-11-17 00:08:48",
+        "tamano": 164
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\web1.py",
+        "fecha": "2024-11-17 00:08:53",
+        "tamano": 667
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\016-servidor web\\__pycache__\\ConectorDB.cpython-312.pyc",
+        "fecha": "2024-12-08 20:02:52",
+        "tamano": 1909
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\001-base de datos.sql",
+        "fecha": "2024-11-17 00:09:02",
+        "tamano": 190
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\002-crear tablas.sql",
+        "fecha": "2024-11-17 00:09:09",
+        "tamano": 647
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\003-inserciones.sql",
+        "fecha": "2024-11-17 00:09:15",
+        "tamano": 7146
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\004-listado de tablas.py",
+        "fecha": "2024-11-17 00:09:20",
+        "tamano": 371
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\005-listado como diccionario.py",
+        "fecha": "2024-11-17 00:09:25",
+        "tamano": 388
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\006-poner en lista.py",
+        "fecha": "2024-11-17 00:09:30",
+        "tamano": 358
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\007-encapsulo en funcion.py",
+        "fecha": "2024-11-17 00:09:38",
+        "tamano": 441
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\008-ahora hago dos funciones.py",
+        "fecha": "2024-11-17 00:09:44",
+        "tamano": 867
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\009-funcion de conexion.py",
+        "fecha": "2024-11-17 00:09:53",
+        "tamano": 915
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\010-crear clase.py",
+        "fecha": "2024-11-17 00:09:58",
+        "tamano": 757
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\011-metodos con parametros.py",
+        "fecha": "2024-11-17 00:10:04",
+        "tamano": 839
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\creararchivo.py",
+        "fecha": "2024-11-17 00:10:11",
+        "tamano": 37
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Proyecto\\017-comentarios\\miarchivo.bin",
+        "fecha": "2024-11-17 00:10:16",
+        "tamano": 0
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\001-entidad.py",
+        "fecha": "2024-11-19 21:00:30",
+        "tamano": 354
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\002-comentoelcodigo.py",
+        "fecha": "2024-11-19 21:06:46",
+        "tamano": 695
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\003-hago el insert.py",
+        "fecha": "2024-11-19 21:27:35",
+        "tamano": 1910
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\004-actualizo comentarios.py",
+        "fecha": "2024-11-19 21:29:48",
+        "tamano": 2036
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\006-operacion eleminacion.py",
+        "fecha": "2024-11-19 21:33:45",
+        "tamano": 2678
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\007-actualizar.py",
+        "fecha": "2024-11-19 21:42:24",
+        "tamano": 3985
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\008-actualizar pero mejor.py",
+        "fecha": "2024-11-19 21:55:22",
+        "tamano": 6205
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\Simulacro4\\009-cerrar graciosamente.py",
+        "fecha": "2024-11-19 22:01:19",
+        "tamano": 6360
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\001-clientes.py",
+        "fecha": "2024-11-19 23:16:37",
+        "tamano": 224
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\002-productos.py",
+        "fecha": "2024-11-19 23:44:06",
+        "tamano": 496
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\003-consola.py",
+        "fecha": "2024-11-19 23:44:14",
+        "tamano": 752
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\004-menu inicial.py",
+        "fecha": "2024-11-19 23:44:27",
+        "tamano": 1032
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\005-if elif.py",
+        "fecha": "2024-11-19 23:44:35",
+        "tamano": 1345
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\006-insercion.py",
+        "fecha": "2024-11-19 23:53:25",
+        "tamano": 1804
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\007-pongo comentarios.py",
+        "fecha": "2024-11-19 23:58:21",
+        "tamano": 2540
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\008-listar registros.py",
+        "fecha": "2024-11-20 00:01:52",
+        "tamano": 2869
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\009-actualizar registros.py",
+        "fecha": "2024-11-20 00:17:39",
+        "tamano": 3637
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\010-eliminar registro.py",
+        "fecha": "2024-11-20 00:17:51",
+        "tamano": 3811
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\011-guardar registro.py",
+        "fecha": "2024-11-20 00:19:58",
+        "tamano": 4087
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\012-cargar registro.py",
+        "fecha": "2024-11-20 00:21:26",
+        "tamano": 4087
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\013-refactorizando\\funciones.py",
+        "fecha": "2024-11-20 02:18:19",
+        "tamano": 7002
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\013-refactorizando\\main.py",
+        "fecha": "2024-11-20 02:13:48",
+        "tamano": 663
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\013-refactorizando\\__pycache__\\funciones.cpython-312.pyc",
+        "fecha": "2024-11-20 02:00:03",
+        "tamano": 7137
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\intento\\clientes.pkl",
+        "fecha": "2024-11-20 02:20:24",
+        "tamano": 91
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\intento\\funciones.py",
+        "fecha": "2024-11-20 02:19:35",
+        "tamano": 4085
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\intento\\menu.py",
+        "fecha": "2024-11-20 02:20:05",
+        "tamano": 1930
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Pr\u00e1ctica\\simulacro5\\intento\\__pycache__\\funciones.cpython-312.pyc",
+        "fecha": "2024-11-20 02:20:08",
+        "tamano": 6681
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\001-clase clientes.py",
+        "fecha": "2024-10-24 18:10:07",
+        "tamano": 223
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\002-clases productos.py",
+        "fecha": "2024-10-24 18:12:03",
+        "tamano": 559
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\003-consola.py",
+        "fecha": "2024-10-24 18:13:53",
+        "tamano": 655
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\003-menu inicial.py",
+        "fecha": "2024-10-24 18:14:21",
+        "tamano": 655
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\004-Crud.py",
+        "fecha": "2024-10-24 18:15:29",
+        "tamano": 827
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\005-lista de entidades.py",
+        "fecha": "2024-10-24 18:15:53",
+        "tamano": 868
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\006-if elif.py",
+        "fecha": "2024-10-24 18:18:51",
+        "tamano": 1170
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\007-bucle infinito.py",
+        "fecha": "2024-10-24 18:19:25",
+        "tamano": 1299
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\008-insercion.py",
+        "fecha": "2024-11-19 23:50:11",
+        "tamano": 1683
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\009-pongo comentarios.py",
+        "fecha": "2024-10-24 18:42:04",
+        "tamano": 3307
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\010-listar registros.py",
+        "fecha": "2024-10-24 18:42:44",
+        "tamano": 3306
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\012-actualizar registros.py",
+        "fecha": "2024-10-24 18:47:13",
+        "tamano": 4134
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\013-borrar registro.py",
+        "fecha": "2024-10-24 18:47:55",
+        "tamano": 4256
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\014-picket para guardar.py",
+        "fecha": "2024-10-24 18:50:43",
+        "tamano": 4444
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\015-cargar lista.py",
+        "fecha": "2024-11-19 22:56:18",
+        "tamano": 4601
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\clientes.dat",
+        "fecha": "2024-11-17 00:11:32",
+        "tamano": 196
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro1\\enunciado simulacro.txt",
+        "fecha": "2024-11-17 00:10:59",
+        "tamano": 743
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\001-entidad.py",
+        "fecha": "2024-11-17 00:18:02",
+        "tamano": 378
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\002-comento el codigo.py",
+        "fecha": "2024-11-17 00:18:48",
+        "tamano": 787
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\003-ya tengo el read.py",
+        "fecha": "2024-11-17 00:19:04",
+        "tamano": 787
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\004-hago el insertar.py",
+        "fecha": "2024-11-17 00:19:16",
+        "tamano": 2007
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\005-actualizo comentarios.py",
+        "fecha": "2024-11-17 00:19:25",
+        "tamano": 2272
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\006-operacion de eliminacion.py",
+        "fecha": "2024-11-17 00:20:42",
+        "tamano": 3001
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\007-actualizar.py",
+        "fecha": "2024-11-17 00:19:38",
+        "tamano": 4642
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\008-actualizar pero mejor.py",
+        "fecha": "2024-11-17 00:19:44",
+        "tamano": 7013
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\009-cerrar graciosamente.py",
+        "fecha": "2024-11-17 00:19:51",
+        "tamano": 7147
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\010-extraer listado a funcion.py",
+        "fecha": "2024-11-17 00:19:58",
+        "tamano": 7169
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\011-return para devolver en la funcion.py",
+        "fecha": "2024-11-17 00:20:05",
+        "tamano": 7176
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\012-extraigo funcion de insertar.py",
+        "fecha": "2024-11-17 00:20:10",
+        "tamano": 7103
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\013-extraigo funcion de eliminar.py",
+        "fecha": "2024-11-17 00:20:18",
+        "tamano": 6766
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\014-archivo externo\\funciones.py",
+        "fecha": "2024-11-17 00:21:12",
+        "tamano": 6164
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\014-archivo externo\\principal.py",
+        "fecha": "2024-11-17 00:21:19",
+        "tamano": 635
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\015-parametrizar funciones\\funciones.py",
+        "fecha": "2024-11-17 00:21:40",
+        "tamano": 5688
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\015-parametrizar funciones\\principal.py",
+        "fecha": "2024-11-17 00:22:05",
+        "tamano": 1201
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\016-parametrizar eliminaciones\\funciones.py",
+        "fecha": "2024-11-17 00:22:22",
+        "tamano": 5574
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\016-parametrizar eliminaciones\\principal.py",
+        "fecha": "2024-11-17 00:22:40",
+        "tamano": 1345
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\017-parametrizar actualizacion\\funciones.py",
+        "fecha": "2024-11-17 00:23:05",
+        "tamano": 4852
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\017-parametrizar actualizacion\\principal.py",
+        "fecha": "2024-11-17 00:23:15",
+        "tamano": 2194
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\018-Refactorizar repeticiones\\funciones.py",
+        "fecha": "2024-11-17 00:23:33",
+        "tamano": 3113
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\018-Refactorizar repeticiones\\principal.py",
+        "fecha": "2024-11-17 00:23:42",
+        "tamano": 2194
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\019-Mostrar lo que habia antes\\funciones.py",
+        "fecha": "2024-11-17 00:24:01",
+        "tamano": 3639
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\019-Mostrar lo que habia antes\\principal.py",
+        "fecha": "2024-11-17 00:24:09",
+        "tamano": 2450
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\020-prueba unitaria en caliente sobre una funcion\\funciones.py",
+        "fecha": "2024-11-17 00:24:27",
+        "tamano": 3731
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\020-prueba unitaria en caliente sobre una funcion\\principal.py",
+        "fecha": "2024-11-17 00:24:35",
+        "tamano": 2591
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\021-comprobamos rangos de identificadores\\funciones.py",
+        "fecha": "2024-11-17 00:24:56",
+        "tamano": 3811
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\021-comprobamos rangos de identificadores\\principal.py",
+        "fecha": "2024-11-17 00:25:06",
+        "tamano": 2591
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro2\\021-comprobamos rangos de identificadores\\__pycache__\\funciones.cpython-312.pyc",
+        "fecha": "2024-11-20 00:36:12",
+        "tamano": 3403
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\001-creo ventana.py",
+        "fecha": "2024-11-17 00:26:07",
+        "tamano": 62
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\002-campos de operando.py",
+        "fecha": "2024-11-17 00:26:15",
+        "tamano": 594
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\003-selecciono la operacion.py",
+        "fecha": "2024-11-17 00:26:22",
+        "tamano": 784
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\004-ahora pulsa el boton.py",
+        "fecha": "2024-11-17 00:26:31",
+        "tamano": 973
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\005-introduce un label para el resultado.py",
+        "fecha": "2024-11-17 00:26:38",
+        "tamano": 1141
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\006-funcion para el boton.py",
+        "fecha": "2024-11-17 00:26:48",
+        "tamano": 1208
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\007-variables de tkinter.py",
+        "fecha": "2024-11-17 00:26:55",
+        "tamano": 1791
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\008-capturo la operacion.py",
+        "fecha": "2024-11-17 00:27:03",
+        "tamano": 2006
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\009-operaciones elif.py",
+        "fecha": "2024-11-17 00:27:14",
+        "tamano": 2724
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\010-refactorizando 1.py",
+        "fecha": "2024-11-17 00:27:35",
+        "tamano": 2575
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\011-operaciones en funciones.py",
+        "fecha": "2024-11-17 00:27:44",
+        "tamano": 2751
+    },
+    {
+        "ruta": "C:/xampp/htdocs/programacion/DAMJoshueFreireSanchez/Programaci\u00f3n\\Simulacro examen\\simulacro3\\calculadora.py",
+        "fecha": "2024-11-18 00:56:26",
+        "tamano": 2395
+    }
+]

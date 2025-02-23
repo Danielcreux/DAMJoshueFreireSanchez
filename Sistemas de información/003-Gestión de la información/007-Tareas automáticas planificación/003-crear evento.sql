@@ -1,0 +1,1 @@
+CREATE DEFINER=`futbol`@`localhost` EVENT `copiadejugadores` ON SCHEDULE EVERY 20 MINUTE STARTS '2024-11-29 16:13:18.000000' ENDS '2024-11-30 16:13:18.000000' ON COMPLETION NOT PRESERVE ENABLE COMMENT 'Esto es una copia de seguridad' DO CALL copiar_jugadores();

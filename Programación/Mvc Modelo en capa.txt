@@ -1,0 +1,4 @@
+MVC
+Model en una capa aparte -- Json/XML/txt/csv
+Vista en otra capa aparte --Html y css
+Controller En otra capa aparte  -- JS

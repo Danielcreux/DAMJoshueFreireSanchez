@@ -1,0 +1,1 @@
+Cargamos en nuestro panel las cabeceras lo cual extraemos de la base de datos para poder ver lo que deseamos modificar
