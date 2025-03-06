@@ -1,0 +1,66 @@
+html,body{
+    padding:0px;margin:0px;                                         /*Quito los margenes por defecto de la página */
+    background:url(../img/fondo.jpg);                                      /* Le pongo una imagen de fondo*/
+    background-size:cover;                                          /*El tamaño de la imagen cubre al contenedor */
+    background-position: center;                             /* La imagen debe estar centrada en la pantalla*/
+    height:100%;                                                    /*La altura del contenedor cubre todo el navegador web*/
+}
+main{
+    width:400px;                                                    /* Anchura de 400px*/
+    min-height:500px;                                               /* Altura mínima de 500 píxeles */
+    height:auto;                                                    /*La altura se ajustará automáticamente al contenido, siempre y cuando sea mayor que la altura mínima */
+    background:rgba(255,255,255,0.1);                             /*Color de fondo blanco con opacidad del 10% (RGBA permite transparencia) */
+    box-sizing:border-box;                                          /*El margen crece hacia dentro y no hacia afuera*/
+    padding:30px;                                                   /*Tiene un margen interior de 30 pixeles */
+    position:absolute;                                              /*Esta posicionado de forma absoluta */
+    top:50%;                                                        /*Su centro (la esquina esta al 50% en horizontal*/
+    left:50%;                                                       /*Su centro esta al 50% en vertical */
+    transform: translate(-50%, -50%);                               /*  Mueve el elemento un 50% hacia la izquierda y hacia arriba para centrarlo exactamente en el contenedor */
+    backdrop-filter:blur(15px);                                     /*Lo que se ve por detras del conteedor está desenfocado */
+    text-align:center;                                              /*El contenido del texto está alineado al centro */
+    color:white;                                                  /*El color del texto es blanco */
+    font-family:sans-serif;                                         /*La familia de fuentes es letra de palo*/
+    border: 1px solid rgba(255, 255, 255, 0.3);                   /* Borde de 1 píxel sólido con color blanco con opacidad del 30%*/
+    border-radius:20px;                                             /*Le pongo un radio de 20 pixeles a la caja */
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);                      /* Aplica una sombra con un desenfoque de 30 píxeles y una opacidad del 20%, para darle un efecto de elevación*/
+}
+input[type="email"],[type="password"],[type="submit"]{
+    width:100%;                                                     /* Tiene una anchura del 100%*/
+    margin:10px 0px;                                                /* Margen vertical pero no horizontal*/
+    padding:10px 0px;                                               /* Margen interior vertical pero no horizontal*/
+    border:none;                                                    /*No tiene borde */
+    background:rgba(0, 0, 0, 0);                                  /*No tienen fondo */
+    border-bottom:1px solid white;                                /* Solo le pone borde en la parte de bajo una línea blanca*/
+    outline:none;                                                   /*No quiero que aparezca el contorno al entrar */
+    color:white;                                                  /*El color del texto es blanco */
+    font-weight:bold;                                               /*La fuente será negrita*/
+    font-size:20px;                                                 /*El tamaño de la letra será de 20 pixeles*/
+}
+input::placeholder{
+    color:white;                                                  /*El placeholder el input también lo quiero blanco */
+}
+h1{
+    font-size:50px;                                                 /* Aumento el titulo al nivel 1*/
+}
+input[type=submit]{
+    background:white;                                             /*Fondo blanco para el boton*/
+    border:none;                                                    /*No quiero borde*/
+    color:black;                                                  /*Color de la letra es negro*/
+    border-radius:50px;                                             /*Le pongo un borde muy grande redondeado al boton*/
+}
+input[type=email]{
+    background:url(../img/email.png);                                      /*Le pongo la imagen del sobre*/
+    background-repeat:no-repeat;                                    /*No quiero que la imagen se repita*/
+    background-position: right center;                              /*La imagen estará a la derecha y en el centro*/
+    background-size: 48px;                                          /*El tamaño de la imagen es de 48 px*/
+}input[type=password]{
+    background:url(../img/password.png);                                   /**/
+    background-repeat:no-repeat;                                    /**/
+    background-position: right center;                              /**/
+    background-size: 48px;                                          /**/
+}
+a{
+    text-decoration:none;                                           /*Le quito el subrayado al enlace*/
+    color:inherit;                                                  /*Le quito el color azul por defecto*/
+    font-weight:bold;                                               /*La letra es negrita*/
+}

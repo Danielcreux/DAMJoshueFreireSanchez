@@ -1,0 +1,138 @@
+Consulta de base de datos 
+
+SELECT `ip:address` , COUNT(`ip_address`) FROM apache_logs
+GROUP BY `ip_address`
+ORDER BY COUNT(`ip_address`) DESC;
+LIMIT 10 
+
+Para saber el momento en que nos visitaron en la web
+
+SELECT 
+        DATE_FORMAT(timestamp, '%y-%m-%d %H:00:00') AS hora,
+        COUNT(*) AS numero 
+FROM 
+        apache_logs
+WHERE virtualhost = 'oldlice'
+GROUP BY
+       DATE_FORMAT(timestamp, '%y-%m-%d %H:00:00')
+ORDER BY 
+      hora;
+
+Crear procedimientos 
+DELIMITER //
+
+CREATE PROCEDURE VisitasPorHora(
+	IN virtualHostName  VARCHAR(255)
+)
+BEGIN 
+       SELECT 
+          DATE_FORMAT(timestamp, '%y-%m-%d %H:00:00') AS clave
+          COUNT(*) AS valor
+FROM 
+        apache_logs
+WHERE
+         virtualhost = virtualHostName
+GROUP BY
+       DATE_FORMAT(timestamp, '%y-%m-%d %H:00:00')
+ORDER BY 
+      clave
+END //
+
+DELIMITER ;
+
+
+Consulta de los navegadores que visitan tu pagina web
+
+SELECT 
+	CASE 
+		WHEN user_agent LIKE '%Chrome%' THEN 'Chrome'
+		WHEN user_agent LIKE '%Safari%' AND user_agent NOT LIKE 		'%Chrome%' THEN 'Safari'
+		WHEN user_agent LIKE '%Firefox%' THEN 'Firefox'
+		WHEN user_agent LIKE '%Edge%' THEN 'Edge'
+		ELSE 'Other'
+	END AS clave,
+	COUNT(*) AS valor 
+FROM apache_logs
+WHERE apache_logs.virtualhost LIKE '%freire%'
+GROUP BY clave 
+ORDER BY valor DESC;
+
+Crear procedimiento de las visitas de navegador 
+
+DELIMITER // 
+ 
+CREATE PROCEDURE GetBrowserStatsVirtualHost(
+	IN virtualHostFilter VARCHAR(255)
+)
+
+BEGIN 
+	SELECT 
+		CASE 
+		WHEN user_agent LIKE '%Chrome%' THEN 'Chrome'
+		WHEN user_agent LIKE '%Safari%' AND user_agent NOT LIKE 		                                '%Chrome%' THEN 'Safari'
+		WHEN user_agent LIKE '%Firefox%' THEN 'Firefox'
+		WHEN user_agent LIKE '%Edge%' THEN 'Edge'
+		WHEN user_agent LIKE '%PetalBot%' THEN 'PetalBot'
+		ELSE 'Other'
+	END AS clave,
+	COUNT(*) AS valor 
+    FROM apache_logs
+   WHERE apache_logs.virtualhost LIKE CONCAT ( '%', virtualHostFilter, '%')
+   GROUP BY clave 
+   ORDER BY valor DESC;
+END //
+
+DELIMITER ; 
+
+
+Para saber los sistemas operativos  que hay en la base de datos 
+
+DELIMITER // 
+ 
+CREATE PROCEDURE SistemasOperativos(
+	IN input_virtualhost VARCHAR(255)
+)
+
+BEGIN 
+    SELECT 
+	CASE 
+		WHEN user_agent LIKE '%Windows%' THEN 'Windows'
+		WHEN user_agent LIKE '%Macintosh%' THEN 'MacOS'
+		WHEN user_agent LIKE '%Linux%' AND user_agent NOT LIKE '%Android%' THEN 'Linux'
+		WHEN user_agent LIKE '%Android%' THEN 'Android'
+		WHEN user_agent LIKE '%iPhone%' OR user_agent LIKE '%iPad%' THEN 'iOS' 
+		ELSE 'Other'
+	END AS clave,
+	COUNT(*) AS valor 
+FROM apache_logs
+WHERE virtualhost LIKE CONCAT ( '%', input_virtualhost, '%')
+GROUP BY clave
+ORDER BY valor DESC;
+END //
+
+DELIMITER ; 
+
+
+SELECT `status_code` AS clave, COUNT(status_code)AS valor FROM `apache_logs` GROUP BY status_code ORDER BY valor 
+
+
+DELIMITER $$
+
+CREATE PROCEDURE CodigosDeEstado(IN virtualHostName VARCHAR(255))
+BEGIN 
+	SELECT
+		`status_code`  AS clave,
+		COUNT(`status_code` ) AS valor
+	FROM
+		`apache_logs`
+	WHERE
+		`virtualhost` LIKE CONCAT ('%', virtualHostName, '%')
+	GROUP BY 
+		`status_code` 
+	ORDER BY
+		valor DESC;
+END$$
+
+DELIMITER ;
+		
+		

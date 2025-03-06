@@ -1,0 +1,3 @@
+CREATE USER 'thistle'@'localhost' IDENTIFIED BY 'Th!stl3@2025';
+GRANT ALL PRIVILEGES ON *.* TO 'thistle'@'localhost' WITH GRANT OPTION;
+FLUSH PRIVILEGES;

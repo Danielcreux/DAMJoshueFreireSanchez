@@ -35,7 +35,7 @@
             </article>
         </div>
         <div id="botonera"></div>
-        <div id="carrusel2"></div>
+          <div id="carrusel2">
              <article>
                 <button>Call to action</button>
                 <p>Pequeño texto</p>
@@ -68,7 +68,7 @@
                 <button>Call to action</button>
                 <p>Pequeño texto</p>
             </article>
-    </div>
+       </div>
 </section>
 
 <script>

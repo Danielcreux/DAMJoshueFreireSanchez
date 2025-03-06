@@ -1,0 +1,23 @@
+{
+    "cliente": {
+        "nombre": "",
+        "apellidos": "",
+        "email": ""
+    },
+    "pedido": {
+        "fecha": "2025-2-10",
+        "numerodepedido": "2025210164355"
+    },
+    "productos": [
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        },
+        {
+            "nombre": "Industria",
+            "descripcion": "Industria",
+            "precio": "80.00"
+        }
+    ]
+}

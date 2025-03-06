@@ -1,0 +1,1 @@
+Este archivo guarda la configuracion de conexion a base de datos del proyecto

@@ -1,0 +1,24 @@
+
+#carrusel2{
+	width:1000%;
+	
+	position:relative;
+}
+#carrusel2 article{
+	width:340px;
+	min-height:300px;
+	background:blue;
+	color:white;
+	display:inline-block;
+	box-sizing:border-box;
+	padding:40px;
+}
+.animado2{
+	animation:muevecontinuo 190s;
+	animation-timing-function:linear;
+}
+@keyframes muevecontinuo{
+	0%{left:0px;}
+	100%{left:-10240px;}
+}
+

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>A-Frame Interactive Box Grid with Pointer Lock</title>
+    <!-- A-Frame 1.6.0 -->   
+    <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        user-select: none;
+      }
+
+      #instruction {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.7);
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 24px;
+        text-align: center;
+        z-index: 1;
+        cursor: pointer;
+      }
+
+      #instruction.hidden {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="instruction">Click to enter VR / Engage Pointer Lock</div>
+
+   <a-scene physics="gravity: -9.8;">
+  <a-assets>
+    <!-- Define a mixin for box materials -->
+    <a-mixin id="material1" material="src: bloque.jpg; color: #ffcccc;"></a-mixin>
+    <a-mixin id="material2" material="src: bloque.jpg; color: #ccffcc;"></a-mixin>
+    <a-mixin id="material3" material="src: bloque.jpg; color: #ccccff;"></a-mixin>
+  </a-assets>
+
+  <!-- Nueva iluminación para evitar el error de useLegacyLights -->
+  <a-light type="ambient" color="#888"></a-light>
+  <a-light type="directional" color="#FFF" position="2 4 3"></a-light>
+
+  <!-- Sky -->
+  <a-sky color="#ECECEC"></a-sky>
+
+  <!-- Player rig -->
+  <a-entity id="player" dynamic-body="mass: 5; shape: box;" position="0 1 0" wasd-controls look-controls>
+    <a-entity id="camera" camera>
+      <a-cursor id="cursor" fuse="false" raycaster="objects: .clickable" material="color: black; shader: flat"
+        geometry="primitive: ring; radiusInner: 0.005; radiusOuter: 0.01">
+      </a-cursor>
+    </a-entity>
+  </a-entity>
+</a-scene>
+
+
+    <script>
+      let memoria = [];
+
+      window.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+      });
+
+      const sceneEl = document.querySelector("a-scene");
+      const cameraEl = document.querySelector("#camera");
+      const instructionEl = document.getElementById("instruction");
+
+      function createBox(position, id, material) {
+        const caja = document.createElement("a-box");
+
+        // Asignar el mixin basado en el color
+        caja.setAttribute("mixin", material);
+
+        caja.setAttribute("position", position);
+        caja.setAttribute("rotation", "0 0 0");
+        caja.setAttribute("class", "clickable");
+        caja.setAttribute("depth", "1");
+        caja.setAttribute("height", "1");
+        caja.setAttribute("width", "1");
+        caja.setAttribute("identificador", id);
+
+        caja.addEventListener("click", function () {
+          caja.parentNode.removeChild(caja);
+          memoria.splice(id, 1);
+          localStorage.setItem("memoria", JSON.stringify(memoria));
+        });
+
+        caja.addEventListener("contextmenu", function (event) {
+          event.preventDefault();
+
+          const currentPosition = caja.getAttribute("position");
+          const newPosition = {
+            x: currentPosition.x,
+            y: currentPosition.y + 1,
+            z: currentPosition.z,
+          };
+          createBox(`${newPosition.x} ${newPosition.y} ${newPosition.z}`, Date.now(), material);
+        });
+
+        sceneEl.appendChild(caja);
+      }
+
+      // Inicializar memoria
+      if (localStorage.getItem("memoria") == null) {
+        console.log("No hay memoria previa, cargo una nueva");
+        const gridSize = 5;
+        for (let x = -gridSize; x <= gridSize; x++) {
+          for (let z = -gridSize; z <= gridSize; z++) {
+            for (let y = -2; y <= 0; y++) {
+              // Asignar colores aleatorios
+              const colors = ["material1", "material2", "material3"];
+              const randomColor = colors[Math.floor(Math.random() * colors.length)];
+              memoria.push({ x, y, z, color: randomColor });
+            }
+          }
+        }
+      } else {
+        console.log("Sí que hay memoria previa, cargo la memoria existente");
+        memoria = JSON.parse(localStorage.getItem("memoria"));
+      }
+
+      // Guardar la memoria en localStorage
+      localStorage.setItem("memoria", JSON.stringify(memoria));
+
+      // Crear las cajas a partir de la memoria
+      memoria.forEach(function (celda, index) {
+        createBox(`${celda.x} ${celda.y} ${celda.z}`, index, celda.color);
+      });
+
+      // Funcionalidad de Pointer Lock
+      cameraEl.addEventListener("click", function () {
+        instructionEl.classList.add("hidden");
+      });
+
+      document.addEventListener("pointerlockchange", function () {
+        if (
+          document.pointerLockElement === sceneEl.canvas ||
+          document.mozPointerLockElement === sceneEl.canvas ||
+          document.webkitPointerLockElement === sceneEl.canvas
+        ) {
+          console.log("Pointer Lock Engaged");
+          instructionEl.classList.add("hidden");
+        } else {
+          console.log("Pointer Lock Disengaged");
+          instructionEl.classList.remove("hidden");
+        }
+      });
+
+      document.addEventListener("pointerlockerror", function () {
+        alert("Error attempting to enable pointer lock.");
+        instructionEl.classList.remove("hidden");
+      });
+
+      instructionEl.addEventListener("click", function () {
+        cameraEl.emit("click");
+      });
+    </script>
+  </body>
+</html>

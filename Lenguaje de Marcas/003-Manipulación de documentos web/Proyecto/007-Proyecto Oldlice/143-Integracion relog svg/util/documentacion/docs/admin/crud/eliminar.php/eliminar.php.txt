@@ -1,0 +1,1 @@
+Nos permite eliminar lo que no deseamos en nuestra base de datos

@@ -1,0 +1,9 @@
+sudo passwd root (pongo la de siempre)
+
+sudo adduser  --home /var/html danielweb 
+sudo usermod -aG sudo danielweb 
+sudo usermod -aG www-data danielweb
+sudo reboot
+sudo apt update
+sudo apt list --upgradable
+sudo apt upgrade

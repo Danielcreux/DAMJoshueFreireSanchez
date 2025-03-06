@@ -1,0 +1,7 @@
+crontab -e
+
+denajo de #m h dom mon dow command
+* * * * * python3 /var/www/html/Tomato/tomato.py
+
+Permiso de ejecucion 
+chmod +x /var/www/html/Tomato/tomato.py

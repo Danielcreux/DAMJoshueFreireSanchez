@@ -1,0 +1,1 @@
+Permite poder movernos en el contenido del panel por medio de botones así tener una mejor orientación
