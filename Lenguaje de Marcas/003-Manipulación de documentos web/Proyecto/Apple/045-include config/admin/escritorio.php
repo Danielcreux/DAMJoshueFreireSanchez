@@ -19,7 +19,16 @@
 						</tr>
 					</thead>
 					<tbody>
-						<?php include "inc/contenido.php"; ?>
+                      <thead>
+                        <tr>
+						      <?php include "inc/contenido.php"; ?>
+							<?php include "inc/cabeceras.php"?>
+						</tr>
+					  </thead>
+                    </tbody>
+					<tbody>
+						<?php include "inc/contenido.php"?>
+
 					</tbody>
 				</table>
 			</section>

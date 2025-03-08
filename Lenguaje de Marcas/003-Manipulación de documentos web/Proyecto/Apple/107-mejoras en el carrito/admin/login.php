@@ -14,6 +14,7 @@
 
 	if ($fila = $resultado->fetch_assoc()) {		// Si es cierto que hay al menos un usuario
 	  echo '
+
 	 	<a href="escritorio.php">
 	  	      pulsa para ir al escritorio
 	  	</a>';												// Permiteme ir al escritorio

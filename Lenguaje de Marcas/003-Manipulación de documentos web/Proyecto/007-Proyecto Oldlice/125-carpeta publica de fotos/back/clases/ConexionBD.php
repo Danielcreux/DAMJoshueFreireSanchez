@@ -10,7 +10,7 @@
 						"localhost", 
 						"oldlice", 
 						"oldlice", 
-						"proyectoapple"
+                        "oldlice"
 					);	
 				}
 			// Otros métodos que necesito

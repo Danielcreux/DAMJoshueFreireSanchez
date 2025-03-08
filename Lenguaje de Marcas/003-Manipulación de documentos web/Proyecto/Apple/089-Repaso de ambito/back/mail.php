@@ -57,6 +57,7 @@ if (mail($to, $subject, $body, $headers)) {
     echo $jsonData;
 
 
+
 } else {
     echo "Hubo un problema al enviar el correo.";
 }

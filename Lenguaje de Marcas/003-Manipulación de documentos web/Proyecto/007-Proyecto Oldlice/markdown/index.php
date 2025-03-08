@@ -6,13 +6,14 @@
 ?>
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Conversión Markdown a HTML</title>
-</head>
-<body>
-<?php
-echo $htmlContent;
-?>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Conversión Markdown a HTML</title>
+    </head>
+    <body>
+        <?php
+        echo $htmlContent;
+        ?>
+    </body>
+
 </html>

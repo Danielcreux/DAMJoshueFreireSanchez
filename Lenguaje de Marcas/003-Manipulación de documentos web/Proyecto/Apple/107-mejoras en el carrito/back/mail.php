@@ -2,9 +2,6 @@
 // Establece el tipo de contenido como JSON para la respuesta
 header("Content-Type: application/json");
 
-error_reporting(0); // Desactiva la visualización de errores
-ini_set('display_errors', 0); // Desactiva la visualización de errores
-
 // Verifica si los campos necesarios están presentes
 if (!isset($_POST['nombre']) || !isset($_POST['email']) || !isset($_POST['asunto']) || !isset($_POST['mensaje'])) {
     echo json_encode(["error" => "Todos los campos son obligatorios."]);
@@ -12,6 +9,7 @@ if (!isset($_POST['nombre']) || !isset($_POST['email']) || !isset($_POST['asunto
 }
 
 // Recoge los datos del formulario
+
 $nombre = htmlspecialchars($_POST['nombre']);
 $email = htmlspecialchars($_POST['email']);
 $asunto = htmlspecialchars($_POST['asunto']);
@@ -25,9 +23,11 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
 // Componer el correo
 $to = "jd2000_fs@hotmail.com"; // Cambia a tu dirección de correo
-$subject = "Nuevo mensaje de contacto: $asunto";
-$body = "Nombre: $nombre\nEmail: $email\n\nMensaje:\n$mensaje";
-$headers = "From: $email\r\nReply-To: $email\r\n";
+// Validate email
+if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    echo "El correo electrónico no es válido.";
+    exit;
+}
 
 // Guarda los datos en un archivo JSON
 $archivo = fopen("mail/" . date('U') . ".json", "w");
@@ -41,6 +41,7 @@ if ($archivo) {
 
 // Intenta enviar el correo
 if (mail($to, $subject, $body, $headers)) {
+
     $data = [
         "nombre" => $nombre,
         "email" => $email,
@@ -57,3 +58,4 @@ if (mail($to, $subject, $body, $headers)) {
     echo json_encode(["error" => "Hubo un problema al enviar el correo."]);
 }
 ?>
+
